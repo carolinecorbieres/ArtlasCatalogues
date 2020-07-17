@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  <fo:block/>
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>COMITÉ</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>BUREAU:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Président:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Paul</fo:inline>
+            
+            <fo:inline>SIGNAC,</fo:inline>
+            
+            <fo:inline>14,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>Fontaine</fo:inline>
+            
+            <fo:inline>(16e).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Vice</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Maximilien</fo:inline>
+            
+            <fo:inline>LUCE,</fo:inline>
+            
+            <fo:inline>102,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Boileau</fo:inline>
+            
+            <fo:inline>(16e).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Luc-Albert</fo:inline>
+            
+            <fo:inline>MOREAU,</fo:inline>
+            
+            <fo:inline>15,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>du</fo:inline>
+            
+            <fo:inline>Cherche-Midi</fo:inline>
+            
+            <fo:inline>(6e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Trésorier:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>André</fo:inline>
+            
+            <fo:inline>LÉVEILLÉ,</fo:inline>
+            
+            <fo:inline>18,</fo:inline>
+            
+            <fo:inline>boulevard</fo:inline>
+            
+            <fo:inline>Magenta</fo:inline>
+            
+            <fo:inline>(10e).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Trésorier</fo:inline>
+            
+            <fo:inline font-style="italic">Adjoint:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Georges</fo:inline>
+            
+            <fo:inline>SCHREIBER,</fo:inline>
+            
+            <fo:inline>3,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Jules-César</fo:inline>
+            
+            <fo:inline>(12e).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Secrétaire</fo:inline>
+            
+            <fo:inline font-style="italic">rapporteur:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Charles</fo:inline>
+            
+            <fo:inline>JACQUEMOT,</fo:inline>
+            
+            <fo:inline>10,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Seveste</fo:inline>
+            
+            <fo:inline>(18e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Membres:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ALIX</fo:inline>
+            
+            <fo:inline>(Yves),</fo:inline>
+            
+            <fo:inline>4,</fo:inline>
+            
+            <fo:inline>Iue</fo:inline>
+            
+            <fo:inline>Bellgni</fo:inline>
+            
+            <fo:inline>(15e).</fo:inline>
+            
+            <fo:inline>Eæ</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>BONFTRB</fo:inline>
+            
+            <fo:inline>PIE7</fo:inline>
+            
+            <fo:inline>6</fo:inline>
+            
+            <fo:inline>7re</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Varrze</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(16e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>DUNOYER</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>SEGONZAC,</fo:inline>
+            
+            <fo:inline>66,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Rennes</fo:inline>
+            
+            <fo:inline>(6e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>DUPONT</fo:inline>
+            
+            <fo:inline>(Victor),</fo:inline>
+            
+            <fo:inline>2,</fo:inline>
+            
+            <fo:inline>passage</fo:inline>
+            
+            <fo:inline>Dantzig.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(15e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>JANSSAUD</fo:inline>
+            
+            <fo:inline>(Mathurin),</fo:inline>
+            
+            <fo:inline>15,</fo:inline>
+            
+            <fo:inline>impasse</fo:inline>
+            
+            <fo:inline>du</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Mont-Tonnerre</fo:inline>
+            
+            <fo:inline>(15e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>LADUREAU</fo:inline>
+            
+            <fo:inline>(Pierre),</fo:inline>
+            
+            <fo:inline>12,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>l’Ar</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>morique</fo:inline>
+            
+            <fo:inline>(15e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>LÉGER</fo:inline>
+            
+            <fo:inline>(Fernand),</fo:inline>
+            
+            <fo:inline>86,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Notre</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>des-Champs</fo:inline>
+            
+            <fo:inline>(6e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>LHOTE</fo:inline>
+            
+            <fo:inline>(André),</fo:inline>
+            
+            <fo:inline>38</fo:inline>
+            
+            <fo:inline font-style="italic">bis,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Boulard</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(14e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>MARCHAND</fo:inline>
+            
+            <fo:inline>(Jean),</fo:inline>
+            
+            <fo:inline>73,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Caulain</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>court</fo:inline>
+            
+            <fo:inline>(18e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>PARENT</fo:inline>
+            
+            <fo:inline>(Léon),</fo:inline>
+            
+            <fo:inline>9,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>Apennins</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(17e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>REYMOND</fo:inline>
+            
+            <fo:inline>(Carlos),</fo:inline>
+            
+            <fo:inline>7,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Daru</fo:inline>
+            
+            <fo:inline>(8e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>TURIN</fo:inline>
+            
+            <fo:inline>(André),</fo:inline>
+            
+            <fo:inline>12,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>Pyramides</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(1er).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>URBAIN</fo:inline>
+            
+            <fo:inline>(Alexandre,</fo:inline>
+            
+            <fo:inline>21,</fo:inline>
+            
+            <fo:inline>quai</fo:inline>
+            
+            <fo:inline>Bour</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>bon</fo:inline>
+            
+            <fo:inline>(4e),</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ADMINISTRATION:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Secrétaire</fo:inline>
+            
+            <fo:inline font-style="italic">général:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Charles</fo:inline>
+            
+            <fo:inline>IGOUNET</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>VILLERS,</fo:inline>
+            
+            <fo:inline>77,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Dareau</fo:inline>
+            
+            <fo:inline>(14e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Secrétariat</fo:inline>
+            
+            <fo:inline font-style="italic">et</fo:inline>
+            
+            <fo:inline font-style="italic">Archives:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Émile</fo:inline>
+            
+            <fo:inline>VIGIER,</fo:inline>
+            
+            <fo:inline>19,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>Trois-Bornes</fo:inline>
+            
+            <fo:inline>(11e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Comptabilité:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Julien</fo:inline>
+            
+            <fo:inline>LAGOUTTE,</fo:inline>
+            
+            <fo:inline>41,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>l’Échiquier</fo:inline>
+            
+            <fo:inline>(10e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Conseil</fo:inline>
+            
+            <fo:inline font-style="italic">juridique:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(</fo:inline>
+            
+            <fo:inline>Me</fo:inline>
+            
+            <fo:inline>Georges</fo:inline>
+            
+            <fo:inline>BATY,</fo:inline>
+            
+            <fo:inline>huissier</fo:inline>
+            
+            <fo:inline>près</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>tribunaux,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>.</fo:inline>
+            
+            <fo:inline>.</fo:inline>
+            
+            <fo:inline>.</fo:inline>
+            
+            <fo:inline>771.</fo:inline>
+            
+            <fo:inline/>
+            
+            <fo:inline>20,</fo:inline>
+            
+            <fo:inline>place</fo:inline>
+            
+            <fo:inline>d’Italie</fo:inline>
+            
+            <fo:inline>(13e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Officiers</fo:inline>
+            
+            <fo:inline font-style="italic">ministeriels{</fo:inline>
+            
+            <fo:inline>Me</fo:inline>
+            
+            <fo:inline>Eugène</fo:inline>
+            
+            <fo:inline>CAHON,</fo:inline>
+            
+            <fo:inline>avoué</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>1re</fo:inline>
+            
+            <fo:inline>instance,</fo:inline>
+            
+            <fo:inline>25,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>1</fo:inline>
+            
+            <fo:inline>Gay-Lussac</fo:inline>
+            
+            <fo:inline>(5e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Me</fo:inline>
+            
+            <fo:inline>Gustave</fo:inline>
+            
+            <fo:inline>FORTIER,</fo:inline>
+            
+            <fo:inline>avocat</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>Cour</fo:inline>
+            
+            <fo:inline>d’appel,</fo:inline>
+            
+            <fo:inline>22,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>Gay-Lussac</fo:inline>
+            
+            <fo:inline>(5e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>M.</fo:inline>
+            
+            <fo:inline>le</fo:inline>
+            
+            <fo:inline>docteur</fo:inline>
+            
+            <fo:inline>PAUL-MANCEAU,</fo:inline>
+            
+            <fo:inline>avocat,</fo:inline>
+            
+            <fo:inline>12,</fo:inline>
+            
+            <fo:inline>rue</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Bellechasse</fo:inline>
+            
+            <fo:inline>(7e).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SIÈGE</fo:inline>
+            
+            <fo:inline>SOCIAL:</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">18,</fo:inline>
+            
+            <fo:inline font-weight="bold">Rue</fo:inline>
+            
+            <fo:inline font-weight="bold">Mazarine,</fo:inline>
+            
+            <fo:inline font-weight="bold">PARIS</fo:inline>
+            
+            <fo:inline font-weight="bold">(VIe)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Permanence</fo:inline>
+            
+            <fo:inline>tous</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>samedis</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>2</fo:inline>
+            
+            <fo:inline>h.</fo:inline>
+            
+            <fo:inline>1/2</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>5</fo:inline>
+            
+            <fo:inline>heures,</fo:inline>
+            
+            <fo:inline>sauf</fo:inline>
+            
+            <fo:inline>pendant</fo:inline>
+            
+            <fo:inline>l’Exposition</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>mois</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>juillet,</fo:inline>
+            
+            <fo:inline>août</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>septembre.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Pendant</fo:inline>
+            
+            <fo:inline>l’Exposition,</fo:inline>
+            
+            <fo:inline>adresser</fo:inline>
+            
+            <fo:inline>toute</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>correspondance</fo:inline>
+            
+            <fo:inline>au</fo:inline>
+            
+            <fo:inline>Grand</fo:inline>
+            
+            <fo:inline>Palais.</fo:inline>
+          </fo:block>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>
