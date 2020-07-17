@@ -16,6 +16,6 @@ This repository is CC-BY.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br/>
 
-## Cite this dataset
+## Cite this repository
 
 Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, _Worklow to encode exhibition catalogues_, 2020, https://github.com/carolinecorbieres/ArtlasCatalogues.
