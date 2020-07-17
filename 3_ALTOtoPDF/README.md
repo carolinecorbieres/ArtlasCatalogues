@@ -68,7 +68,7 @@ Now, you need to create a transformation scenario using XEP processor (you just 
   
   <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-8.png" width="50%">
   
-  **4.** In `Processeur FO` tab, click on `exécuter le traitement FO` and select `Méthode: pdf`and `Processeur: XEP`.
+  **4.** In `Processeur FO` tab, click on `exécuter le traitement FO` and select `Méthode: pdf` and `Processeur: XEP`.
   
   <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-9.png" width="50%">
   
@@ -121,7 +121,7 @@ Finally you need to put all your PDF pages together by using `cpdf` (Coherent PD
    
   - Put all your PDF pages together. 
    ```
-   ./cpdf -merge -idir ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/ -o ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/exhibCat_NAME_OF_THE_CATALOGUE.pdf
+   ./cpdf -merge -idir ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/ -o ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/exhibCat_NAME_OF_THE_CATALOGUE-FO.pdf
    ```
 
 
