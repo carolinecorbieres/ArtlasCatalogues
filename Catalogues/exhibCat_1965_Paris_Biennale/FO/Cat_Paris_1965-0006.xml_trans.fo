@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">SOMMAIRE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>IIl.</fo:inline>
+            
+            <fo:inline>COMPOSITION</fo:inline>
+            
+            <fo:inline>MUSICALE</fo:inline>
+            
+            <fo:inline>160</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>IV.</fo:inline>
+            
+            <fo:inline>THÉATRE</fo:inline>
+          </fo:block>
+        
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Spectacles........</fo:inline>
+            
+            <fo:inline>166</fo:inline>
+            
+            <fo:inline>Décoration</fo:inline>
+            
+            <fo:inline>théâtrale.</fo:inline>
+            
+            <fo:inline>168</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>V.</fo:inline>
+            
+            <fo:inline>FILMS</fo:inline>
+            
+            <fo:inline>SUR</fo:inline>
+            
+            <fo:inline>L’ART</fo:inline>
+            
+            <fo:inline>174</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>VI.</fo:inline>
+            
+            <fo:inline>TÉLEVISION</fo:inline>
+            
+            <fo:inline>179</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>VIl.</fo:inline>
+            
+            <fo:inline>ÉMISSIONS</fo:inline>
+            
+            <fo:inline>PUBLIQUES</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>L’ORTF.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Jeunes</fo:inline>
+            
+            <fo:inline>Poètes</fo:inline>
+            
+            <fo:inline>....</fo:inline>
+            
+            <fo:inline>184</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Jeunes</fo:inline>
+            
+            <fo:inline>Virtuoses</fo:inline>
+            
+            <fo:inline>..</fo:inline>
+            
+            <fo:inline>184</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Service</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Recherche</fo:inline>
+            
+            <fo:inline>......</fo:inline>
+            
+            <fo:inline>184</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Lectures</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>une</fo:inline>
+            
+            <fo:inline>voix</fo:inline>
+            
+            <fo:inline>185</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Cabaret</fo:inline>
+            
+            <fo:inline>littéraire</fo:inline>
+            
+            <fo:inline>..</fo:inline>
+            
+            <fo:inline>185</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Jazz</fo:inline>
+            
+            <fo:inline>..........</fo:inline>
+            
+            <fo:inline>185</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>VIII.</fo:inline>
+            
+            <fo:inline>COLLOQUES</fo:inline>
+            
+            <fo:inline>187</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>IX.</fo:inline>
+            
+            <fo:inline>FORUM</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Jeux</fo:inline>
+            
+            <fo:inline>d’Art</fo:inline>
+            
+            <fo:inline>Visuel..</fo:inline>
+            
+            <fo:inline>188</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Art</fo:inline>
+            
+            <fo:inline>dynamique</fo:inline>
+            
+            <fo:inline>visuel</fo:inline>
+            
+            <fo:inline>188</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Livres</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>Revues</fo:inline>
+            
+            <fo:inline>188</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bar.</fo:inline>
+            
+            <fo:inline>188</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>MANIFESTATIONS</fo:inline>
+            
+            <fo:inline>ANNEXES</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>«A»</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Dyens</fo:inline>
+            
+            <fo:inline>:</fo:inline>
+            
+            <fo:inline>Sculptures..</fo:inline>
+            
+            <fo:inline>192</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>R.</fo:inline>
+            
+            <fo:inline>Creuze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>Figuration</fo:inline>
+            
+            <fo:inline>narrative</fo:inline>
+            
+            <fo:inline>dans</fo:inline>
+            
+            <fo:inline>l’art</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>contemporain</fo:inline>
+            
+            <fo:inline>193</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>l’Entremonde</fo:inline>
+            
+            <fo:inline>Un</fo:inline>
+            
+            <fo:inline>groupe</fo:inline>
+            
+            <fo:inline>homogène......</fo:inline>
+            
+            <fo:inline>193</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>France</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Maryan</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Cuvres</fo:inline>
+            
+            <fo:inline>récentes......</fo:inline>
+            
+            <fo:inline>194</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Florence</fo:inline>
+            
+            <fo:inline>Houston-Brown</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Krasno</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Paris..</fo:inline>
+            
+            <fo:inline>194</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>Jeunes</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Peintres</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>Galerie........</fo:inline>
+            
+            <fo:inline>195</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Lacloche</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Studio</fo:inline>
+            
+            <fo:inline>meublé</fo:inline>
+            
+            <fo:inline>place</fo:inline>
+            
+            <fo:inline>Vendôme..</fo:inline>
+            
+            <fo:inline>195</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Lambert</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Jeunes</fo:inline>
+            
+            <fo:inline>Peintres</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>cinq</fo:inline>
+            
+            <fo:inline>pays....</fo:inline>
+            
+            <fo:inline>196</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Françoise</fo:inline>
+            
+            <fo:inline>Ledoux</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Gouaches</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>dessins..</fo:inline>
+            
+            <fo:inline>197</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Claude</fo:inline>
+            
+            <fo:inline>Levin</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>De</fo:inline>
+            
+            <fo:inline>63</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>65...</fo:inline>
+            
+            <fo:inline>........</fo:inline>
+            
+            <fo:inline>197</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Neuf</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Neuf</fo:inline>
+            
+            <fo:inline>peintres</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>Biennale........</fo:inline>
+            
+            <fo:inline>198</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Peintres</fo:inline>
+            
+            <fo:inline>du</fo:inline>
+            
+            <fo:inline>Monde</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Huit</fo:inline>
+            
+            <fo:inline>peintres</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>Bien</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>nale</fo:inline>
+            
+            <fo:inline>choisis</fo:inline>
+            
+            <fo:inline>par</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>Jeune</fo:inline>
+            
+            <fo:inline>Critique..............</fo:inline>
+            
+            <fo:inline>198</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Le</fo:inline>
+            
+            <fo:inline>Soleil</fo:inline>
+            
+            <fo:inline>dans</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>tête</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Dessins</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>artistes</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>invités</fo:inline>
+            
+            <fo:inline>par</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>Jeune</fo:inline>
+            
+            <fo:inline>Critique......</fo:inline>
+            
+            <fo:inline>199</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>du</fo:inline>
+            
+            <fo:inline>Tournesol</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Un</fo:inline>
+            
+            <fo:inline>an</fo:inline>
+            
+            <fo:inline>d’existence........</fo:inline>
+            
+            <fo:inline>199</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Transposition</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Requiem.................</fo:inline>
+            
+            <fo:inline>200</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Galerie</fo:inline>
+            
+            <fo:inline>Zunini</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Sept</fo:inline>
+            
+            <fo:inline>jeunes</fo:inline>
+            
+            <fo:inline>sculpteurs.......</fo:inline>
+            
+            <fo:inline>201</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Librairie</fo:inline>
+            
+            <fo:inline>Nicaise</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Yves</fo:inline>
+            
+            <fo:inline>lobert</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>Impénitents....</fo:inline>
+            
+            <fo:inline>201</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Maison</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>Beaux-Arts</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Prix</fo:inline>
+            
+            <fo:inline>Lefranc</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>Jeune</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Peinture</fo:inline>
+            
+            <fo:inline>202</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Musée</fo:inline>
+            
+            <fo:inline>Galliera</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Promesses</fo:inline>
+            
+            <fo:inline>tenues....</fo:inline>
+            
+            <fo:inline>202</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>INDEX</fo:inline>
+            
+            <fo:inline>DES</fo:inline>
+            
+            <fo:inline>ARTISTES</fo:inline>
+            
+            <fo:inline>203</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>5</fo:inline>
+          </fo:block>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

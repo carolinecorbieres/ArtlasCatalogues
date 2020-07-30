@@ -1,0 +1,43 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1965-0180.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-07-02T15:32:35.824+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="672.6614173228346" WIDTH="320.88188976377955">
+      <PrintSpace HEIGHT="672.6614173228346" WIDTH="320.88188976377955" VPOS="0.0" HPOS="0.0">
+        <TextBlock ID="region_1593692517233_4504" HEIGHT="15.590551181102363" WIDTH="110.26771653543307" VPOS="23.811023622047244" HPOS="202.6771653543307">
+          <TextLine ID="line_1593692517249_4507" BASELINE="139" HEIGHT="15.590551181102363" WIDTH="110.26771653543307" VPOS="23.811023622047244" HPOS="202.6771653543307">
+            <String HEIGHT="15.590551181102363" WIDTH="123.30708661417323" VPOS="23.811023622047244" HPOS="189.63779527559055" CONTENT="TÉLÉVISION" ID="line_1593692517249_4507_1" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_1" HEIGHT="6.803149606299213" WIDTH="10.771653543307087" VPOS="634.6771653543307" HPOS="301.8897637795276">
+          <TextLine ID="tl_1" BASELINE="2268" HEIGHT="15.307086614173228" WIDTH="13.88976377952756" VPOS="627.5905511811023" HPOS="300.18897637795277">
+            <String HEIGHT="15.307086614173228" WIDTH="23.244094488188978" VPOS="627.5905511811023" HPOS="290.8346456692913" CONTENT="179" ID="tl_1_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="3.6850393700787403" WIDTH="213.4488188976378" VPOS="668.9763779527559" HPOS="26.078740157480315"/>
+        <GraphicalElement ID="r_4" HEIGHT="1.1338582677165354" WIDTH="26.078740157480315" VPOS="671.5275590551181" HPOS="0.0"/>
+        <GraphicalElement ID="r_5" HEIGHT="606.0472440944882" WIDTH="0.28346456692913385" VPOS="34.01574803149607" HPOS="320.59842519685037"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1965-0276.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-07-02T15:32:59.036+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="684.2834645669292" WIDTH="334.7716535433071">
+      <PrintSpace HEIGHT="594.1417322834645" WIDTH="334.7716535433071" VPOS="90.14173228346456" HPOS="0.0">
+        <TextBlock ID="r_2_1" HEIGHT="5.952755905511811" WIDTH="33.16535433070866" VPOS="628.4409448818898" HPOS="75.68503937007874">
+          <TextLine ID="tl_1" BASELINE="2254" HEIGHT="13.606299212598426" WIDTH="35.43307086614173" VPOS="625.3228346456693" HPOS="74.55118110236221">
+            <String HEIGHT="13.606299212598426" WIDTH="9.354330708661417" VPOS="625.3228346456693" HPOS="73.7007874015748" CONTENT="Firmin" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="13.606299212598426" WIDTH="0.8503937007874016" VPOS="625.3228346456693" HPOS="83.05511811023622"/>
+            <String HEIGHT="13.606299212598426" WIDTH="6.519685039370079" VPOS="625.3228346456693" HPOS="80.22047244094489" CONTENT="lan" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="13.606299212598426" WIDTH="0.8503937007874016" VPOS="625.3228346456693" HPOS="86.74015748031496"/>
+            <String HEIGHT="13.606299212598426" WIDTH="4.535433070866142" VPOS="625.3228346456693" HPOS="83.90551181102362" CONTENT="—" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="13.606299212598426" WIDTH="0.8503937007874016" VPOS="625.3228346456693" HPOS="88.44094488188976"/>
+            <String HEIGHT="13.606299212598426" WIDTH="8.503937007874017" VPOS="625.3228346456693" HPOS="85.60629921259843" CONTENT="Grand" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="13.606299212598426" WIDTH="0.8503937007874016" VPOS="625.3228346456693" HPOS="94.11023622047244"/>
+            <String HEIGHT="13.606299212598426" WIDTH="8.503937007874017" VPOS="625.3228346456693" HPOS="91.2755905511811" CONTENT="arbre" ID="tl_1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="13.606299212598426" WIDTH="0.8503937007874016" VPOS="625.3228346456693" HPOS="99.77952755905511"/>
+            <String HEIGHT="13.606299212598426" WIDTH="10.204724409448819" VPOS="625.3228346456693" HPOS="96.94488188976378" CONTENT="(France" ID="tl_1_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="13.606299212598426" WIDTH="0.8503937007874016" VPOS="625.3228346456693" HPOS="107.14960629921259"/>
+            <String HEIGHT="13.606299212598426" WIDTH="6.519685039370079" VPOS="625.3228346456693" HPOS="103.46456692913385" CONTENT="225)." ID="tl_1_7" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="r_1" HEIGHT="526.6771653543307" WIDTH="114.80314960629921" VPOS="90.14173228346456" HPOS="133.22834645669292"/>
+        <Illustration ID="r_11" HEIGHT="17.858267716535433" WIDTH="334.7716535433071" VPOS="666.4251968503937" HPOS="0.0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

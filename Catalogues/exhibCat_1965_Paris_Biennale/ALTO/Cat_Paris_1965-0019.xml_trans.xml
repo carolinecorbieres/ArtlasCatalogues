@@ -1,0 +1,35 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1965-0019.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-07-02T15:31:28.149+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="672.6614173228346" WIDTH="307.84251968503935">
+      <PrintSpace HEIGHT="672.6614173228346" WIDTH="259.0866141732283" VPOS="0.0" HPOS="0.0">
+        <GraphicalElement ID="r_3" HEIGHT="0.8503937007874016" WIDTH="45.92125984251968" VPOS="0.0" HPOS="35.43307086614173"/>
+        <GraphicalElement ID="r_4" HEIGHT="0.8503937007874016" WIDTH="120.18897637795276" VPOS="0.0" HPOS="138.89763779527559"/>
+        <GraphicalElement ID="r_5" HEIGHT="3.1181102362204722" WIDTH="158.74015748031496" VPOS="669.5433070866142" HPOS="37.41732283464567"/>
+        <GraphicalElement ID="r_6" HEIGHT="594.992125984252" WIDTH="0.8503937007874016" VPOS="35.1496062992126" HPOS="0.0"/>
+        <GraphicalElement ID="r_7" HEIGHT="0.5669291338582677" WIDTH="5.952755905511811" VPOS="10.771653543307087" HPOS="27.212598425196852"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

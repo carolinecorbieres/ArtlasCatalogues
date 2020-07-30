@@ -49,9 +49,7 @@
     </xsl:template>
 
     <!-- hide Transkribus metadata -->
-    <xsl:template match="*[local-name() = 'Description']">
-        <fo:block/>
-    </xsl:template> 
+    <xsl:template match="*[local-name() = 'Description']"/>
 
     <!-- each line is encoded in a fo:block (similar to a paragraph) -->
     <xsl:template match="*[local-name() = 'TextLine']">
@@ -64,12 +62,12 @@
 
     <!-- add each word of @CONTENT in fo:inline (similar to a line) -->
     <xsl:template match="*[local-name() = 'String']">
-        <xsl:if test="@STYLEREFS = 'FONT0'">
+        <!--   <xsl:if test="@STYLEREFS = 'FONT0'"> -->
             <fo:inline>
                 <xsl:value-of select="@CONTENT"/>
             </fo:inline>
-        </xsl:if>
-        <!-- add bold or italic : to use only with no tags Alto -->
+            <!-- </xsl:if>
+         add bold or italic : to use only with no tags Alto 
         <xsl:if test="@STYLEREFS = 'FONT1'">
             <fo:inline font-weight="bold">
                 <xsl:value-of select="@CONTENT"/>
@@ -77,9 +75,9 @@
         </xsl:if>
         <xsl:if test="@STYLEREFS = 'FONT2'">
             <fo:inline font-style="italic">
-                <xsl:value-of select="@CONTENT"/>
+                <xsl:value-of select="@CONTENT"/> 
             </fo:inline>
-        </xsl:if>
+        </xsl:if> -->
     </xsl:template>
 
 </xsl:stylesheet>

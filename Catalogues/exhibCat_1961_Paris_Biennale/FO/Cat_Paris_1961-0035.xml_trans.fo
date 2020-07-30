@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">BRÉSIL</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SCULPTURE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Mary</fo:inline>
+            
+            <fo:inline font-weight="bold">VIEIRA</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>São</fo:inline>
+            
+            <fo:inline>Paulo</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1927.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">20</fo:inline>
+            
+            <fo:inline>Rythme</fo:inline>
+            
+            <fo:inline>dans</fo:inline>
+            
+            <fo:inline>l’espace</fo:inline>
+            
+            <fo:inline>N°</fo:inline>
+            
+            <fo:inline>2,</fo:inline>
+            
+            <fo:inline>tension-expansion,</fo:inline>
+            
+            <fo:inline>1951-1959</fo:inline>
+            
+            <fo:inline>(aluminium</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>anti-corrodal,</fo:inline>
+            
+            <fo:inline>160x250x</fo:inline>
+            
+            <fo:inline>250)*</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">21</fo:inline>
+            
+            <fo:inline>Colonne</fo:inline>
+            
+            <fo:inline>centripétale,</fo:inline>
+            
+            <fo:inline>deuxième</fo:inline>
+            
+            <fo:inline>variation,</fo:inline>
+            
+            <fo:inline>1957</fo:inline>
+            
+            <fo:inline>(laiton,</fo:inline>
+            
+            <fo:inline>300x50).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>GRAVURE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Dorothy</fo:inline>
+            
+            <fo:inline font-weight="bold">BASTOS</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>São</fo:inline>
+            
+            <fo:inline>Paulo</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1931.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">22</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(xylographie,</fo:inline>
+            
+            <fo:inline>50x34).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">23</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>II,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(xylographie,</fo:inline>
+            
+            <fo:inline>49x31).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">24</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(xylographie,</fo:inline>
+            
+            <fo:inline>24x50).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Mario</fo:inline>
+            
+            <fo:inline font-weight="bold">CARNEIRO</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Paris</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1930.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">25</fo:inline>
+            
+            <fo:inline>Nature</fo:inline>
+            
+            <fo:inline>morte,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(aquatinte,</fo:inline>
+            
+            <fo:inline>30x40).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">26</fo:inline>
+            
+            <fo:inline>Paniers,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(aquatinte,</fo:inline>
+            
+            <fo:inline>35x54).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">27</fo:inline>
+            
+            <fo:inline>Nature</fo:inline>
+            
+            <fo:inline>morte,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(aquatinte,</fo:inline>
+            
+            <fo:inline>40x54).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">José</fo:inline>
+            
+            <fo:inline font-weight="bold">FERREIRA-LIMA</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Récife-Pernambuco</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1934.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">28</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>A,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(aquatinte,</fo:inline>
+            
+            <fo:inline>30x60).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">29</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>B,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(aquatinte,</fo:inline>
+            
+            <fo:inline>30x60).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">30</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>C,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(aquatinte,</fo:inline>
+            
+            <fo:inline>30x60).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Anna</fo:inline>
+            
+            <fo:inline font-weight="bold">LETYCIA</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Rio</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Janeiro</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1929.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">31</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>1,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(pointe</fo:inline>
+            
+            <fo:inline>sèche,</fo:inline>
+            
+            <fo:inline>60x50).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">32</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>2,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(aquatinte</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>pointe</fo:inline>
+            
+            <fo:inline>sèche,</fo:inline>
+            
+            <fo:inline>46x35).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">33</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>3,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(aquatinte,</fo:inline>
+            
+            <fo:inline>50x30).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Rossini</fo:inline>
+            
+            <fo:inline font-weight="bold">PEREZ</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Rio</fo:inline>
+            
+            <fo:inline>Grande</fo:inline>
+            
+            <fo:inline>Do</fo:inline>
+            
+            <fo:inline>Norte</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">34</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>5,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(pointe</fo:inline>
+            
+            <fo:inline>sèche,</fo:inline>
+            
+            <fo:inline>50x40).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">35</fo:inline>
+            
+            <fo:inline>Gravure</fo:inline>
+            
+            <fo:inline>6,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(pointe</fo:inline>
+            
+            <fo:inline>sèche,</fo:inline>
+            
+            <fo:inline>60x40).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Gilvan</fo:inline>
+            
+            <fo:inline font-weight="bold">José</fo:inline>
+            
+            <fo:inline font-weight="bold">Meira</fo:inline>
+            
+            <fo:inline font-weight="bold">Lins</fo:inline>
+            
+            <fo:inline font-weight="bold">SAMICO</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Pernambuco</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1928.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">36</fo:inline>
+            
+            <fo:inline>Daniel</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>Lions,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(xylogravure,</fo:inline>
+            
+            <fo:inline>34x48).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">37</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>Vierge</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>Palma,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(xylogravure,</fo:inline>
+            
+            <fo:inline>34x36).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">38</fo:inline>
+            
+            <fo:inline>Annonciation,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(xylogravure,</fo:inline>
+            
+            <fo:inline>28x26).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SECTION</fo:inline>
+            
+            <fo:inline>LLUSTRATION</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>LIVRES</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Darcy</fo:inline>
+            
+            <fo:inline font-weight="bold">PENTEADO</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>São</fo:inline>
+            
+            <fo:inline>Roque</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1926.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">1</fo:inline>
+            
+            <fo:inline>EEgffetgpiggς((pays</fo:inline>
+            
+            <fo:inline>du</fo:inline>
+            
+            <fo:inline>Carnaval</fo:inline>
+            
+            <fo:inline>»</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Jorge</fo:inline>
+            
+            <fo:inline>Amado,</fo:inline>
+            
+            <fo:inline>1960</fo:inline>
+            
+            <fo:inline>(encre</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SECTION</fo:inline>
+            
+            <fo:inline>DECORATION</fo:inline>
+            
+            <fo:inline>THEATRALE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Béatrice</fo:inline>
+            
+            <fo:inline font-weight="bold">TANAKA</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Cernauti</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">1</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Hamlet</fo:inline>
+            
+            <fo:inline>»,</fo:inline>
+            
+            <fo:inline>1961.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">2</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Rhinocéros</fo:inline>
+            
+            <fo:inline>»,</fo:inline>
+            
+            <fo:inline>1961.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>20</fo:inline>
+          </fo:block>
+        
+        
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

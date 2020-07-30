@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">GRANDE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SECTION</fo:inline>
+            
+            <fo:inline>TRAVAUX</fo:inline>
+            
+            <fo:inline>D’EQUIPE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">25</fo:inline>
+            
+            <fo:inline font-weight="bold">PROJET</fo:inline>
+            
+            <fo:inline font-weight="bold">POUR</fo:inline>
+            
+            <fo:inline font-weight="bold">UNE</fo:inline>
+            
+            <fo:inline font-weight="bold">ARCHITECTURE</fo:inline>
+            
+            <fo:inline font-weight="bold">FANTAS</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">TIQUE</fo:inline>
+            
+            <fo:inline>(maquette</fo:inline>
+            
+            <fo:inline>42</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>90</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>90).</fo:inline>
+            
+            <fo:inline>Department</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Fine</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Art,</fo:inline>
+            
+            <fo:inline>University</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Newcastel</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">David</fo:inline>
+            
+            <fo:inline font-weight="bold">WISE</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1943</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Whitby</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Sculpteur</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Derwent</fo:inline>
+            
+            <fo:inline font-weight="bold">WISE</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1933</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Whitby</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tagne).</fo:inline>
+            
+            <fo:inline>Sculpteur.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Stuart</fo:inline>
+            
+            <fo:inline font-weight="bold">WISE</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1943</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Whitby</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Peintre</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Vvonne</fo:inline>
+            
+            <fo:inline font-weight="bold">WISE</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Paris</fo:inline>
+            
+            <fo:inline>(France).</fo:inline>
+            
+            <fo:inline>Architecte.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">26</fo:inline>
+            
+            <fo:inline font-weight="bold">LABVRINTHE</fo:inline>
+            
+            <fo:inline font-weight="bold">OPTIQUE</fo:inline>
+            
+            <fo:inline>(maquette,</fo:inline>
+            
+            <fo:inline>102</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>90</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>90),</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Royal</fo:inline>
+            
+            <fo:inline>College</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Art.</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Barbara</fo:inline>
+            
+            <fo:inline font-weight="bold">de</fo:inline>
+            
+            <fo:inline font-weight="bold">ORFE</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1933</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Southend</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(Grande-Bretagne).</fo:inline>
+            
+            <fo:inline>Constructeur</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>verre.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Robert</fo:inline>
+            
+            <fo:inline font-weight="bold">MEADOWS</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1943</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Gloucester</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bretagne).</fo:inline>
+            
+            <fo:inline>Ingénieur.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">David</fo:inline>
+            
+            <fo:inline font-weight="bold">PORTER</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1938</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Colchester</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bretagne).</fo:inline>
+            
+            <fo:inline>Architecte.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Christopher</fo:inline>
+            
+            <fo:inline font-weight="bold">RICHARDSON</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1939</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Haywart</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Heath</fo:inline>
+            
+            <fo:inline>(Grande-Bretagne).</fo:inline>
+            
+            <fo:inline>Eclairagiste.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">27</fo:inline>
+            
+            <fo:inline font-weight="bold">bUNITE</fo:inline>
+            
+            <fo:inline font-weight="bold">D’HABITATION</fo:inline>
+            
+            <fo:inline>(maquette,</fo:inline>
+            
+            <fo:inline>61</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>90</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>90),</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>College</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Art.</fo:inline>
+            
+            <fo:inline>Leeds</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Colin</fo:inline>
+            
+            <fo:inline font-weight="bold">BRIERLY</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1942</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Rochdale</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tagne).</fo:inline>
+            
+            <fo:inline>Décorateur.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">John</fo:inline>
+            
+            <fo:inline font-weight="bold">COLLEY-SPEA/KMAN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1942</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Epsom</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(Grande-Bretagne.</fo:inline>
+            
+            <fo:inline>styliste.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Brian</fo:inline>
+            
+            <fo:inline font-weight="bold">DYSON</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1944</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Leeds</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Graphiste.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Charles</fo:inline>
+            
+            <fo:inline font-weight="bold">FOX</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1940</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Leeds</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Architecte.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Peter</fo:inline>
+            
+            <fo:inline font-weight="bold">GILBERT</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1943</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Cheshire</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tagne).</fo:inline>
+            
+            <fo:inline>Peintre.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Sarah</fo:inline>
+            
+            <fo:inline font-weight="bold">PARKER</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1943</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Leeds</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tagne).</fo:inline>
+            
+            <fo:inline>Peintre.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Clive</fo:inline>
+            
+            <fo:inline font-weight="bold">RAND</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1946</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Ipswich</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Graphiste.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Michael</fo:inline>
+            
+            <fo:inline font-weight="bold">STOTT</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1944</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Hawksworth</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bretagne).</fo:inline>
+            
+            <fo:inline>Dessinateur</fo:inline>
+            
+            <fo:inline>industriel..</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">28</fo:inline>
+            
+            <fo:inline font-weight="bold">STATION</fo:inline>
+            
+            <fo:inline font-weight="bold">BALNEAIRE</fo:inline>
+            
+            <fo:inline font-weight="bold">FLOTTANTE</fo:inline>
+            
+            <fo:inline>(maquette,</fo:inline>
+            
+            <fo:inline>94</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>101</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>104).</fo:inline>
+            
+            <fo:inline>Academy</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Art,</fo:inline>
+            
+            <fo:inline>Bath</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Kathleen</fo:inline>
+            
+            <fo:inline font-weight="bold">CUMMING</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1943.</fo:inline>
+            
+            <fo:inline>Sculpteur.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Peter</fo:inline>
+            
+            <fo:inline font-weight="bold">GREEN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1938</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Newport</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tagne).</fo:inline>
+            
+            <fo:inline>Peintre.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Vivien</fo:inline>
+            
+            <fo:inline font-weight="bold">HALAS</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1945.</fo:inline>
+            
+            <fo:inline>Metteur</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>page.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Ivor</fo:inline>
+            
+            <fo:inline font-weight="bold">HEAL</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1942.</fo:inline>
+            
+            <fo:inline>Sculpteur.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Allan</fo:inline>
+            
+            <fo:inline font-weight="bold">POULTER</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1943.</fo:inline>
+            
+            <fo:inline>Architecte.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Richard</fo:inline>
+            
+            <fo:inline font-weight="bold">YOUNG</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1942.</fo:inline>
+            
+            <fo:inline>Architecte.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>55</fo:inline>
+          </fo:block>
+        
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

@@ -1,0 +1,35 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_Paris_1965-0183.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-07-02T15:32:36.725+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="660.7559055118111" WIDTH="307.84251968503935">
+      <PrintSpace HEIGHT="660.7559055118111" WIDTH="307.84251968503935" VPOS="0.0" HPOS="0.0">
+        <GraphicalElement ID="r_2" HEIGHT="1.1338582677165354" WIDTH="215.71653543307087" VPOS="0.0" HPOS="38.55118110236221"/>
+        <GraphicalElement ID="r_3" HEIGHT="5.3858267716535435" WIDTH="118.20472440944881" VPOS="655.3700787401575" HPOS="36.28346456692913"/>
+        <GraphicalElement ID="r_4" HEIGHT="2.8346456692913384" WIDTH="129.25984251968504" VPOS="657.9212598425197" HPOS="154.48818897637796"/>
+        <GraphicalElement ID="r_5" HEIGHT="525.8267716535433" WIDTH="1.1338582677165354" VPOS="49.889763779527556" HPOS="0.0"/>
+        <Illustration ID="r_1" HEIGHT="660.7559055118111" WIDTH="307.84251968503935" VPOS="0.0" HPOS="0.0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

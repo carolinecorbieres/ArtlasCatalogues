@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">RÉPUBLIQUE</fo:inline>
+            
+            <fo:inline font-weight="bold">FÉDÉRALE</fo:inline>
+            
+            <fo:inline font-weight="bold">D’ALLEMAGNE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Seuls,</fo:inline>
+            
+            <fo:inline>peu</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>jeunes</fo:inline>
+            
+            <fo:inline>artistes</fo:inline>
+            
+            <fo:inline>allemands</fo:inline>
+            
+            <fo:inline>s’essayent</fo:inline>
+            
+            <fo:inline>sur</fo:inline>
+            
+            <fo:inline>le</fo:inline>
+            
+            <fo:inline>plan</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>forme</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>libre</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>couleur</fo:inline>
+            
+            <fo:inline>libre,</fo:inline>
+            
+            <fo:inline>mouvementée</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>vibrante.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Otto</fo:inline>
+            
+            <fo:inline>Piene</fo:inline>
+            
+            <fo:inline>peint</fo:inline>
+            
+            <fo:inline>ses</fo:inline>
+            
+            <fo:inline>tableaux</fo:inline>
+            
+            <fo:inline>avec</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>fumée</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>suie</fo:inline>
+            
+            <fo:inline>d’une</fo:inline>
+            
+            <fo:inline>bougie.</fo:inline>
+            
+            <fo:inline>Resserre</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ment</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>extension</fo:inline>
+            
+            <fo:inline>d’une</fo:inline>
+            
+            <fo:inline>forme</fo:inline>
+            
+            <fo:inline>ronde</fo:inline>
+            
+            <fo:inline>concentrée,</fo:inline>
+            
+            <fo:inline>réaction</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>changement</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>couleurs</fo:inline>
+            
+            <fo:inline>dans</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>zones</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>rencontre</fo:inline>
+            
+            <fo:inline>sont</fo:inline>
+            
+            <fo:inline>actuellement</fo:inline>
+            
+            <fo:inline>ses</fo:inline>
+            
+            <fo:inline>thèmes.</fo:inline>
+            
+            <fo:inline>Il</fo:inline>
+            
+            <fo:inline>élève</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>actions</fo:inline>
+            
+            <fo:inline>élémentaires</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>l’expression</fo:inline>
+            
+            <fo:inline>monumentale.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>l’art</fo:inline>
+            
+            <fo:inline>concret</fo:inline>
+            
+            <fo:inline>appartient</fo:inline>
+            
+            <fo:inline>également</fo:inline>
+            
+            <fo:inline>Günter</fo:inline>
+            
+            <fo:inline>Ferdinand</fo:inline>
+            
+            <fo:inline>Ris.</fo:inline>
+            
+            <fo:inline>Il</fo:inline>
+            
+            <fo:inline>démontre</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>dans</fo:inline>
+            
+            <fo:inline>ses</fo:inline>
+            
+            <fo:inline>tableaux</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>qualités</fo:inline>
+            
+            <fo:inline>spatiales</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>plans</fo:inline>
+            
+            <fo:inline>mouvementés,</fo:inline>
+            
+            <fo:inline>colorés.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Depuis</fo:inline>
+            
+            <fo:inline>peu,</fo:inline>
+            
+            <fo:inline>il</fo:inline>
+            
+            <fo:inline>se</fo:inline>
+            
+            <fo:inline>dirige</fo:inline>
+            
+            <fo:inline>vers</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>sculpture,</fo:inline>
+            
+            <fo:inline>donc</fo:inline>
+            
+            <fo:inline>vers</fo:inline>
+            
+            <fo:inline>un</fo:inline>
+            
+            <fo:inline>moyen,</fo:inline>
+            
+            <fo:inline>où</fo:inline>
+            
+            <fo:inline>il</fo:inline>
+            
+            <fo:inline>ne</fo:inline>
+            
+            <fo:inline>dépend</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>pas</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>force</fo:inline>
+            
+            <fo:inline>imaginative</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>couleurs</fo:inline>
+            
+            <fo:inline>adaptées</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>l’espace,</fo:inline>
+            
+            <fo:inline>mais</fo:inline>
+            
+            <fo:inline>où</fo:inline>
+            
+            <fo:inline>il</fo:inline>
+            
+            <fo:inline>peut</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>manier</fo:inline>
+            
+            <fo:inline>immédiatement</fo:inline>
+            
+            <fo:inline>le</fo:inline>
+            
+            <fo:inline>volume</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>l’espace.</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>forme</fo:inline>
+            
+            <fo:inline>est</fo:inline>
+            
+            <fo:inline>précise,</fo:inline>
+            
+            <fo:inline>serrée,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>définitive</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>même</fo:inline>
+            
+            <fo:inline>temps</fo:inline>
+            
+            <fo:inline>d’une</fo:inline>
+            
+            <fo:inline>abondance</fo:inline>
+            
+            <fo:inline>naturelle</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>sensuelle.</fo:inline>
+            
+            <fo:inline>Les</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>dessins</fo:inline>
+            
+            <fo:inline>révèlent</fo:inline>
+            
+            <fo:inline>un</fo:inline>
+            
+            <fo:inline>sculpteur</fo:inline>
+            
+            <fo:inline>né.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Un</fo:inline>
+            
+            <fo:inline>élément</fo:inline>
+            
+            <fo:inline>opposé</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>sculpture</fo:inline>
+            
+            <fo:inline>actuelle</fo:inline>
+            
+            <fo:inline>est</fo:inline>
+            
+            <fo:inline>représenté</fo:inline>
+            
+            <fo:inline>par</fo:inline>
+            
+            <fo:inline>Emil</fo:inline>
+            
+            <fo:inline>Cimiotti.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Ses</fo:inline>
+            
+            <fo:inline>sculptures</fo:inline>
+            
+            <fo:inline>ne</fo:inline>
+            
+            <fo:inline>sont</fo:inline>
+            
+            <fo:inline>pas</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>états</fo:inline>
+            
+            <fo:inline>fixes,</fo:inline>
+            
+            <fo:inline>mais</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>événements</fo:inline>
+            
+            <fo:inline>transitoires,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>métamorphoses</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>formes</fo:inline>
+            
+            <fo:inline>humaines</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>formes</fo:inline>
+            
+            <fo:inline>végétatives,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>formes</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>naturelles</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>formes</fo:inline>
+            
+            <fo:inline>amorphes.</fo:inline>
+            
+            <fo:inline>Les</fo:inline>
+            
+            <fo:inline>formes</fo:inline>
+            
+            <fo:inline>bulleuses</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>respirantes</fo:inline>
+            
+            <fo:inline>sont</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>continuellement</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>mouvement</fo:inline>
+            
+            <fo:inline>plastique,</fo:inline>
+            
+            <fo:inline>enlacées</fo:inline>
+            
+            <fo:inline>d’espace,</fo:inline>
+            
+            <fo:inline>richement</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>groupé,</fo:inline>
+            
+            <fo:inline>pleines</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>lumière</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>d’ombre.</fo:inline>
+            
+            <fo:inline>Les</fo:inline>
+            
+            <fo:inline>créations</fo:inline>
+            
+            <fo:inline>ne</fo:inline>
+            
+            <fo:inline>se</fo:inline>
+            
+            <fo:inline>contentent</fo:inline>
+            
+            <fo:inline>pas</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>du</fo:inline>
+            
+            <fo:inline>formel,</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>muitiplicité</fo:inline>
+            
+            <fo:inline>est</fo:inline>
+            
+            <fo:inline>voulue.</fo:inline>
+            
+            <fo:inline>Les</fo:inline>
+            
+            <fo:inline>symboles</fo:inline>
+            
+            <fo:inline>du</fo:inline>
+            
+            <fo:inline>paysage</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>l’an</fo:inline>
+            
+            <fo:inline>dernier</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>indiquent,</fo:inline>
+            
+            <fo:inline>au-delà</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>toutes</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>compositions</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>volume</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>d’espace,</fo:inline>
+            
+            <fo:inline>l’être</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>nature.</fo:inline>
+            
+            <fo:inline>L’artiste</fo:inline>
+            
+            <fo:inline>trouve</fo:inline>
+            
+            <fo:inline>dans</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>statue</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Daphné</fo:inline>
+            
+            <fo:inline>son</fo:inline>
+            
+            <fo:inline>thème</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>central.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Encore</fo:inline>
+            
+            <fo:inline>aujourd’hui,</fo:inline>
+            
+            <fo:inline>l’art</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>Allemagne</fo:inline>
+            
+            <fo:inline>s’inspire</fo:inline>
+            
+            <fo:inline>parfois</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>événements</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>importants.</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>série</fo:inline>
+            
+            <fo:inline>lithographiée</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>20</fo:inline>
+            
+            <fo:inline>Juillet</fo:inline>
+            
+            <fo:inline>1944</fo:inline>
+            
+            <fo:inline>»</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Paul</fo:inline>
+            
+            <fo:inline>Wunderlich,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ayant</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>thème</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>révolte</fo:inline>
+            
+            <fo:inline>échouée</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>Allemands</fo:inline>
+            
+            <fo:inline>contre</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>tyrannie,</fo:inline>
+            
+            <fo:inline>surélève</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>condamnés</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>symboles</fo:inline>
+            
+            <fo:inline>effrayants.</fo:inline>
+            
+            <fo:inline>Le</fo:inline>
+            
+            <fo:inline>sujet</fo:inline>
+            
+            <fo:inline>porte</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>subtile</fo:inline>
+            
+            <fo:inline>forme</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>graphique</fo:inline>
+            
+            <fo:inline>développant</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>même</fo:inline>
+            
+            <fo:inline>temps</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>qualités</fo:inline>
+            
+            <fo:inline>particulières</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>dessina</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>teur</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>peintre.</fo:inline>
+            
+            <fo:inline>Renée</fo:inline>
+            
+            <fo:inline>Nele</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>Rudolfs</fo:inline>
+            
+            <fo:inline>Schoofs</fo:inline>
+            
+            <fo:inline>sont</fo:inline>
+            
+            <fo:inline>représentés</fo:inline>
+            
+            <fo:inline>par</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>illustrations</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>livres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Les</fo:inline>
+            
+            <fo:inline>compositeurs</fo:inline>
+            
+            <fo:inline>allemands</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>plus</fo:inline>
+            
+            <fo:inline>connus,</fo:inline>
+            
+            <fo:inline>qui</fo:inline>
+            
+            <fo:inline>appartiennent</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>même</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>génération</fo:inline>
+            
+            <fo:inline>que</fo:inline>
+            
+            <fo:inline>les</fo:inline>
+            
+            <fo:inline>peintres,</fo:inline>
+            
+            <fo:inline>sont</fo:inline>
+            
+            <fo:inline>Hans</fo:inline>
+            
+            <fo:inline>Werner</fo:inline>
+            
+            <fo:inline>Henze</fo:inline>
+            
+            <fo:inline>qui,</fo:inline>
+            
+            <fo:inline>au</fo:inline>
+            
+            <fo:inline>début,</fo:inline>
+            
+            <fo:inline>partait</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Stravinsky</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Hindemith</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>rejoindre</fo:inline>
+            
+            <fo:inline>ensuite</fo:inline>
+            
+            <fo:inline>Schônberg</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>dodé</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>caphonie,</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>trouvait</fo:inline>
+            
+            <fo:inline>finalement</fo:inline>
+            
+            <fo:inline>sa</fo:inline>
+            
+            <fo:inline>propre</fo:inline>
+            
+            <fo:inline>expression</fo:inline>
+            
+            <fo:inline>qui</fo:inline>
+            
+            <fo:inline>se</fo:inline>
+            
+            <fo:inline>manifeste</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>façon</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>plus</fo:inline>
+            
+            <fo:inline>convaincante</fo:inline>
+            
+            <fo:inline>dans</fo:inline>
+            
+            <fo:inline>ses</fo:inline>
+            
+            <fo:inline>opéras</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>sa</fo:inline>
+            
+            <fo:inline>musique</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>ballet;</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Karlheinz</fo:inline>
+            
+            <fo:inline>Stockhausen</fo:inline>
+            
+            <fo:inline>qui,</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>développant</fo:inline>
+            
+            <fo:inline>conséquemment</fo:inline>
+            
+            <fo:inline>l’art</fo:inline>
+            
+            <fo:inline>d’Anton</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>von</fo:inline>
+            
+            <fo:inline>Webern,</fo:inline>
+            
+            <fo:inline>s’est</fo:inline>
+            
+            <fo:inline>consacré</fo:inline>
+            
+            <fo:inline>spécialement</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>musique</fo:inline>
+            
+            <fo:inline>électronique.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>6</fo:inline>
+          </fo:block>
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

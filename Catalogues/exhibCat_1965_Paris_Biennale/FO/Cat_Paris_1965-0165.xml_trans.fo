@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">COMPOSITIOM</fo:inline>
+            
+            <fo:inline font-weight="bold">MUSICALE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">SUISSE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Hans</fo:inline>
+            
+            <fo:inline font-weight="bold">UIrich</fo:inline>
+            
+            <fo:inline font-weight="bold">LEHMANN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1937</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Bienne</fo:inline>
+            
+            <fo:inline>(Suisse)</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Régions</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>un</fo:inline>
+            
+            <fo:inline>flûtiste,</fo:inline>
+            
+            <fo:inline>1963.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Episodes</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>quintette</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>vent,</fo:inline>
+            
+            <fo:inline>1963.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Mosaïque</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>clarinette,</fo:inline>
+            
+            <fo:inline>1964.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Jürg</fo:inline>
+            
+            <fo:inline font-weight="bold">WYTTENBACH</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1935</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Berne</fo:inline>
+            
+            <fo:inline>(Suisse).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Trois</fo:inline>
+            
+            <fo:inline>phrases</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>hautbois,</fo:inline>
+            
+            <fo:inline>harpe</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>piano,</fo:inline>
+            
+            <fo:inline>1964.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Quatre</fo:inline>
+            
+            <fo:inline>chansons,</fo:inline>
+            
+            <fo:inline>deux</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>nonsense</fo:inline>
+            
+            <fo:inline>verses,</fo:inline>
+            
+            <fo:inline>un</fo:inline>
+            
+            <fo:inline>épigramme</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>un</fo:inline>
+            
+            <fo:inline>madrigal</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>soprano</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>violoncelle,</fo:inline>
+            
+            <fo:inline>1964.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">TCHECOSLOSVAQUIE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Peter</fo:inline>
+            
+            <fo:inline font-weight="bold">KOLMAN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1937</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Bratislava</fo:inline>
+            
+            <fo:inline>(Tchécoslovaquie).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Panigyrikos</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>4</fo:inline>
+            
+            <fo:inline>hautbois,</fo:inline>
+            
+            <fo:inline>4</fo:inline>
+            
+            <fo:inline>trompettes,</fo:inline>
+            
+            <fo:inline>4</fo:inline>
+            
+            <fo:inline>violoncelles</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>percussion,</fo:inline>
+            
+            <fo:inline>1964.</fo:inline>
+            
+            <fo:inline>Centre</fo:inline>
+            
+            <fo:inline>d’Informations</fo:inline>
+            
+            <fo:inline>Musicales.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Marek</fo:inline>
+            
+            <fo:inline font-weight="bold">KOPELENT</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Prague</fo:inline>
+            
+            <fo:inline>(Tchécoslovaquie).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>3e</fo:inline>
+            
+            <fo:inline>Quatuor,</fo:inline>
+            
+            <fo:inline>1963.</fo:inline>
+            
+            <fo:inline>Centre</fo:inline>
+            
+            <fo:inline>d’Informations</fo:inline>
+            
+            <fo:inline>Musicales.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Veroslav</fo:inline>
+            
+            <fo:inline font-weight="bold">NEUMANN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1931</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Citoliby</fo:inline>
+            
+            <fo:inline>(Tchécoslo</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>vaquie).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">4</fo:inline>
+            
+            <fo:inline>Chants</fo:inline>
+            
+            <fo:inline>sur</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>l’ancienne</fo:inline>
+            
+            <fo:inline>poésie</fo:inline>
+            
+            <fo:inline>chinoise,</fo:inline>
+            
+            <fo:inline>1964.</fo:inline>
+            
+            <fo:inline>Centre</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>d’Informations</fo:inline>
+            
+            <fo:inline>Musicales.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Zdenek</fo:inline>
+            
+            <fo:inline font-weight="bold">POLOLANIK</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1935</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Brno</fo:inline>
+            
+            <fo:inline>(Tchécoslovaquie).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Musica</fo:inline>
+            
+            <fo:inline>spingenta</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>1962.</fo:inline>
+            
+            <fo:inline>Centre</fo:inline>
+            
+            <fo:inline>d’Informations</fo:inline>
+            
+            <fo:inline>Musicales.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Ilja</fo:inline>
+            
+            <fo:inline font-weight="bold">ZELJENKA</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Bratislava</fo:inline>
+            
+            <fo:inline>(Tchécoslovaquie).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Quatuor</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>cordes,</fo:inline>
+            
+            <fo:inline>lre</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>Ile</fo:inline>
+            
+            <fo:inline>partie,</fo:inline>
+            
+            <fo:inline>1962.</fo:inline>
+            
+            <fo:inline>Centre</fo:inline>
+            
+            <fo:inline>d’Infomma</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tions</fo:inline>
+            
+            <fo:inline>Musicales.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">TURQUIE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Ferit</fo:inline>
+            
+            <fo:inline font-weight="bold">TUZUN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1930</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>lstanbul</fo:inline>
+            
+            <fo:inline>(Turquie).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Suite</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>ballets</fo:inline>
+            
+            <fo:inline>(auprès</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>fontaine),</fo:inline>
+            
+            <fo:inline>1962.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">YOUGOSLAVIE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Petar</fo:inline>
+            
+            <fo:inline font-weight="bold">BERGAMO</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1930</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Split</fo:inline>
+            
+            <fo:inline>(Vougoslavie).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Musique</fo:inline>
+            
+            <fo:inline>concertante,</fo:inline>
+            
+            <fo:inline>1961.</fo:inline>
+            
+            <fo:inline>R.</fo:inline>
+            
+            <fo:inline>T.V.</fo:inline>
+            
+            <fo:inline>Belgrade.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Darijan</fo:inline>
+            
+            <fo:inline font-weight="bold">BOZIC</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1933</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Slavonski</fo:inline>
+            
+            <fo:inline>Brod</fo:inline>
+            
+            <fo:inline>(Vougoslavie).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Concert</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>trompette</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>orchestre,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+            
+            <fo:inline>R.</fo:inline>
+            
+            <fo:inline>TV.,</fo:inline>
+            
+            <fo:inline>Ljubljana.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">IVo</fo:inline>
+            
+            <fo:inline font-weight="bold">PETRIC</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1931</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Ljubljana</fo:inline>
+            
+            <fo:inline>(Vougoslavie).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Croquis</fo:inline>
+            
+            <fo:inline>sonores,</fo:inline>
+            
+            <fo:inline>1963.</fo:inline>
+            
+            <fo:inline>R.</fo:inline>
+            
+            <fo:inline>T.</fo:inline>
+            
+            <fo:inline>V.</fo:inline>
+            
+            <fo:inline>Ljubliana.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>164</fo:inline>
+          </fo:block>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

@@ -2,7 +2,7 @@
 
 ---
 
-## Workflow to encode exhibition catalogues
+# Workflow to encode exhibition catalogues
 
 Workflow to do
 

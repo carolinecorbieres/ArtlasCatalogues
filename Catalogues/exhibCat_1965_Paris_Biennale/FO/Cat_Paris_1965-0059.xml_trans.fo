@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">GRANDE-</fo:inline>
+            
+            <fo:inline font-weight="bold">BRETAGNE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Bridget</fo:inline>
+            
+            <fo:inline font-weight="bold">RILEV</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1931</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Londres</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">11</fo:inline>
+            
+            <fo:inline>Chute,</fo:inline>
+            
+            <fo:inline>1963</fo:inline>
+            
+            <fo:inline>(émulsion</fo:inline>
+            
+            <fo:inline>sur</fo:inline>
+            
+            <fo:inline>masonite,</fo:inline>
+            
+            <fo:inline>141</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>140).</fo:inline>
+            
+            <fo:inline>Collec</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tion</fo:inline>
+            
+            <fo:inline>The</fo:inline>
+            
+            <fo:inline>Tate</fo:inline>
+            
+            <fo:inline>Gallery,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">12</fo:inline>
+            
+            <fo:inline>Navette,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(émulsion</fo:inline>
+            
+            <fo:inline>sur</fo:inline>
+            
+            <fo:inline>panneau,</fo:inline>
+            
+            <fo:inline>111</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>111).</fo:inline>
+            
+            <fo:inline>Col</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>lection</fo:inline>
+            
+            <fo:inline>Calouste</fo:inline>
+            
+            <fo:inline>Gulbenkian</fo:inline>
+            
+            <fo:inline>Foundation,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">13</fo:inline>
+            
+            <fo:inline>Métamorphose,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(émulsion</fo:inline>
+            
+            <fo:inline>sur</fo:inline>
+            
+            <fo:inline>masonite,</fo:inline>
+            
+            <fo:inline>111</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>106)</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Collection</fo:inline>
+            
+            <fo:inline>Calouste</fo:inline>
+            
+            <fo:inline>Gulbenkian</fo:inline>
+            
+            <fo:inline>Foundation,</fo:inline>
+            
+            <fo:inline>Londres.»</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SCULPTURE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">David</fo:inline>
+            
+            <fo:inline font-weight="bold">HALL</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1937</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Leicester</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">14</fo:inline>
+            
+            <fo:inline>Boite,</fo:inline>
+            
+            <fo:inline>1965</fo:inline>
+            
+            <fo:inline>(acier</fo:inline>
+            
+            <fo:inline>soudé,</fo:inline>
+            
+            <fo:inline>244</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>213</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>145).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Calouste</fo:inline>
+            
+            <fo:inline>Gulbenkian</fo:inline>
+            
+            <fo:inline>Foundation,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Roland</fo:inline>
+            
+            <fo:inline font-weight="bold">PICHE</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1938</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Londres</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">15</fo:inline>
+            
+            <fo:inline>Coucher</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>soleil</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>déposition,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(plastique,</fo:inline>
+            
+            <fo:inline>152</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>137</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>137).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+            
+            <fo:inline>Peter</fo:inline>
+            
+            <fo:inline>Stuyvesant</fo:inline>
+            
+            <fo:inline>Foundation,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Tim</fo:inline>
+            
+            <fo:inline font-weight="bold">SCOTT</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1937</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Londres</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">16</fo:inline>
+            
+            <fo:inline>Pavanne,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(bois</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>polyurethane,</fo:inline>
+            
+            <fo:inline>106</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>213</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>83).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Collection</fo:inline>
+            
+            <fo:inline>Calouste</fo:inline>
+            
+            <fo:inline>Gulbenkian</fo:inline>
+            
+            <fo:inline>Foundation,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">saac</fo:inline>
+            
+            <fo:inline font-weight="bold">WITKIN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1936</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Johannesburg</fo:inline>
+            
+            <fo:inline>(Afrique</fo:inline>
+            
+            <fo:inline>du</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Sud).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">17</fo:inline>
+            
+            <fo:inline>Volution,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(plastique,</fo:inline>
+            
+            <fo:inline>249</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>45</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>50).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Calouste</fo:inline>
+            
+            <fo:inline>Gulbenkian</fo:inline>
+            
+            <fo:inline>Foundation,</fo:inline>
+            
+            <fo:inline>Londres.»</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Derrick</fo:inline>
+            
+            <fo:inline font-weight="bold">WOODHAN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1940</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Blackburn</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bretagne).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">18</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>scène,</fo:inline>
+            
+            <fo:inline>1965</fo:inline>
+            
+            <fo:inline>(plastique</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>bois,</fo:inline>
+            
+            <fo:inline>116</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>127</fo:inline>
+            
+            <fo:inline>x78).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Collection</fo:inline>
+            
+            <fo:inline>Calouste</fo:inline>
+            
+            <fo:inline>Gulbenkian</fo:inline>
+            
+            <fo:inline>Foundation,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>GRAVURE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Gillian</fo:inline>
+            
+            <fo:inline font-weight="bold">AYRES</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1930</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Londres</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">19</fo:inline>
+            
+            <fo:inline>Sérigraphie</fo:inline>
+            
+            <fo:inline>ICA,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(sérigraphie,</fo:inline>
+            
+            <fo:inline>58</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>91).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Institute</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Contemporary</fo:inline>
+            
+            <fo:inline>Arts,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Peter</fo:inline>
+            
+            <fo:inline font-weight="bold">BLAKE</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Dartford</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">20</fo:inline>
+            
+            <fo:inline>Sérigraphie</fo:inline>
+            
+            <fo:inline>ICA,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(sérigraphie,</fo:inline>
+            
+            <fo:inline>76</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>51).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Institute</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Contemporary</fo:inline>
+            
+            <fo:inline>Arts,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Patrick</fo:inline>
+            
+            <fo:inline font-weight="bold">CAULFIELD</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1936</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Londres</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bretagne).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">21</fo:inline>
+            
+            <fo:inline>Sérigraphie</fo:inline>
+            
+            <fo:inline>ICA,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(sérigraphie,</fo:inline>
+            
+            <fo:inline>58</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>91).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Institute</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Contemporary</fo:inline>
+            
+            <fo:inline>Arts,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Robyn</fo:inline>
+            
+            <fo:inline font-weight="bold">DENNY</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1930</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Abinger</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">22</fo:inline>
+            
+            <fo:inline>Sérigraphie</fo:inline>
+            
+            <fo:inline>ICA,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(sérigraphie,</fo:inline>
+            
+            <fo:inline>91</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>58).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Institute</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Contemporary</fo:inline>
+            
+            <fo:inline>Arts,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Allen</fo:inline>
+            
+            <fo:inline font-weight="bold">JONES</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1937</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Southampton</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bretagne).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">23</fo:inline>
+            
+            <fo:inline>Sérigraphie</fo:inline>
+            
+            <fo:inline>ICA,</fo:inline>
+            
+            <fo:inline>1964</fo:inline>
+            
+            <fo:inline>(sérigraphie,</fo:inline>
+            
+            <fo:inline>78</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>58).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Institute</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Contemporary</fo:inline>
+            
+            <fo:inline>Arts,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Richard</fo:inline>
+            
+            <fo:inline font-weight="bold">SMITH</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1931</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Letchworth</fo:inline>
+            
+            <fo:inline>(Grande</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bretagne).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">24</fo:inline>
+            
+            <fo:inline>Sérigraphie</fo:inline>
+            
+            <fo:inline>ICA,</fo:inline>
+            
+            <fo:inline>1963</fo:inline>
+            
+            <fo:inline>(sérigraphie,</fo:inline>
+            
+            <fo:inline>58</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>88).</fo:inline>
+            
+            <fo:inline>Colection</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Institute</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>Contemporary</fo:inline>
+            
+            <fo:inline>Arts,</fo:inline>
+            
+            <fo:inline>Londres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>58</fo:inline>
+          </fo:block>
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

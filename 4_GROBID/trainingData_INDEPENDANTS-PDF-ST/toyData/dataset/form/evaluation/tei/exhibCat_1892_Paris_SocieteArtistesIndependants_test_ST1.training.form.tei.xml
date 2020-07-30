@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>BRION, Paul</name>, <desc>né à Paris. -135, boulevard Saint <lb/>Michel</desc></form><form><name>BROC, François</name>, <desc>né à Nîmes (Gard). -18, rue de <lb/>l'Orient. Paris</desc></form><form><name>BROU de P. C., Prosper</name>, <desc>né à Brou (Eure <lb/>15, rue du Faubourg-Montmartre, Paris</desc></form><form><name>BROUSCH, Jean</name>, <desc>né à Paris. -54, rue de Rome</desc></form><form><name>BRUNET, Eugène</name>, <desc>né à Sarcelles (Seine-et-Oise). -<lb/>59, rue d'Amsterdam</desc></form><form><name>BURAT, Alice (Marie-Elisabeth)</name>, <desc>née à Paris. -<lb/>8, place du Palais</desc> <lb/></form><form><name>CARRAZ, Emile</name>, <desc>né à Paris. -100, rue du Goulet, à <lb/>Noisy</desc> <lb/></form><form><name>CASAS, Ramon</name>, <desc>né à Barcelone (Espagne). -3, rue <lb/>Girardon, Paris</desc></form></body>
+	</text>
+</tei>

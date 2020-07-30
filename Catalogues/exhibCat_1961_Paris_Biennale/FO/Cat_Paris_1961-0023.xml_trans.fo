@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">RÉPUBLIQUE</fo:inline>
+            
+            <fo:inline font-weight="bold">FÉDÉRALE</fo:inline>
+            
+            <fo:inline font-weight="bold">D’ALLEMAGNE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SCULPTURE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Emil</fo:inline>
+            
+            <fo:inline font-weight="bold">CIMIOTTI</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Gôttingen</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1927.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">20</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>forêt,</fo:inline>
+            
+            <fo:inline>1960</fo:inline>
+            
+            <fo:inline>(bronze,</fo:inline>
+            
+            <fo:inline>65x80x45).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+            
+            <fo:inline>Van</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Loo,</fo:inline>
+            
+            <fo:inline>Muniche.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">21</fo:inline>
+            
+            <fo:inline>Vulcano</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>1960</fo:inline>
+            
+            <fo:inline>(bronze,</fo:inline>
+            
+            <fo:inline>40x50x38).</fo:inline>
+            
+            <fo:inline>Collection</fo:inline>
+            
+            <fo:inline>Kurt</fo:inline>
+            
+            <fo:inline>Deschler,</fo:inline>
+            
+            <fo:inline>Ulm.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">22</fo:inline>
+            
+            <fo:inline>Daphné,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(bronze,</fo:inline>
+            
+            <fo:inline>200x65x50).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Günter</fo:inline>
+            
+            <fo:inline font-weight="bold">Ferdinand</fo:inline>
+            
+            <fo:inline font-weight="bold">RIS</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Manfort</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1928.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">23</fo:inline>
+            
+            <fo:inline>Sculpture</fo:inline>
+            
+            <fo:inline>dans</fo:inline>
+            
+            <fo:inline>l’espace</fo:inline>
+            
+            <fo:inline>libre,</fo:inline>
+            
+            <fo:inline>1961</fo:inline>
+            
+            <fo:inline>(laiton,</fo:inline>
+            
+            <fo:inline>31x31x32)*.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>GRAVURE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Paul</fo:inline>
+            
+            <fo:inline font-weight="bold">WUNDERLICH</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Berlin</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1927.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">24</fo:inline>
+            
+            <fo:inline>Série</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>cycle</fo:inline>
+            
+            <fo:inline>du</fo:inline>
+            
+            <fo:inline>20</fo:inline>
+            
+            <fo:inline>Juillet</fo:inline>
+            
+            <fo:inline>1944</fo:inline>
+            
+            <fo:inline>»,</fo:inline>
+            
+            <fo:inline>1960</fo:inline>
+            
+            <fo:inline>(9</fo:inline>
+            
+            <fo:inline>lithographies,</fo:inline>
+            
+            <fo:inline>61x43)*.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SECTION</fo:inline>
+            
+            <fo:inline>ILLUSTRATION</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>LIVRE</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Renée</fo:inline>
+            
+            <fo:inline font-weight="bold">NELE</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Berlin</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">1</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>L’obscénité</fo:inline>
+            
+            <fo:inline>et</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>loi</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>la</fo:inline>
+            
+            <fo:inline>réflexion</fo:inline>
+            
+            <fo:inline>»</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Henry</fo:inline>
+            
+            <fo:inline>Miller,</fo:inline>
+            
+            <fo:inline>1960</fo:inline>
+            
+            <fo:inline>(gravure,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>7</fo:inline>
+            
+            <fo:inline>planches).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Rudolf</fo:inline>
+            
+            <fo:inline font-weight="bold">SCHOOFS</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Goch</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">2</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Poèmes</fo:inline>
+            
+            <fo:inline>»</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Gürter</fo:inline>
+            
+            <fo:inline>Eich,</fo:inline>
+            
+            <fo:inline>1960</fo:inline>
+            
+            <fo:inline>(gravure,</fo:inline>
+            
+            <fo:inline>4</fo:inline>
+            
+            <fo:inline>planches).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SECTION</fo:inline>
+            
+            <fo:inline>COMPOSITION</fo:inline>
+            
+            <fo:inline>MUSICALE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Hans</fo:inline>
+            
+            <fo:inline font-weight="bold">Werner</fo:inline>
+            
+            <fo:inline font-weight="bold">HENZE</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Gütersloh</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1926.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">1</fo:inline>
+            
+            <fo:inline>Musique</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>chambre,</fo:inline>
+            
+            <fo:inline>1958.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">2</fo:inline>
+            
+            <fo:inline>Sonate</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>piano,</fo:inline>
+            
+            <fo:inline>1959.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Karlheinz</fo:inline>
+            
+            <fo:inline font-weight="bold">STOCKHAUSEN</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Moldrath</fo:inline>
+            
+            <fo:inline>(Cologne)</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1928.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">3</fo:inline>
+            
+            <fo:inline>Chant</fo:inline>
+            
+            <fo:inline>des</fo:inline>
+            
+            <fo:inline>Jeunes</fo:inline>
+            
+            <fo:inline>Gens,</fo:inline>
+            
+            <fo:inline>1957.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">4</fo:inline>
+            
+            <fo:inline>Cycle</fo:inline>
+            
+            <fo:inline>pour</fo:inline>
+            
+            <fo:inline>batterie,</fo:inline>
+            
+            <fo:inline>1959.</fo:inline>
+          </fo:block>
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

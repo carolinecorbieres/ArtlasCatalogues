@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">DECORATION</fo:inline>
+            
+            <fo:inline font-weight="bold">THÉATRALE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">HONGRIE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Laszlo</fo:inline>
+            
+            <fo:inline font-weight="bold">DREGELY</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Pecs</fo:inline>
+            
+            <fo:inline>(Hongrie).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">28</fo:inline>
+            
+            <fo:inline>Noces</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>sang,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Federico</fo:inline>
+            
+            <fo:inline>Garcia</fo:inline>
+            
+            <fo:inline>Lorca,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Fanny</fo:inline>
+            
+            <fo:inline font-weight="bold">KEMENES</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Budapest</fo:inline>
+            
+            <fo:inline>(Hongiel</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">29</fo:inline>
+            
+            <fo:inline>Phèdre,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Racine,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+            
+            <fo:inline>—0»</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Laszlo</fo:inline>
+            
+            <fo:inline font-weight="bold">SZEKELY</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Uipest</fo:inline>
+            
+            <fo:inline>(Hongrie).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">30</fo:inline>
+            
+            <fo:inline>Phèdre,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Racine,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Emil</fo:inline>
+            
+            <fo:inline font-weight="bold">VATA</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Hodmezovasarhely</fo:inline>
+            
+            <fo:inline>(Hongrie)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">31</fo:inline>
+            
+            <fo:inline>Les</fo:inline>
+            
+            <fo:inline>joyeuses</fo:inline>
+            
+            <fo:inline>commères</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Windsor,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>William</fo:inline>
+            
+            <fo:inline>Shakes.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>peare,</fo:inline>
+            
+            <fo:inline>1964.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Robert</fo:inline>
+            
+            <fo:inline font-weight="bold">WEGENAST</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1930</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Budapest</fo:inline>
+            
+            <fo:inline>(Hongrie).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">32</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>folle</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Chaillot,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Jean</fo:inline>
+            
+            <fo:inline>Giraudoux,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">INDE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Kokila</fo:inline>
+            
+            <fo:inline font-weight="bold">MAVANI</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1935.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">33</fo:inline>
+            
+            <fo:inline>Sacrifice</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Rabindranath</fo:inline>
+            
+            <fo:inline>Tagore,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">IRAN</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Farideh</fo:inline>
+            
+            <fo:inline font-weight="bold">GOHARI</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1938</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Racht</fo:inline>
+            
+            <fo:inline>(lran).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">34</fo:inline>
+            
+            <fo:inline>Noces</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>sang,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Federico</fo:inline>
+            
+            <fo:inline>Garcia</fo:inline>
+            
+            <fo:inline>Lorca,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Lila</fo:inline>
+            
+            <fo:inline font-weight="bold">HACHENII</fo:inline>
+            
+            <fo:inline font-weight="bold">NEJAD</fo:inline>
+            
+            <fo:inline>née</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1943</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Téhéran</fo:inline>
+            
+            <fo:inline>(lran).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">35</fo:inline>
+            
+            <fo:inline>Noces</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>sang,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Federico</fo:inline>
+            
+            <fo:inline>Garcia</fo:inline>
+            
+            <fo:inline>Lorca,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">ITALIE</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Antonio</fo:inline>
+            
+            <fo:inline font-weight="bold">STEFANUCCI</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1935</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Naples</fo:inline>
+            
+            <fo:inline>(Italie).</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">36</fo:inline>
+            
+            <fo:inline>La</fo:inline>
+            
+            <fo:inline>folle</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Chaillot,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Jean</fo:inline>
+            
+            <fo:inline>Giraudoux,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">JAPON</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Vasuhiro</fo:inline>
+            
+            <fo:inline font-weight="bold">ISHII</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1932</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Sapporo</fo:inline>
+            
+            <fo:inline>(Japon).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">37</fo:inline>
+            
+            <fo:inline>Noces</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>sang,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Federico</fo:inline>
+            
+            <fo:inline>Garcia</fo:inline>
+            
+            <fo:inline>Lorca,</fo:inline>
+            
+            <fo:inline>1965.★</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Michiya</fo:inline>
+            
+            <fo:inline font-weight="bold">OKADA</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1934</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Tokio</fo:inline>
+            
+            <fo:inline>(Japon).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">38</fo:inline>
+            
+            <fo:inline>Noces</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>sang,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Federico</fo:inline>
+            
+            <fo:inline>Garcia</fo:inline>
+            
+            <fo:inline>Lorca,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Tadahiro</fo:inline>
+            
+            <fo:inline font-weight="bold">TADA</fo:inline>
+            
+            <fo:inline>né</fo:inline>
+            
+            <fo:inline>en</fo:inline>
+            
+            <fo:inline>1930</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>Tokio</fo:inline>
+            
+            <fo:inline>(Japon).</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">39</fo:inline>
+            
+            <fo:inline>Noces</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>sang,</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Federico</fo:inline>
+            
+            <fo:inline>Garcia</fo:inline>
+            
+            <fo:inline>Lorca,</fo:inline>
+            
+            <fo:inline>1965.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>170</fo:inline>
+          </fo:block>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

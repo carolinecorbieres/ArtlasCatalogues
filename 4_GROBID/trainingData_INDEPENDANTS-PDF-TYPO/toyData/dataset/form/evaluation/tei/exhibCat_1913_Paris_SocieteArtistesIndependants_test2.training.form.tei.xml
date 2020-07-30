@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>MARTIN (Abel-Raoul</name>), <desc>né à Troyes (Aube). <lb/>4, rue Guilleminot, 14e</desc></form><form><name>MARTIN (René-Claude</name>), <desc>né à Paris. -280, bou <lb/>levard Raspail, 14e</desc></form><form><name>MASSIN (Louis-Eugène-Pierre</name>), <desc>né à Paris. <lb/>95, rue de Vaugirard, 6e</desc></form><form><name>MASSON (Mlle Edmée</name>), <desc>née à Genève. -35, <lb/>Grand'rue, à Genève (Suisse</desc>)</form><form><name>MASURE (Georges-Paul</name>), <desc>né à Paris. -195, rue <lb/>de Vaugirard, 15e</desc></form><form><name>MAURIN (Camille</name>), <desc>né à Paris. -28, boulevard <lb/>Exelmans, 16e</desc></form><form><name>MAUSON (R.-M.</name>), <desc>né en Angleterre. -Au Grand <lb/>Moulin, à Pont-l'Abbé (Finistère</desc></form><form><name>MAX-AARY</name>, <desc>né à Toulouse. -48 bis rue de <lb/>Metz</desc></form></body>
+	</text>
+</tei>
