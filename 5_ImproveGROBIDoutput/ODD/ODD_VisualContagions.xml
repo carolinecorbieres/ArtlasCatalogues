@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron"
    xmlns:sch="http://purl.oclc.org/dsdl/schematron" xml:lang="en">
    <!-- This ODD is based on the work of Lucie Rondeau du Noyer, Simon Gabay and Matthias Gille Levenson -->
-   
+
    <!-- !!! PROBLEME A RESOUDRE : réussir à faire accepter <signatures> hors du msDesc !!! -->
    <teiHeader>
       <fileDesc>
@@ -19,9 +19,9 @@
             <authority>VISUAL CONTAGIONS</authority>
          </publicationStmt>
          <sourceDesc>
-            <p>Derived from sources listed <ref
-               target="https://docs.google.com/spreadsheets/d/1RL9ti8pLTFF9X4kR6K1JbphfVLFxssarHew9mtrlKaA/edit#gid=1979735129"
-               >here</ref> and from sources coming from on the UNIGE server.</p>
+            <p>Derived from sources listed here<ref
+                  target="https://docs.google.com/spreadsheets/d/1RL9ti8pLTFF9X4kR6K1JbphfVLFxssarHew9mtrlKaA/edit#gid=1979735129"
+                  >here</ref> and from the UNIGE server.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
@@ -31,7 +31,7 @@
    <text>
       <body>
          <div1>
-            <head>Presentation/Introduction</head>
+            <head>Introduction</head>
             <p>This document presents the encoding specifications for the sources published by the
                VISUAL CONTAGIONS project. Some sources, the exhibition catalogs, will expand BasArt,
                the database of an older project, Artl@s.</p>
@@ -70,10 +70,10 @@
                   information relating to the header concerns both periodicals and exhibition
                   catalogs, while the information relating to the body concerns only exhibition
                   catalogs.</p>
-               <p>The header is automatically generated, using an XSLT stylesheet, from a CSV listing
-                  the periodicals and exhibition catalogs accessible online. But some information
-                  will need to be added directly to the TEI file. This header has been thought out
-                  to be multipurpose. Here is its general structure:</p>
+               <p>The header is automatically generated, using an XSLT stylesheet, from a CSV
+                  listing the periodicals and exhibition catalogs accessible online. But some
+                  information will need to be added directly to the TEI file. This header has been
+                  thought out to be multipurpose. Here is its general structure:</p>
                <egXML xmlns="http://www.tei-c.org/ns/Examples">
                   <teiHeader>
                      <fileDesc>
@@ -202,7 +202,7 @@
                   </body>
                </egXML>
                <p>In order to refine the encoding, we decided to add tags to specify biographical
-                  informations and descritive informations about the exhibited work that could be
+                  informations and descriptive informations about the exhibited work that could be
                   added in a second time, by hand or thanks to a script.</p>
                <p>Concerning the periodicals, we decided to let an empty <gi>body</gi> for now,
                   because we only want to encode metadata.</p>
@@ -311,8 +311,10 @@
                      <p>The <gi>sourceDesc</gi> contains the description of the source of the
                         electronic document, and for the exhibition catalogs, it contains
                         information about the event associated with the source. It contains two main
-                        sections : <specDesc key="bibl"/>
-                        <specDesc key="listEvent"/></p>
+                        sections : <specList>
+                           <specDesc key="bibl"/>
+                           <specDesc key="listEvent"/>
+                        </specList></p>
                      <div5>
                         <head>The Bibliographic Citation (<gi>bibl</gi>)</head>
                         <p>The <gi>bibl</gi> contains the bibliographic description of the physical
@@ -452,8 +454,8 @@
                   <p>The <gi>encodingDesc</gi> specifies the applications we used in our workflow to
                      encode catalogs. It has two elements: <list>
                         <item>The <gi>samplingDecl</gi> (with a child element <gi>p</gi>) indicates
-                           the choice we made to process only the parts of catalogs that are list of
-                           entries. This precision is added automatically thanks to the XSLT
+                           the choice we made to process only the parts of catalogs that are lists
+                           of entries. This precision is added automatically thanks to the XSLT
                            stylesheet.</item>
                         <item>The <gi>appInfo</gi> (with a child element <gi>application</gi>)
                            specifies the applications we used in our worflow. We automatically added
@@ -466,7 +468,7 @@
                         <samplingDecl>
                            <p>This electronic version of the catalog only reproduces the entries
                               that correspond to exhibited works. All text preceding or succeeding
-                              the list of documents for sale is not reproduced below.</p>
+                              the list of documents is not reproduced below.</p>
                         </samplingDecl>
                         <appInfo>
                            <application version="1.11" ident="Transkribus" when="2020">
@@ -485,8 +487,8 @@
 
                <div3>
                   <head>The Revision Description (<gi>revisionDesc</gi>)</head>
-                  <p>In/At this location are indicated the modifications made to the file, as well
-                     as their author.</p>
+                  <p>In this tag are indicated the modifications made to the file, as well as their
+                     author.</p>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
                      <revisionDesc>
                         <!-- Review of the revision history for a file -->
@@ -522,7 +524,7 @@
                   <head>The num section (<gi>num</gi>)</head>
                   <p>The <gi>num</gi> is an optional tag to encode the numero of the entry when it
                      is not attached to the work but to the entry in general. It is the case in some
-                     catalogs which presents lots or stands.</p>
+                     catalogs which present lots or stands.</p>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
                      <entry n="2">
                         <num>N° 2</num>
@@ -543,7 +545,7 @@
                         <item>The mandatory element <gi>name</gi> indicates the name of the
                            exhibitor. It has a <att>role</att>="exhibitor" attribute to specify the
                            role of the person or organisation named in the entry. In a second time,
-                           we could refined the encoding by adding <gi>surname</gi> and
+                           we could refine the encoding by adding <gi>surname</gi> and
                               <gi>forename</gi> tags.</item>
                         <item>The non-mandatory element <gi>trait</gi> (with a child element
                               <gi>p</gi>) indicates biographical informations about the exhibitor.
@@ -630,6 +632,13 @@
                <head>The Text Structure of periodicals (<gi>text</gi>)</head>
                <p>The <gi>body</gi> of periodicals is not encoded, it only contains an empty
                      <gi>p</gi> tag to validate the XML-TEI structure.</p>
+               <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                  <text>
+                     <body>
+                        <p/>
+                     </body>
+                  </text>
+               </egXML>
             </div2>
          </div1>
 
