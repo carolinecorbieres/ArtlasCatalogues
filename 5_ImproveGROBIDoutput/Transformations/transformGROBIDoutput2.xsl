@@ -80,7 +80,7 @@
             </xsl:attribute>
             <xsl:attribute name="xml:id">
                 <xsl:value-of select="/TEI/@xml:id"/>
-                <xsl:text>_VC</xsl:text>
+                <xsl:text>_e</xsl:text>
                 <xsl:number count="entry" level="any"/>
             </xsl:attribute>
             <xsl:apply-templates/>
@@ -123,10 +123,10 @@
             </xsl:attribute>
             <xsl:attribute name="xml:id">
                 <xsl:value-of select="/TEI/@xml:id"/>
-                <xsl:text>_VC</xsl:text>
+                <xsl:text>_e</xsl:text>
                 <xsl:number count="entry" level="any"/>
                 <xsl:text>_i</xsl:text>
-                <xsl:value-of select=".//num"/>
+                <xsl:value-of select="count(./preceding-sibling::item) + 1"/>
             </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>

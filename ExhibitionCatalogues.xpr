@@ -10,6 +10,66 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants_step2_step2_step2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants_step2_step2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants_step2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../../Downloads/exhibCat_1892_Paris_SocieteArtistesIndependants-FO.pdf.tei_body.xml</String>
                                 </field>
                                 <field name="scenarioIds">
