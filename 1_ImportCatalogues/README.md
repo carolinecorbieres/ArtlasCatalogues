@@ -8,7 +8,7 @@ To process catalogues into the workflow, we need to import catalogue pages. For 
 
 ## Digitised Catalogues
 
-### IIIF Images Catalogue
+### Catalogue Images using IIIF
 
 If the digitised catalogue have images using IIIF, you can get image pages thanks to the script `import_iiif.py`. Its arguments are based on the URI Manifest model : `{scheme}://{host}/{prefix}/{identifier}/manifest`. The default arguments are set on the Gallica IIIF API, however you can change that to adapt them to any IIIF API. 
 
@@ -52,7 +52,7 @@ You can call any argument with the following prefix :
 
 For example, for the following URI (https://bibliotheque-numerique.inha.fr/iiif/21124/manifest), you should run : 
 ```
-python3 import_iiif.py import_iiif.py -d bibliotheque-numerique.inha.fr 21124 -m manifest
+python3 import_iiif.py -d bibliotheque-numerique.inha.fr 21124 -m manifest
 ```
 
 - The script will download pages in JPEG in a `download/IDENTIFIER_NAME` folder.
