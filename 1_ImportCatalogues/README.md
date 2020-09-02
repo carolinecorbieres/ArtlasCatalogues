@@ -20,7 +20,7 @@ cd YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/1_ImportCatalogues
 ```
 - Copy the ark identifier of the catalogue in Gallica. 
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ImportCatalogues-1.png" width="70%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ImportCatalogues-1.png" width="70%"></p>
 
 - Run the script with the ark identifier argument. If you need some help, you can run the script with `-h` argument. 
 ```
