@@ -4,7 +4,7 @@
 
 # Step 2 : OCR process on catalogues and export of the ALTO files
 
-Now we need to process catalogues in a OCR software to get the text of the document. The transcription of each catalogue is augmented by typographical information : bold and italic words are tagged with HTML tags (`<b>`, `</b>`, `<i>` and `</i>`). Then we will used two scripts written by Ljudmila Petkovic, a first one ([1_eval_txt](https://github.com/carolinecorbieres/ArtlasCatalogues/tree/master/2_OCR/1_eval_txt)) to verify the well formation of the tag and another one ([2_ALTO_XML_trans](https://github.com/carolinecorbieres/ArtlasCatalogues/tree/master/2_OCR/2_ALTO_XML_trans)) to correct automatically the malformed tags and to transform the ALTO-XML files come from the OCR software. You can find her work [here](https://github.com/ljpetkovic/OCR-cat)
+Now we need to process catalogues in a OCR software to get the text of the document. The transcription of each catalogue is augmented by typographical information : bold and italic words are tagged with HTML tags (`<b>`, `</b>`, `<i>` and `</i>`). Then we will use two scripts written by Ljudmila Petkovic, a first one ([1_eval_txt](https://github.com/carolinecorbieres/ArtlasCatalogues/tree/master/2_OCR/1_eval_txt)) to verify the good formation of the tag and another one ([2_ALTO_XML_trans](https://github.com/carolinecorbieres/ArtlasCatalogues/tree/master/2_OCR/2_ALTO_XML_trans)) to correct automatically the malformed tags and to transform the ALTO-XML files come from the OCR software. You can find her work [here](https://github.com/ljpetkovic/OCR-cat)
 
 ## OCR process
 
@@ -26,7 +26,7 @@ In Transkribus :
 
 <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/OCR-2.png" width="50%"></p>
 
-- If you have JPEG images of your catalogue, choose `Upload single document` and add the path to your `exhibCat_NAME_OF_THE_CATALOGUE/JPG` folder you created before. You can add the name of the catalogue in the `Title on server` section. 
+- If you have JPEG images of your catalogue, choose `Upload single document` and add the path to the `exhibCat_NAME_OF_THE_CATALOGUE/JPG` folder you created before. You can add the name of the catalogue in the `Title on server` section. 
 
 <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/OCR-3.png" width="60%"></p>
 
@@ -38,7 +38,7 @@ In Transkribus :
 - In `Text Recognition` select `OCR (Abbyy FineReader)` method and click on `Run...`.
 - Then select `Pages` in the new window and the language(s) of the catalogue and click on `OK`.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/OCR-5.png" width="60%"></p>
 
 **4.** Run the `TYPO_2020_06_15` HTR model. Go to the `Tools` tab. 
 - In `Text Recognition` select `HTR (CITLab)` method and click on `Run...`.
