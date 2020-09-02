@@ -22,11 +22,11 @@ After you have installed RenderX on your computer, you need to add the XEP proce
 
 ` Options > Préférences... > XML > Sortie PDF > Processeurs FO ` (arrow 1) and click on `Parcourir` (arrow 2) next to "Ajouter un processeur FO 'XEP' (un fichier exécutable est nécessaire)". 
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-1.png" width="70%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-1.png" width="70%"></p>
 
 Then add the path to your `xep` script, in the `XEP` folder you have downloaded.
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-2.png" width="60%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-2.png" width="60%"></p>
 
 ## Transformation
 
@@ -36,21 +36,21 @@ First, you need to open `ExhibitionCatalogues.xpr` project in Oxygen.
  
   **1.** Go to `Catalogues > exhibCat_NAME_OF_THE_CATALOGUE > ALTO` and click on `Transformation > Configurer le/les scénario(s) de transformation...`.
   
-  <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-3.png" width="70%">
+  <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-3.png" width="70%"></p>
   
   **2.** Select the `ALTO_to_FO` scenario and click on `Éditer`.
   
-  <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-4.png" width="70%">
+  <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-4.png" width="70%"></p>
   
   **3.** Check the ` XSL URL `, it should match with your path on the `alto_to_fo.xsl` xsl stylesheet.
   
-  <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-5.png" width="50%">
+  <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-5.png" width="50%"></p>
   
   **4.** Click on ` OK `.
   
   **5.** Then select the `ALTO_to_FO` scenario and click on `Appliquer le/les scénario(s) associé(s)`.
   
-  <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-6.png" width="70%">
+  <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-6.png" width="70%"></p>
   
   **6.** Move the FO files created to `FO` folder.
 
@@ -62,19 +62,19 @@ Now, you need to create a transformation scenario using XEP processor (you just 
   
   **2.** Duplicate the `FO PDF` scenario.
   
-  <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-7.png" width="70%">
+  <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-7.png" width="70%"></p>
   
   **3.** Rename it `XEP_PDF` for example, choose `Stockage: Options de projet` and `Transformateur: Saxon-PE 9.8.0.12`.
   
-  <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-8.png" width="50%">
+  <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-8.png" width="50%"></p>
   
   **4.** In `Processeur FO` tab, click on `exécuter le traitement FO` and select `Méthode: pdf` and `Processeur: XEP`.
   
-  <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-9.png" width="50%">
+  <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-9.png" width="50%"></p>
   
   **5.** In `Sortie` tab, select `Enregistrer sous` and write : `${cfn}.pdf`.
   
-  <img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-10.png" width="50%">
+  <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/ALTOtoFO-10.png" width="50%"></p>
   
   **6.** Click on `OK`.
   
