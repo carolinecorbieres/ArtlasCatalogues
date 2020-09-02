@@ -2,6 +2,7 @@
 <?xml-model href="../../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="exhibCat_1892_Paris_SocieteArtistesIndependants">
+   <!-- Le nom de chaque fichier est indiqué à l'emplacement "xml:id="file_name"" -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,23 +16,20 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <name>VISUAL CONTAGIONS project</name>
+               <name>VISUAL CONTAGIONS</name>
                <persName type="director">Béatrice Joyeux-Prunel</persName>
-               <orgName>ENS</orgName>
+               <orgName>UNIGE</orgName>
                <address>
-                  <addrLine>45, rue d'Ulm</addrLine>
-                  <postCode>75005</postCode>
-                  <settlement>Paris</settlement>
+                  <addrLine>Rue des Battoirs 7</addrLine>
+                  <postCode>1205</postCode>
+                  <settlement>Genève</settlement>
                </address>
             </publisher>
             <date when="2020"/>
-            <availability>
-               <!-- Text license -->
+            <availability><!-- Licence texte -->
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY</licence>
-               <!-- Images license -->
-               <licence
-                  target="https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"
-               />
+               <!-- Licence images -->
+               <licence target="https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"/>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -45,15 +43,15 @@
                <date when="1892">1892</date>
                <date type="first_publication_number"/>
                <date type="last_publication_number"/>
-               <relatedItem>
+               <relatedItem><!-- Localisation de l'original -->
                   <msDesc>
                      <msIdentifier>
-                        <repository>Bibliothèque Nationale de France</repository>
+                        <repository>Bibliothèque nationale de France</repository>
                      </msIdentifier>
                      <additional>
-                        <surrogates>
+                        <surrogates><!-- Lien vers sa version numérisée -->
                            <ref facs="https://gallica.bnf.fr/ark:/12148/bpt6k1269951h"/>
-                           <name role="digitisation">Bibliothèque Nationale de France</name>
+                           <name role="digitisation">Bibliothèque nationale de France</name>
                         </surrogates>
                      </additional>
                   </msDesc>
@@ -61,22 +59,24 @@
                <extent>1 vol. (75 p.) ; 18 cm</extent>
                <note/>
             </bibl>
-            <listEvent>
-               <event type="exhibition" subtype="fixed" from="1892-03-19" to="1892-04-27">
-                  <head>8e Exposition du 19 mars au 27 avril 1892, Pavillon de la ville de Paris,
-                     Champs Elysées</head>
+            <listEvent><!-- Concernant l'attribut "subtype" de la balise "event", indiquer "travelling" si l'exposition est itinérante, ou "fixed" si elle ne l'est pas -->
+               <event type="exhibition"
+                  subtype="fixed"
+                  from="1892-03-19"
+                  to="1892-04-27">
+                  <head>8e Exposition du 19 mars au 27 avril 1892, Pavillon de la ville de Paris, Champs Elysées</head>
                   <head type="salon">Salon des indépendants</head>
-                  <desc>
-                     <listPlace>
+                  <desc><!-- Liste des lieux -->
+                     <listPlace><!-- Enchaînement de balises répétable (dans le cas où il y aurait plusieurs sections (= adresses) pour un même catalogue d'exposition) -->
                         <place>
                            <head/>
                            <placeName>
-                              <orgName type="room">﻿Pavillon de la ville de Paris</orgName>
+                              <orgName type="room">Pavillon de la ville de Paris</orgName>
+                              <!-- Deux adresses sont encodées : celle indiquée dans l'imprimé et sa version normalisée -->
                               <choice>
                                  <orig>
                                     <address n="address_from_source">
-                                       <addrLine>Pavillon de la ville de Paris
-                                          (Champs-Elysées)</addrLine>
+                                       <addrLine>Pavillon de la ville de Paris (Champs-Elysées)</addrLine>
                                     </address>
                                  </orig>
                                  <reg>
@@ -94,6 +94,7 @@
                            </placeName>
                            <note/>
                         </place>
+                        <place><!-- Répétition des balises possible comme indiqué ci-dessus --></place>
                      </listPlace>
                   </desc>
                </event>
@@ -125,8 +126,7 @@
          </appInfo>
       </encodingDesc>
       <revisionDesc><!-- Descriptif des révisions du fichier -->
-         <change who="nom"
-            ><!-- Indiquer la modification ou la correction apportée au fichier --></change>
+         <change who="name"><!-- Indiquer la modification ou la correction apportée au fichier --></change>
       </revisionDesc>
    </teiHeader>
    <text>

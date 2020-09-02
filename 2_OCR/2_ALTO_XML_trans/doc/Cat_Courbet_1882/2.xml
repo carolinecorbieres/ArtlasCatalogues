@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-06-18T14:56:31.861+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2481" WIDTH="1749">
+         <TopMargin HEIGHT="1025" WIDTH="1749" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="254" WIDTH="393" VPOS="1025" HPOS="0"/>
+         <RightMargin HEIGHT="254" WIDTH="433" VPOS="1025" HPOS="1316"/>
+         <BottomMargin HEIGHT="1202" WIDTH="1749" VPOS="1279" HPOS="0"/>
+         <PrintSpace HEIGHT="254" WIDTH="923" VPOS="1025" HPOS="393">
+            <TextBlock ID="r_1_1" HEIGHT="50" WIDTH="793" VPOS="1030" HPOS="518">
+               <Shape>
+                  <Polygon POINTS="518,1030 1311,1030 1311,1080 518,1080"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="1082"
+                         HEIGHT="56"
+                         WIDTH="803"
+                         VPOS="1026"
+                         HPOS="513">
+                  <String HEIGHT="56"
+                          WIDTH="336"
+                          VPOS="1026"
+                          HPOS="494"
+                          CONTENT="&lt;i&gt;S'adresser,"/>
+                  <SP HEIGHT="56" WIDTH="19" VPOS="1026" HPOS="830"/>
+                  <String HEIGHT="56"
+                          WIDTH="149"
+                          VPOS="1026"
+                          HPOS="774"
+                          CONTENT="pour"/>
+                  <SP HEIGHT="56" WIDTH="19" VPOS="1026" HPOS="924"/>
+                  <String HEIGHT="56"
+                          WIDTH="149"
+                          VPOS="1026"
+                          HPOS="868"
+                          CONTENT="tous"/>
+                  <SP HEIGHT="56" WIDTH="19" VPOS="1026" HPOS="1017"/>
+                  <String HEIGHT="56"
+                          WIDTH="373"
+                          VPOS="1026"
+                          HPOS="943"
+                          CONTENT="renseignements&lt;/i&gt;"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_1" HEIGHT="147" WIDTH="909" VPOS="1127" HPOS="398">
+               <Shape>
+                  <Polygon POINTS="398,1127 1307,1127 1307,1274 398,1274"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="1179"
+                         HEIGHT="51"
+                         WIDTH="908"
+                         VPOS="1128"
+                         HPOS="404">
+                  <String HEIGHT="51"
+                          WIDTH="324"
+                          VPOS="1128"
+                          HPOS="382"
+                          CONTENT="&lt;i&gt;relatifs"/>
+                  <SP HEIGHT="51" WIDTH="22" VPOS="1128" HPOS="707"/>
+                  <String HEIGHT="51" WIDTH="108" VPOS="1128" HPOS="642" CONTENT="à"/>
+                  <SP HEIGHT="51" WIDTH="22" VPOS="1128" HPOS="750"/>
+                  <String HEIGHT="51"
+                          WIDTH="368"
+                          VPOS="1128"
+                          HPOS="685"
+                          CONTENT="l’Exposition,"/>
+                  <SP HEIGHT="51" WIDTH="22" VPOS="1128" HPOS="1053"/>
+                  <String HEIGHT="51" WIDTH="108" VPOS="1128" HPOS="988" CONTENT="à"/>
+                  <SP HEIGHT="51" WIDTH="22" VPOS="1128" HPOS="1096"/>
+                  <String HEIGHT="51"
+                          WIDTH="130"
+                          VPOS="1128"
+                          HPOS="1031"
+                          CONTENT="M."/>
+                  <SP HEIGHT="51" WIDTH="22" VPOS="1128" HPOS="1161"/>
+                  <String HEIGHT="51"
+                          WIDTH="238"
+                          VPOS="1128"
+                          HPOS="1074"
+                          CONTENT="HARO,&lt;/i&gt;"/>
+               </TextLine>
+               <TextLine ID="tl_3"
+                         BASELINE="1282"
+                         HEIGHT="62"
+                         WIDTH="848"
+                         VPOS="1220"
+                         HPOS="393">
+                  <String HEIGHT="62"
+                          WIDTH="389"
+                          VPOS="1220"
+                          HPOS="375"
+                          CONTENT="&lt;i&gt;peintre-expert,"/>
+                  <SP HEIGHT="62" WIDTH="18" VPOS="1220" HPOS="764"/>
+                  <String HEIGHT="62"
+                          WIDTH="124"
+                          VPOS="1220"
+                          HPOS="711"
+                          CONTENT="rue"/>
+                  <SP HEIGHT="62" WIDTH="18" VPOS="1220" HPOS="835"/>
+                  <String HEIGHT="62"
+                          WIDTH="247"
+                          VPOS="1220"
+                          HPOS="782"
+                          CONTENT="Visconsti,"/>
+                  <SP HEIGHT="62" WIDTH="18" VPOS="1220" HPOS="1029"/>
+                  <String HEIGHT="62"
+                          WIDTH="124"
+                          VPOS="1220"
+                          HPOS="976"
+                          CONTENT="14,"/>
+                  <SP HEIGHT="62" WIDTH="18" VPOS="1220" HPOS="1100"/>
+                  <String HEIGHT="62"
+                          WIDTH="212"
+                          VPOS="1220"
+                          HPOS="1029"
+                          CONTENT="Parts&lt;/i&gt;."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

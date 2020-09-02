@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-06-18T14:55:47.337+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3252" WIDTH="2208">
+         <TopMargin HEIGHT="99" WIDTH="2208" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3047" WIDTH="47" VPOS="99" HPOS="0"/>
+         <RightMargin HEIGHT="3047" WIDTH="0" VPOS="99" HPOS="2208"/>
+         <BottomMargin HEIGHT="106" WIDTH="2208" VPOS="3146" HPOS="0"/>
+         <PrintSpace HEIGHT="3047" WIDTH="2161" VPOS="99" HPOS="47">
+            <GraphicalElement ID="r_2" HEIGHT="14" WIDTH="541" VPOS="3130" HPOS="1667"/>
+            <GraphicalElement ID="r_3" HEIGHT="516" WIDTH="15" VPOS="106" HPOS="47"/>
+            <GraphicalElement ID="r_4" HEIGHT="337" WIDTH="12" VPOS="2096" HPOS="60"/>
+            <GraphicalElement ID="r_5" HEIGHT="712" WIDTH="28" VPOS="2434" HPOS="63"/>
+            <GraphicalElement ID="r_6" HEIGHT="882" WIDTH="38" VPOS="2091" HPOS="2097"/>
+            <GraphicalElement ID="r_7" HEIGHT="366" WIDTH="24" VPOS="1426" HPOS="2100"/>
+            <GraphicalElement ID="r_8" HEIGHT="213" WIDTH="7" VPOS="1910" HPOS="2130"/>
+            <GraphicalElement ID="r_9" HEIGHT="52" WIDTH="5" VPOS="778" HPOS="51"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

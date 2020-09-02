@@ -5,8 +5,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron"
    xmlns:sch="http://purl.oclc.org/dsdl/schematron" xml:lang="en">
    <!-- This ODD is based on the work of Lucie Rondeau du Noyer, Simon Gabay and Matthias Gille Levenson -->
-
-   <!-- !!! PROBLEME A RESOUDRE : réussir à faire accepter <signatures> hors du msDesc !!! -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,7 +17,7 @@
             <authority>VISUAL CONTAGIONS</authority>
          </publicationStmt>
          <sourceDesc>
-            <p>Derived from sources listed here<ref
+            <p>Derived from sources listed <ref
                   target="https://docs.google.com/spreadsheets/d/1RL9ti8pLTFF9X4kR6K1JbphfVLFxssarHew9mtrlKaA/edit#gid=1979735129"
                   >here</ref> and from the UNIGE server.</p>
          </sourceDesc>
@@ -33,39 +31,38 @@
          <div1>
             <head>Introduction</head>
             <p>This document presents the encoding specifications for the sources published by the
-               VISUAL CONTAGIONS project. Some sources, the exhibition catalogs, will expand BasArt,
+               VISUAL CONTAGIONS project. Among these sources, some of the exhibition catalogs, will expand BasArt,
                the database of an older project, Artl@s.</p>
             <p>The aim of the VISUAL CONTAGIONS project is to study the global circulation of images
-               from the 1890s to the advent of the Internet. It involves innovative research on a
+               from the 1890s to the advent of the Internet. It involves an innovative research on a
                corpus of images that need to be recovered, described, dated and georeferenced. Then,
-               there will be analysed with using artificial vision algorithms, to identify the most
-               reproduced images and patterns that circulated between 1890 and 1990.</p>
+               they will be analysed with the help of artificial vision algorithms, in order to identify the most
+               reproduced images and the patterns that circulated the more between 1890 and 1990.</p>
             <p>To visualize the circulation of images, VISUAL CONTAGIONS deploys a global IIIF
                database of images. This portal will group scanned images (which will be stored on
-               UNIGE's servers) and external images (accessible through their IIIF manifests). The
+               UNIGE servers) and external images (accessible through their IIIF manifests). The
                encoded metadata will mainly be used for the generation of manifests, but it will
                also, in the case of the exhibition catalogs, expand BasArt.</p>
-            <p>As for Artl@s, it oversees several research projects on artistic and cultural
-               globalization, engaged in the decentering of sources and narratives. It also
-               nourishes an in-depth reflection on digital methodologies and on the circulation of
-               images until the digital age.</p>
+            <p>As for Artl@s, it manages several research projects on artistic and cultural
+               globalization. It also takes an active interest in digital methodologies and in
+               the circulation of images.</p>
             <p>One of its projects is BasArt, an online database of exhibition catalogs from the
-               19th and 20th. To supply the database, Béatrice Joyeux-Prunel decided to find a way
-               to process and structure exhibition scanned catalogs in order to easily complete the
-               database. We decided to use a pivot XML-TEI format and GROBID-dictionaries, a
-               machine-learning software designed to automatically structure lexicographical
-               resources, to automatically encode exhibition catalogs.</p>
+               19th and 20th centuries. To expand the database, Béatrice Joyeux-Prunel decided to find a way
+               to process and structure the scanned exhibition catalogs in order to easily complete the
+               database. They decided to use a pivot XML-TEI format and GROBID-dictionaries (a
+               machine-learning software designed to automatically structure the lexicographical
+               resources and to automatically encode the exhibition catalogs).</p>
             <div2>
                <head>Corpus</head>
                <p>The main corpus of VISUAL CONTAGIONS is made up of five types of printed and
                   illustrated sources: exhibition catalogs, sales catalogs, periodicals, political
-                  and advertising posters and chapbooks. But these encoding specifications concerns
+                  and advertising posters and chapbooks. But these encoding specifications concern
                   only two types of sources: the exhibition catalogs and the periodicals. The other
                   sources will be integrated into the project in the future.</p>
             </div2>
             <div2>
                <head>The encoding structure</head>
-               <p>The encoding structure is composed by a <gi>teiHeader</gi> and a <gi>body</gi>.
+               <p>The encoding structure is composed of a <gi>teiHeader</gi> and a <gi>body</gi>.
                   These two parts are derived from two different steps of the project. The
                   information relating to the header concerns both periodicals and exhibition
                   catalogs, while the information relating to the body concerns only exhibition
@@ -101,7 +98,7 @@
                            <availability>
                               <!-- Text License -->
                               <licence/>
-                              <!-- Images license -->
+                              <!-- Images License -->
                               <licence/>
                            </availability>
                         </publicationStmt>
@@ -176,6 +173,10 @@
                            <language ident="language"/>
                         </langUsage>
                      </profileDesc>
+                     <encodingDesc>
+                        <!-- It concerns only the exhibition catalogs encoded with GROBID-dictionaries -->
+                        <p/>
+                     </encodingDesc>
                      <revisionDesc>
                         <change who="name"/>
                      </revisionDesc>
@@ -183,9 +184,9 @@
                </egXML>
                <p>The catalog's <gi>body</gi> is derived from the GROBID-dictionaries output.
                   However, the encoded output does not correspond to our encoding for exhibition
-                  catalogs, so we transform some tags thanks to a XSLT stylesheet. Then we get an
+                  catalogs, so we must transform some tags thanks to a XSLT stylesheet. Then we get an
                   encoded catalog based on the five levels of GROBID-dictionaries which are the
-                  following ones:</p>
+                  following ones: </p>
                <egXML xmlns="http://www.tei-c.org/ns/Examples">
                   <body>
                      <entry>
@@ -202,9 +203,9 @@
                   </body>
                </egXML>
                <p>In order to refine the encoding, we decided to add tags to specify biographical
-                  informations and descriptive informations about the exhibited work that could be
+                  and descriptive information about the exhibited work that could be
                   added in a second time, by hand or thanks to a script.</p>
-               <p>Concerning the periodicals, we decided to let an empty <gi>body</gi> for now,
+               <p>Concerning the periodicals, we decided to leave an empty <gi>body</gi> for the moment,
                   because we only want to encode metadata.</p>
             </div2>
          </div1>
@@ -213,12 +214,12 @@
             <div2>
                <head>The TEI Header structure (<gi>teiHeader</gi>)</head>
                <p>This <gi>teiHeader</gi> was built to fulfill several objectives related to the
-                  VISUAL CONTAGIONS project. It had to contain the information necessary to generate
-                  IIIF manifests and also the information necessary for BasArt, the database of the
+                  VISUAL CONTAGIONS project. It had to contain the necessary information to generate
+                  IIIF manifests and also the necessary information for BasArt, the database of the
                   Artl@s project (some exhibition catalogs will expand the database). Moreover, this
                      <gi>teiHeader</gi> had to be adapted to encode the different types of sources
-                  choosed for the project (exhibition catalogs, periodicals for the moment).</p>
-               <p>This <gi>teiHeader</gi> is composed of three main sections : <specList>
+                  chosen for the project (exhibition catalogs and periodicals for the moment).</p>
+               <p>This <gi>teiHeader</gi> is composed of three main sections: <specList>
                      <specDesc key="fileDesc"/>
                      <specDesc key="profileDesc"/>
                      <specDesc key="revisionDesc"/>
@@ -229,7 +230,7 @@
                      contains the bibliographic description of the electronic version of the
                      exhibition catalog or periodical. It gives information about the present
                      document as well as about its source (paper and digitised version).</p>
-                  <p>It contains itself three sections : <specList>
+                  <p>It contains itself three sections: <specList>
                         <specDesc key="titleStmt"/>
                         <specDesc key="publicationStmt"/>
                         <specDesc key="sourceDesc"/>
@@ -296,10 +297,10 @@
                      <egXML xmlns="http://www.tei-c.org/ns/Examples">
                         <date when="2020"/>
                         <availability>
-                           <!-- Text license -->
+                           <!-- Text License -->
                            <licence target="https://creativecommons.org/licenses/by/4.0/"
                               >CC-BY</licence>
-                           <!-- Images license -->
+                           <!-- Images License -->
                            <licence
                               target="https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"
                            />
@@ -311,7 +312,7 @@
                      <p>The <gi>sourceDesc</gi> contains the description of the source of the
                         electronic document, and for the exhibition catalogs, it contains
                         information about the event associated with the source. It contains two main
-                        sections : <specList>
+                        sections: <specList>
                            <specDesc key="bibl"/>
                            <specDesc key="listEvent"/>
                         </specList></p>
@@ -342,9 +343,9 @@
                         <egXML xmlns="http://www.tei-c.org/ns/Examples">
                            <bibl type="exhibition_catalog"/>
                         </egXML>
-                        <p>To differentiate the physical location of the document (repository) and
-                           informations about its digital version (URL and author of the
-                           digitisation), we decided to use a <gi>relatedItem</gi> element.</p>
+                        <p>We decided to use a <gi>relatedItem</gi> element, to differentiate the physical location of the document (repository) and
+                           the information about its digital version (URL and author of the
+                           digitisation).</p>
                         <egXML xmlns="http://www.tei-c.org/ns/Examples">
                            <relatedItem>
                               <msDesc>
@@ -368,8 +369,8 @@
                         <head>The List of Events (<gi>listEvent</gi>)</head>
                         <p>The exhibition is described within an <gi>event</gi> tag, itself
                            contained in a <gi>listEvent</gi> tag. The type of event, as well as if
-                           the exhibition is travelling or not and the dates of the event are
-                           indicated in attributes placed on the <gi>event</gi> element. These
+                           the exhibition is a travelling one or not and the dates of the event are
+                           indicated in attributes placed on the <gi>event</gi> element. These pieces of
                            information are necessary for the BasArt database (Artl@s project).</p>
                         <egXML xmlns="http://www.tei-c.org/ns/Examples">
                            <event type="exhibition" subtype="fixed" from="1925-04-28"
@@ -377,17 +378,18 @@
                         </egXML>
                         <p>Then there are two <gi>head</gi> elements. In the first one, we indicate
                            the title of the exhibition and the second one, concerns the exhibition
-                           group title (if it exists). A type attribute placed on the second
+                           group title (when it exists). A type attribute placed on the second
                               <gi>head</gi> specifies the type of the exhibition.</p>
                         <egXML xmlns="http://www.tei-c.org/ns/Examples">
                            <head>La Chine à l'exposition internationale des arts décoratifs et
                               industriels modernes à Paris</head>
                            <head type="artists_group"/>
                         </egXML>
-                        <p>The addresses list of the exhibition are specified in a <gi>desc</gi>
+                        <p>The addresses list of the exhibition is specified in a <gi>desc</gi>
                            element. We separated the address indicated in the printout and its
                            standardized version in
-                              <gi>choice</gi><gi>orig</gi><gi>reg</gi><gi>choice</gi> elements.</p>
+                              <gi>choice</gi><gi>orig</gi><gi>reg</gi><gi>choice</gi> elements.
+                           In some cases, there may be more than one address per section.</p>
                         <egXML xmlns="http://www.tei-c.org/ns/Examples">
                            <desc>
                               <!-- List of places -->
@@ -454,12 +456,12 @@
                   <p>The <gi>encodingDesc</gi> specifies the applications we used in our workflow to
                      encode catalogs. It has two elements: <list>
                         <item>The <gi>samplingDecl</gi> (with a child element <gi>p</gi>) indicates
-                           the choice we made to process only the parts of catalogs that are lists
+                           the choice we made to process only the parts of the catalogs that are lists
                            of entries. This precision is added automatically thanks to the XSLT
                            stylesheet.</item>
                         <item>The <gi>appInfo</gi> (with a child element <gi>application</gi>)
                            specifies the applications we used in our worflow. We automatically added
-                           informations concerning Transkribus and GROBID-dictionaries thanks to the
+                           information concerning Transkribus and GROBID-dictionaries thanks to the
                            XSLT stylesheet.</item>
                      </list>
                   </p>
@@ -467,7 +469,7 @@
                      <encodingDesc>
                         <samplingDecl>
                            <p>This electronic version of the catalog only reproduces the entries
-                              that correspond to exhibited works. All text preceding or succeeding
+                              that correspond to exhibited works. All the text preceding or succeeding
                               the list of documents is not reproduced below.</p>
                         </samplingDecl>
                         <appInfo>
@@ -484,7 +486,6 @@
                      </encodingDesc>
                   </egXML>
                </div3>
-
                <div3>
                   <head>The Revision Description (<gi>revisionDesc</gi>)</head>
                   <p>In this tag are indicated the modifications made to the file, as well as their
@@ -497,12 +498,11 @@
                   </egXML>
                </div3>
             </div2>
-
             <div2>
                <head>The Text Structure of exhibition catalogs (<gi>text</gi>)</head>
                <p>The <gi>body</gi> of exhibition catalogs is composed of several <gi>entry</gi>
-                  recording exhibited works and some informations about the exhibitor.</p>
-               <p>Sometimes, entries can be grouped by <gi>list</gi>, which indicates the name of a
+                  recording exhibited works and some information about the exhibitor.</p>
+               <p>Sometimes, entries can be grouped by <gi>list</gi>, which indicate the name of a
                   section such as the location of the work in the exhibition (gallery 1, red wing…),
                   or artistic forms (paintings, sculpture, architecture…). We have to encode lists
                   by hand because GROBID-dictionaries is not able to do it.</p>
@@ -513,16 +513,15 @@
                      <entry n="2"/>
                   </list>
                </egXML>
-               <p>Each <gi>entry</gi> contains four sections : <specList>
+               <p>Each <gi>entry</gi> contains four sections: <specList>
                      <specDesc key="num"/>
                      <specDesc key="desc"/>
                      <specDesc key="item"/>
                      <specDesc key="note"/>
                   </specList></p>
-
                <div3>
                   <head>The num section (<gi>num</gi>)</head>
-                  <p>The <gi>num</gi> is an optional tag to encode the numero of the entry when it
+                  <p>The <gi>num</gi> is an optional tag to encode the number of the entry when it
                      is not attached to the work but to the entry in general. It is the case in some
                      catalogs which present lots or stands.</p>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -537,18 +536,17 @@
                      </entry>
                   </egXML>
                </div3>
-
                <div3>
                   <head>The desc section (<gi>desc</gi>)</head>
-                  <p>The <gi>desc</gi> gives informations about the exhibitor. It can have two child
-                     elements : <list>
+                  <p>The <gi>desc</gi> gives information about the exhibitor. It can have two child
+                     elements: <list>
                         <item>The mandatory element <gi>name</gi> indicates the name of the
                            exhibitor. It has a <att>role</att>="exhibitor" attribute to specify the
                            role of the person or organisation named in the entry. In a second time,
                            we could refine the encoding by adding <gi>surname</gi> and
                               <gi>forename</gi> tags.</item>
                         <item>The non-mandatory element <gi>trait</gi> (with a child element
-                              <gi>p</gi>) indicates biographical informations about the exhibitor.
+                              <gi>p</gi>) indicates biographical information about the exhibitor.
                            In a second time, we could refined the encoding by adding <gi>birth</gi>,
                               <gi>occupation</gi>, <gi>residence</gi>, <gi>education</gi>,
                               <gi>death</gi>, <gi>affiliation</gi>, <gi>nationality</gi> and/or
@@ -566,19 +564,18 @@
                      </desc>
                   </egXML>
                </div3>
-
                <div3>
                   <head>The item section (<gi>item</gi>)</head>
-                  <p>The <gi>item</gi> gives informations about the work exhibited. An
+                  <p>The <gi>item</gi> gives information about the exhibited work. An
                         <gi>entry</gi> could contain several items. Each item has a <att>n</att>
                      attribute referring to the <gi>num</gi> element. It can have three child
-                     elements : <list>
+                     elements: <list>
                         <item>The non-mandatory element <gi>num</gi> indicates the number of the
                            work.</item>
                         <item>The non-mandatory element <gi>title</gi> indicates the title of the
                            work.</item>
                         <item>The non-mandatory element <gi>desc</gi> indicates descriptive
-                           informations about the work. In a second time, we could refined the
+                           information about the work. In a second time, we could refine the
                            encoding by adding <gi>material</gi>, <gi>dimensions</gi>, <gi>date</gi>,
                               <gi>history</gi>, <gi>org</gi> (place), <gi>measure</gi> (price),
                               <gi>event</gi>, <gi>note</gi>, <gi>quote</gi> and/or
@@ -603,7 +600,6 @@
                      </item>
                   </egXML>
                </div3>
-
                <div3>
                   <head>The note section (<gi>note</gi>)</head>
                   <p>The <gi>note</gi> is an optional tag to encode general notes about the
@@ -611,8 +607,8 @@
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
                      <entry>
                         <desc>
-                           <persName role="exhibitor">
-                              <surname>ADELINE</surname> (<forename>Jules</forename>), </persName>
+                           <name role="exhibitor">
+                              <surname>ADELINE</surname> (<forename>Jules</forename>), </name>
                            <trait>
                               <p><birth>Né à Rouen</birth>. Médaille de bronze, Caen, 1873.
                                     <residence>Rue Eau-de-Robec, 36, Rouen</residence>.</p>
@@ -627,7 +623,6 @@
                   </egXML>
                </div3>
             </div2>
-
             <div2>
                <head>The Text Structure of periodicals (<gi>text</gi>)</head>
                <p>The <gi>body</gi> of periodicals is not encoded, it only contains an empty
@@ -641,7 +636,6 @@
                </egXML>
             </div2>
          </div1>
-
          <div1>
             <head>Encoding specifications</head>
             <schemaSpec ident="oddbyexample" start="TEI ">
@@ -1118,6 +1112,7 @@
                </elementSpec>
                <elementSpec ident="name" mode="change">
                   <attList>
+                     <attDef ident="when" mode="change"/>
                      <!-- add a @role attribute and creation of a closed list of attributes for the <name> element -->
                      <attDef ident="role" mode="change">
                         <valList mode="add" type="closed">
@@ -1126,7 +1121,6 @@
                         </valList>
                      </attDef>
                      <attDef ident="facs" mode="delete"/>
-                     <attDef ident="when" mode="delete"/>
                      <attDef ident="from" mode="delete"/>
                      <attDef ident="to" mode="delete"/>
                      <attDef ident="type" mode="delete"/>
@@ -1135,11 +1129,26 @@
                </elementSpec>
                <elementSpec ident="address" mode="change">
                   <attList>
+                     <!-- add a @n attribute and creation of a closed list of attributes for the <address> element -->
+                     <attDef ident="n" mode="change">
+                        <valList mode="add" type="closed">
+                           <valItem ident="address_from_source"/>
+                           <valItem ident="section_address"/>
+                        </valList>
+                     </attDef>
                      <attDef ident="facs" mode="delete"/>
                   </attList>
                </elementSpec>
                <elementSpec ident="addrLine" mode="change">
                   <attList>
+                     <!-- add a @n attribute and creation of a closed list of attributes for the <addrLine> element -->
+                     <attDef ident="n" mode="change">
+                        <valList mode="add" type="closed">
+                           <valItem ident="floor"/>
+                           <valItem ident="additional_address"/>
+                           <valItem ident="locality"/>
+                        </valList>
+                     </attDef>
                      <attDef ident="facs" mode="delete"/>
                   </attList>
                </elementSpec>

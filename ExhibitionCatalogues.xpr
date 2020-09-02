@@ -10,6 +10,36 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1923_Paris_SocieteArtistesIndependants/ALTO/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ALTO_to_FO</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants_step2_step2_step2.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -41,21 +71,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants_step2.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>transformGROBIDoutput2</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -105,21 +120,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>XEP_PDF</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>Catalogues/exhibCat_1923_Paris_SocieteArtistesIndependants/ALTO/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>ALTO_to_FO</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">

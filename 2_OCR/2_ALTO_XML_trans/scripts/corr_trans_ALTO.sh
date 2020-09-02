@@ -44,14 +44,14 @@ done
 
 
 #  fetch the dpi info from one catalogue image and transform the whole folder
-function dpi_and_transform {
+function transform {
 	echo Processing $1
 	liste_image=( $1/*.jpg ) # create the list of images located in the catalogue folder
 	image=${liste_image[0]} # locate the image in the catalogue folder
-	dpi=$(convert $image -format "%x" info:) # fetch the dpi 
+	#dpi=$(convert $image -format "%x" info:) # fetch the dpi 
 	for f in $1/*.xml # find the ALTO-XML files
 	do 
-		python3 $path_ALTO_XML/scripts/corr_trans_ALTO.py $f $dpi # transform those files with respect to their resolution
+		python3 $path_ALTO_XML/scripts/corr_trans_ALTO.py $f #$dpi # transform those files with respect to their resolution
 		echo "Processing $f" 
 	done	
 }
@@ -87,7 +87,7 @@ if [ "${option_help}" == "h" ]; then
 
 	-h 	Get help/text description of the flags.
 
-For the detailed explanation of the script, go to https://github.com/ljpetkovic/OCR-cat/tree/corr_trans_ALTO/ALTO_XML_trans.
+For the detailed explanation of the script, go to https://github.com/ljpetkovic/OCR-cat/tree/master/ALTO_XML_trans.
 
 			"
 	exit 0
@@ -97,7 +97,7 @@ fi
 if [ "${option_name_single_directory}" == "d" ]; then
 	g=$path_ALTO_XML/doc/$name_single_directory
 	suppr_transformed $g # delete already transformed files
-	dpi_and_transform $g # transform files and convert mm10 to pixels
+	transform $g # convert mm10 to pixels
 	exit 0
 fi
 
@@ -108,7 +108,7 @@ if [ "${option_total}" == "a" ]; then
 	for g in $path_ALTO_XML/doc/* # locate catalogues
 	do  
 		suppr_transformed $g # delete already transformed files
-		dpi_and_transform $g # transform files and convert mm10 to pixels
+		transform $g # convert mm10 to pixels
 	done	
 else
 	for g in $path_ALTO_XML/doc/*  
@@ -116,7 +116,7 @@ else
 		if compgen -G "$g/*_trans.xml" > /dev/null; then # check whether the file ending with '_trans.xml' already exists
         	echo $g "already transformed" # print message that the file is already transformed
 		else
-			dpi_and_transform $g # transform files and convert mm10 to pixels
+			transform $g
 		fi
 	done
 fi  

@@ -1,0 +1,35 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>83.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-06-18T14:57:00.277+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTFAMILY="unknown" FONTSIZE="unknown" FONTTYPE="unknown" FONTWIDTH="unknown" FONTCOLOR="unknown" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2930.314960629921" WIDTH="2065.748031496063">
+      <PrintSpace HEIGHT="83.85826771653544" WIDTH="403.93700787401576" VPOS="1371.259842519685" HPOS="827.9527559055118">
+        <TextBlock ID="r_1_1" HEIGHT="70.86614173228347" WIDTH="390.9448818897638" VPOS="1378.3464566929133" HPOS="835.0393700787401">
+          <TextLine ID="tl_1" BASELINE="1233" HEIGHT="88.58267716535433" WIDTH="401.5748031496063" VPOS="1367.716535433071" HPOS="830.3149606299213">
+            <String HEIGHT="88.58267716535433" WIDTH="516.1417322834645" VPOS="1367.716535433071" HPOS="715.7480314960629" CONTENT="DESSINS" ID="tl_1_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

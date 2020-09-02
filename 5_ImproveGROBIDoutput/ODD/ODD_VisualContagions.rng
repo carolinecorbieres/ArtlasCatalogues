@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2020-07-31T16:11:27Z. .
+Schema generated from ODD source 2020-09-02T10:27:24Z. .
 TEI Edition: Version 3.5.0. Last updated on
 	29th January 2019, revision 3c0c64ec4
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.5.0/
@@ -1544,7 +1544,17 @@ Suggested values include: 1] below; 2] bottom; 3] margin; 4] top; 5] opposite; 6
    <define name="p">
       <element name="p">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(paragraph) marks paragraphs in prose. [3.1. Paragraphs 7.2.5. Speech Contents]</a:documentation>
-         <ref name="macro.paraContent"/>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="birth"/>
+               <ref name="residence"/>
+               <ref name="education"/>
+               <ref name="death"/>
+               <ref name="nationality"/>
+               <ref name="affiliation"/>
+            </choice>
+         </zeroOrMore>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
                   id="oddbyexample-p-abstractModel-structure-p-constraint-report-4">
             <rule context="tei:p">
@@ -1615,12 +1625,8 @@ Suggested values include: 1] below; 2] bottom; 3] margin; 4] top; 5] opposite; 6
                <ref name="dimensions"/>
                <ref name="date"/>
                <ref name="history"/>
-               <ref name="org"/>
                <ref name="measure"/>
-               <ref name="event"/>
                <ref name="note"/>
-               <ref name="quote"/>
-               <ref name="signatures"/>
             </choice>
          </zeroOrMore>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
@@ -1759,6 +1765,21 @@ Normalization 12. Critical Apparatus]</a:documentation>
                </list>
             </attribute>
          </optional>
+         <optional>
+            <attribute name="when">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">supplies the value of the date or time in a standard form, e.g. yyyy-mm-dd.</a:documentation>
+               <choice>
+                  <data type="date"/>
+                  <data type="gYear"/>
+                  <data type="gMonth"/>
+                  <data type="gDay"/>
+                  <data type="gYearMonth"/>
+                  <data type="gMonthDay"/>
+                  <data type="time"/>
+                  <data type="dateTime"/>
+               </choice>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>
@@ -1779,7 +1800,6 @@ Normalization 12. Critical Apparatus]</a:documentation>
             </oneOrMore>
          </group>
          <ref name="att.global.attribute.xmlid"/>
-         <ref name="att.global.attribute.n"/>
          <ref name="att.global.attribute.xmllang"/>
          <ref name="att.global.attribute.xmlbase"/>
          <ref name="att.global.attribute.xmlspace"/>
@@ -1789,6 +1809,17 @@ Normalization 12. Critical Apparatus]</a:documentation>
          <ref name="att.global.responsibility.attribute.cert"/>
          <ref name="att.global.responsibility.attribute.resp"/>
          <ref name="att.global.source.attribute.source"/>
+         <optional>
+            <attribute name="n">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(number) gives a number (or other label) for an element, which is not necessarily unique within the document.</a:documentation>
+               <choice>
+                  <value>address_from_source</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>section_address</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               </choice>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>
@@ -1797,7 +1828,6 @@ Normalization 12. Critical Apparatus]</a:documentation>
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(address line) contains one line of a postal address. [3.5.2. Addresses 2.2.4. Publication, Distribution, Licensing, etc. 3.11.2.4. Imprint, Size of a Document, and Reprint Information]</a:documentation>
          <ref name="macro.phraseSeq"/>
          <ref name="att.global.attribute.xmlid"/>
-         <ref name="att.global.attribute.n"/>
          <ref name="att.global.attribute.xmllang"/>
          <ref name="att.global.attribute.xmlbase"/>
          <ref name="att.global.attribute.xmlspace"/>
@@ -1807,6 +1837,19 @@ Normalization 12. Critical Apparatus]</a:documentation>
          <ref name="att.global.responsibility.attribute.cert"/>
          <ref name="att.global.responsibility.attribute.resp"/>
          <ref name="att.global.source.attribute.source"/>
+         <optional>
+            <attribute name="n">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(number) gives a number (or other label) for an element, which is not necessarily unique within the document.</a:documentation>
+               <choice>
+                  <value>floor</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>additional_address</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>locality</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               </choice>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>
@@ -3688,15 +3731,16 @@ Suggested values include: 1] main; 2] hom (homograph) ; 3] xref (cross reference
    <define name="entry">
       <element name="entry">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a single structured entry in any kind of lexical resource, such as a dictionary or lexicon. [9.1. Dictionary Body and Overall Structure 9.2. The Structure of Dictionary Entries]</a:documentation>
+         <optional>
+            <ref name="num"/>
+         </optional>
          <ref name="desc"/>
-         <ref name="item"/>
          <zeroOrMore>
-            <choice>
-               <ref name="num"/>
-               <ref name="item"/>
-               <ref name="note"/>
-            </choice>
+            <ref name="item"/>
          </zeroOrMore>
+         <optional>
+            <ref name="note"/>
+         </optional>
          <ref name="att.global.attribute.xmlid"/>
          <ref name="att.global.attribute.n"/>
          <ref name="att.global.attribute.xmllang"/>
