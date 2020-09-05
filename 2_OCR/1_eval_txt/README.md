@@ -1,10 +1,12 @@
 # Automatic tag verification and correction
 
+This README is written by Ljudmila Petkovic, you can find all her work [here](https://github.com/ljpetkovic/OCR-cat/tree/GROBID_eval). 
+
 ### Introduction
 
-The current OCR model is tested on the _in-domain_ file from the RDA catalogue (`1871_08_RDA_N028-1.png`).
+The current OCR model is tested on the _in-domain_ file from the RDA catalogue (`tests/1871_08_RDA_N028-1.png`).
 
-The imperfect OCR results (including the typographical information represented by the `<b>`, `</b>`, `<i>`, and `</i>` tags) is in the `Pour_les_tests.txt` file (sample output below):
+The imperfect OCR results (including the typographical information represented by the `<b>`, `</b>`, `<i>`, and `</i>` tags) is in the `tests/Pour_les_tests.txt` file (sample output below):
 
 ```
 5
@@ -47,7 +49,7 @@ a. s., 1845, 1 p. in-8.
 
 1. Check automatically the well-formedness of the  `<b>`, `</b>`, `<i>`, `</i>` tags, whether any open tag is closed, and if the order of the tags is correct. 
 
-   The Python quality control script for the output tags `score_and_correct.py` is written for that purpose.
+   The Python quality control script for the output tags `scripts/score_corr.py` is written for that purpose.
 
 2. Indicate the problems that cannot be solved automatically, *i.e.* the examples requiring manual correction:
    *e.g.*: `<>foo</>`
@@ -92,12 +94,13 @@ The same applies to the malformed `<i>` `</i>` tags.
 
 ### Output description
 
-When you run the script, you need to specify the file and the number of lines you wish to evaluate (if you want to process the whole file, type `all`):
+Two methods for the evaluation of the OCR performance are possible:
 
-```
-Donner le nom du fichier à traiter : Pour_les_tests.txt
-Nombre de lignes à traiter (taper all pour tout le texte) : 105
-```
+1. Specifying a **single** `.txt ` file as a value of the variable `fichier` in the `score_corr.py` script, and running the script;
+
+2. Running the `scripts/score_corr.sh` on **multiple** files located in the `doc` folder.
+
+   <br/>
 
  The programme output is in the format of three columns:
 
@@ -105,13 +108,16 @@ Nombre de lignes à traiter (taper all pour tout le texte) : 105
 * the 2<sup>nd</sup> is the number indicating the possible tag scenarios (cf. below);
 * the 3<sup>rd</sup> could be either the error signalisation or the suggestion of the correction. 
 
-The possible code's outputs (corresponding to the situation after the possible correction) for the initially well-formed tags:<br><br>
-**0**: line with no tags, no error message;<br>
+The possible code's outputs (corresponding to the situation after the possible correction):<br><br>
+**0**: line with **no tags**, no error message;<br>
+
+For the initially **well-formed** tags:
+
 **1**: well-formed tags, respecting the order of opening and closing tags (including the original tag well-formedness and the well-formedness resulting from the corrections by the programme), no error message;<br>
 **2**: well-formed tags, there are as many opening as closing tags, but the tag order is not respected, message error `WRONG TAG ORDER`;<br>
 **3**: well-formed tags, but the number of opening and closing tags is not the same, message error `MISSING TAGS`;<br>
 <br>
-In the case of the initially malformed tags, the output of the corrected line is generated instead of the message errors :<br><br>
+In the case of the initially **malformed** tags, the output of the corrected line is generated instead of the message errors :<br><br>
 **1**: well-corrected tags, no message error, output of the corrected line;<br>
 **2**: well-formed tags, no message error, output of the corrected line;<br>
 **3**: no message error, output of the corrected line;<br>
@@ -238,26 +244,32 @@ français. — L. a. s., 1848, 1 p. in-8. 2 50                                  
 
 ### Statistics
 
-| Code                           | Nº of occurrences | %     |
-| ------------------------------ | ----------------- | ----- |
-| 0 (lines with no tags)         | 45                | 42.86 |
-| 1 (initially without problems) | 16                | 15.24 |
+| Type           | Nº of occurrences | %     |
+| -------------- | ----------------- | ----- |
+| Correct tags   | 352               | 41.46 |
+| Incorrect tags | 15                | 1.77  |
 
-##### Initially well-formed tags, not correctable automatically (requiring manual correction)
+##### 
 
-| Code             | Nº of occurrences | %    |
-| ---------------- | ----------------- | ---- |
-| 2 (wrong order)  | 0                 | 0    |
-| 3 (missing tags) | 2                 | 1.90 |
+| Type                          | Nº of occurrences | %    |
+| ----------------------------- | ----------------- | ---- |
+| Not automatically correctable | 3                 | 0.35 |
+| Automatically correctable     | 12                | 1.41 |
 
-##### Initially malformed tags, correctable automatically
 
-| Code                                                | Nº of occurrences | %    |
-| :-------------------------------------------------- | ----------------- | ---- |
-| 1 (well-corrected tags)                             | 7                 | 6.67 |
-| 2 (well-formed tags, bad order)                     | 0                 | 0    |
-| 3 (well-formed tags, missing tags)                  | 1                 | 0.95 |
-| 4 (malformed tags, at least one is not correctable) | 0                 | 0    |
+
+| Type                                     | Nº of occurrences | %     |
+| :--------------------------------------- | ----------------- | ----- |
+| No tags                                  | 482               | 56.77 |
+| Initially without problems with the tags | 352               | 41.46 |
+| Initially well-formed tags               | 3                 | 0.35  |
+| - Wrong order                            | 0                 | 0.00  |
+| - Missing tags                           | 3                 | 0.35  |
+| Initially malformed tags                 | 12                | 1.41  |
+| - Well-corrected tags                    | 11                | 1.30  |
+| - Well-corrected tags, bad order         | 0                 | 0.00  |
+| - Well-corrected tags, missing tags      | 1                 | 0.12  |
+| - Well-corrected tags, empty tags        | 0                 | 0.00  |
 
 ### Remarks
 
@@ -279,8 +291,8 @@ Also:
 * `<b> < > < > </b>` --------------> `<b> < > <b> </b>` : corrected, but the original example is ambiguous (could be either `<b> </b> <b> </b>` or `<b> <i> </i> </b>`);
 * `<b> < > </ > </b>` -------------> `<b> <> </> </b>`.  
 
-### TO DO
+### Related tasks
 
-* Correct automatically the malformed tags in the ALTO-XML files, and run the `corr_ALTO.sh` script (cf. [here](https://github.com/ljpetkovic/OCR-cat/tree/master/ALTO_XML_trans/scripts));
-* Correct manually the text and the tags not recognised properly by the OCR model;
-* Add more test data to check the generalisability of the code;
+* Automatic correction of the malformed tags in the ALTO-XML files, using the `corr_ALTO.sh` script (cf. [here](https://github.com/ljpetkovic/OCR-cat/tree/GROBID_eval/ALTO_XML_trans/scripts));
+* Manual correction of the text and the tags not recognised properly by the OCR model;
+* Adding more test data to check the generalisability of the code;

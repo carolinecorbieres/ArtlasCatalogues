@@ -9,7 +9,10 @@
     
     <!-- This xsl stylesheet is derived from the work of Lucie Rondeau du Noyer, Simon Gabay and Matthias Gille Levenson -->
     
-    <!-- VOIR POUR ASSOCIER ODD DIRECTEMENT AVEC XSL -->
+    <!-- add processing instructions (associate the ODD) -->
+    <xsl:template match="/processing-instruction()">
+        <xsl:call-template name="schemas"/>
+    </xsl:template>
 
     <xsl:template match="TEI" xml:id="{/TEI/@xml:id}">
         <xsl:copy>
@@ -148,6 +151,16 @@
         <xsl:copy>
             <xsl:apply-templates/>
         </xsl:copy>
+    </xsl:template>
+    
+    <!-- template to automatically associate the ODD -->
+    <xsl:template name="schemas">
+        <xsl:processing-instruction name="xml-model">
+            <xsl:text>href="../../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
+        </xsl:processing-instruction>
+        <xsl:processing-instruction name="xml-model">
+            <xsl:text>href="../../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
+        </xsl:processing-instruction>
     </xsl:template>
 
 </xsl:stylesheet>

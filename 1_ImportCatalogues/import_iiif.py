@@ -16,7 +16,7 @@ import time
 
 # This script is based on URI Manifest model: {scheme}://{host}/{prefix}/{identifier}/manifest
 
-# If you want to import IIIF Images from Gallica, you can used the default arguments.  
+# If you want to import IIIF Images from Gallica, you can used the default arguments.   https://bibliotheque-numerique.inha.fr/iiif/21124/manifest
 
 parser = argparse.ArgumentParser(description='IIIF Images import.')
 parser.add_argument( '-s', '--scheme', type=str, default='https', help='protocol')  

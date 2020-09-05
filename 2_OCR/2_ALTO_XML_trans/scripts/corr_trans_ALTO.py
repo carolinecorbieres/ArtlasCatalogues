@@ -9,14 +9,14 @@ fichier = sys.argv[1] #'ALTO_demo.xml' #'1885_12_RDA_N095-1.xml'  # '1871_08_RDA
  
 ########### récupération du dpi #######################
 
-#dpi = int(sys.argv[2]) # 254
+# dpi = int(sys.argv[2]) # 254
 
 ########### récupération du nom du fichier #######################
 
 pattern = r'[^/]+$'
 p = re.compile(pattern)
 result = p.search(fichier)
-fileName = result.group()  
+fileName = result.group()
 
 ##################################################################
 
@@ -70,7 +70,7 @@ for page in root[2].iter('{http://www.loc.gov/standards/alto/v3/alto.xsd}Page'):
 ############    ajout d'une balise <Styles> avec les polices dans l'en-tête     ##########
 
 stylesText = """
-<Styles xmlns="http://www.loc.gov/standards/alto/v3/alto.xsd">
+<Styles>
      <TextStyle ID="FONT0" 
                 FONTSTYLE=""/>
      <TextStyle ID="FONT1"
