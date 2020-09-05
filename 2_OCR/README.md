@@ -130,7 +130,7 @@ cd YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/2_OCR/2_ALTO_XML_/scripts
 bash corr_trans_ALTO.sh -d exhibCat_NAME_OF_THE_CATALOGUE
 ```
 
-**3.** Move the `_trans.xml` files created in the `scripts` folder to the `Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/ALTO` folder. 
+**3.** Move the `_trans.xml` files created in the `scripts` folder to the `Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/ALTO` folder. In order to use GROBID, you can delete all ALTO pages that don't record catalogue entries.
 
 ## Credits
 
