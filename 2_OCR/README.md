@@ -118,7 +118,19 @@ The script output is a the table of 3 columns :
 
 <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/OCR-16.png" width="60%"></p>
 
-**2.**
+- Go to the folder you just created and move the ALTO files (which are in the `alto` folder) in the `doc/exhibCat_NAME_OF_THE_CATALOGUE` folder. You can delete the `alo` folder and the `.xml` files created by Transkribus.
+
+**2.** To transform the ALTO files and correct the OCR, run in the terminal the following commands :
+- Go to the `script` folder.
+```
+cd YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/2_OCR/2_ALTO_XML_/scripts
+```
+- Run the `.sh` script.
+```
+bash corr_trans_ALTO.sh -d exhibCat_NAME_OF_THE_CATALOGUE
+```
+
+**3.** Move the `_trans.xml` files created in the `scripts` folder to the `Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/ALTO` folder. 
 
 ## Credits
 
