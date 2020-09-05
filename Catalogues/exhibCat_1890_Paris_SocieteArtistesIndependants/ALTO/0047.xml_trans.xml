@@ -1,0 +1,60 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>0047.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-04T15:33:43.044+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3064" WIDTH="1928">
+      <PrintSpace HEIGHT="3064" WIDTH="1842" VPOS="0" HPOS="0">
+        <TextBlock ID="r1" HEIGHT="172" WIDTH="696" VPOS="1247" HPOS="528">
+          <TextLine ID="r1l1" BASELINE="1318" HEIGHT="79" WIDTH="706" VPOS="1239" HPOS="523">
+            <String HEIGHT="79" WIDTH="243" VPOS="1239" HPOS="499" CONTENT="20200." ID="r1l1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="79" WIDTH="24" VPOS="1239" HPOS="742"/>
+            <String HEIGHT="79" WIDTH="122" VPOS="1239" HPOS="669" CONTENT="—" ID="r1l1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="79" WIDTH="24" VPOS="1239" HPOS="791"/>
+            <String HEIGHT="79" WIDTH="341" VPOS="1239" HPOS="718" CONTENT="IMPRIMERIE" ID="r1l1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="79" WIDTH="24" VPOS="1239" HPOS="1059"/>
+            <String HEIGHT="79" WIDTH="146" VPOS="1239" HPOS="986" CONTENT="A." ID="r1l1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="79" WIDTH="24" VPOS="1239" HPOS="1132"/>
+            <String HEIGHT="79" WIDTH="195" VPOS="1239" HPOS="1034" CONTENT="LAHURE" ID="r1l1_5" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="r1l2" BASELINE="1418" HEIGHT="71" WIDTH="426" VPOS="1347" HPOS="667">
+            <String HEIGHT="71" WIDTH="128" VPOS="1347" HPOS="646" CONTENT="9," ID="r1l2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="71" WIDTH="21" VPOS="1347" HPOS="774"/>
+            <String HEIGHT="71" WIDTH="149" VPOS="1347" HPOS="710" CONTENT="Rue" ID="r1l2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="71" WIDTH="21" VPOS="1347" HPOS="859"/>
+            <String HEIGHT="71" WIDTH="128" VPOS="1347" HPOS="795" CONTENT="de" ID="r1l2_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="71" WIDTH="21" VPOS="1347" HPOS="923"/>
+            <String HEIGHT="71" WIDTH="256" VPOS="1347" HPOS="859" CONTENT="Fleurus," ID="r1l2_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="71" WIDTH="21" VPOS="1347" HPOS="1114"/>
+            <String HEIGHT="71" WIDTH="64" VPOS="1347" HPOS="1029" CONTENT="9" ID="r1l2_5" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_2" HEIGHT="5" WIDTH="194" VPOS="1180" HPOS="791"/>
+        <GraphicalElement ID="r_3" HEIGHT="5" WIDTH="193" VPOS="1483" HPOS="783"/>
+        <GraphicalElement ID="r_4" HEIGHT="893" WIDTH="40" VPOS="1984" HPOS="1787"/>
+        <GraphicalElement ID="r_5" HEIGHT="1082" WIDTH="43" VPOS="265" HPOS="1796"/>
+        <GraphicalElement ID="r_6" HEIGHT="349" WIDTH="27" VPOS="1635" HPOS="1802"/>
+        <Illustration ID="r_1" HEIGHT="3064" WIDTH="1842" VPOS="0" HPOS="0"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
