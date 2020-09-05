@@ -1,6 +1,8 @@
-# Transformation and evaluation of the ALTO-XML files
-
 This README is written by Ljudmila Petkovic, you can find all her work [here](https://github.com/ljpetkovic/OCR-cat/tree/GROBID_eval). 
+
+--------
+
+# Transformation and evaluation of the ALTO-XML files
 
 ### Introduction
 

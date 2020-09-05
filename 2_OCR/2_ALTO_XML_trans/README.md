@@ -1,6 +1,8 @@
-# Transformation and evaluation of the ALTO-XML files 
-
 This README is written by Ljudmila Petkovic, you can find all her work [here](https://github.com/ljpetkovic/OCR-cat/tree/GROBID_eval). 
+
+--------
+
+# Transformation and evaluation of the ALTO-XML files 
 
 The core idea of redesigning the ALTO-XML files in order to be injected into the GROBID-dictionaries is available [here](https://github.com/ljpetkovic/OCR-cat/blob/GROBID_eval/ALTO_XML_trans/ALTO-transformation.md).<br>
 
