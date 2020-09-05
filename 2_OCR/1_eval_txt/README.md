@@ -1,6 +1,8 @@
-# Automatic tag verification and correction
-
 This README is written by Ljudmila Petkovic, you can find all her work [here](https://github.com/ljpetkovic/OCR-cat/tree/GROBID_eval). 
+
+----------
+
+# Automatic tag verification and correction
 
 ### Introduction
 
