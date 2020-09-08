@@ -25,7 +25,7 @@ cd YOUR_PATH_TO_THE_FOLDER/cpdf-binaries-master/OSX-Intel/
 ./cpdf -split ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/exhibCat_NAME_OF_THE_CATALOGUE-FO.pdf -o ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/%%%%.pdf
 ```
 
-- Rebuild a pdf with the pages you have selected. Don't forget to fill the `PAGE_NUMBER` of the command. To create a train document, you need to substitute `_test.pdf` for `_train.pdf` and add 6 more pages.
+- Rebuild a pdf with the pages you have selected. Don't forget to fill the `PAGE_NUMBER` of the command. To create a train document, you need to substitute `_test.pdf` for `_train.pdf` and add 6 more pages (`~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/PAGE_NUMBER.pdf`).
 ```
 ./cpdf -merge -i ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/PAGE_NUMBER.pdf ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/Catalogues/exhibCat_NAME_OF_THE_CATALOGUE/PDF/PAGE_NUMBER.pdf -o ~/YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/4_GROBID/exhibCat_NAME_OF_YOUR_CATALOGUE_test.pdf
 ```
