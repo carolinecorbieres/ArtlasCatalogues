@@ -10,11 +10,86 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>Catalogues/exhibCat_1890_Paris_SocieteArtistesIndependants/TEI/exhibCat_1890_Paris_SocieteArtistesIndependants.pdf.tei_body.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1890_Paris_SocieteArtistesIndependants/TEI/exhibCat_1890_Paris_SocieteArtistesIndependants.pdf.tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>transformGROBIDoutput2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1890_Paris_SocieteArtistesIndependants/FO/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>XEP_PDF</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1890_Paris_SocieteArtistesIndependants/ALTO/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ALTO_to_FO</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1913_Paris_SocieteArtistesIndependants/ALTO/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ALTO_to_FO</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -135,21 +210,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>XEP_PDF</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>Catalogues/exhibCat_1913_Paris_SocieteArtistesIndependants/ALTO/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>ALTO_to_FO</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">

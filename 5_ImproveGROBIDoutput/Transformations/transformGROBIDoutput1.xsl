@@ -9,12 +9,16 @@
    
     <!-- This xsl stylesheet is derived from the work of Lucie Rondeau du Noyer, Simon Gabay and Matthias Gille Levenson -->
 
-    <!-- VOIR POUR ASSOCIER ODD DIRECTEMENT AVEC XSL -->
+    <!-- add processing instructions (associate the ODD) -->
+    <xsl:template match="/">
+        <xsl:call-template name="schemas"/>
+        <xsl:apply-templates/>
+    </xsl:template>
     
     <xsl:template match="TEI">
         <xsl:copy>
             <!-- Fill the name of the catalogue into <xsl:attribute name="xml:id"> tags -->
-            <xsl:attribute name="xml:id">exhibCat_1892_Paris_SocieteArtistesIndependants</xsl:attribute>
+            <xsl:attribute name="xml:id">exhibCat_NAME_OF_THE_CATALOGUE</xsl:attribute>
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
@@ -100,6 +104,16 @@
         <xsl:element name="desc">
             <xsl:apply-templates/>
         </xsl:element>
+    </xsl:template>
+    
+    <!-- template to automatically associate the ODD -->
+    <xsl:template name="schemas">
+        <xsl:processing-instruction name="xml-model">
+            <xsl:text>href="../../../5_ImproveGROBIDoutput/ODD/ODD_Transformation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
+        </xsl:processing-instruction>
+        <xsl:processing-instruction name="xml-model">
+            <xsl:text>href="../../../5_ImproveGROBIDoutput/ODD/ODD_Transformation.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
+        </xsl:processing-instruction>
     </xsl:template>
 
 </xsl:stylesheet>

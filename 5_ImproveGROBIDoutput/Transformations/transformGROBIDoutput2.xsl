@@ -10,12 +10,15 @@
     <!-- This xsl stylesheet is derived from the work of Lucie Rondeau du Noyer, Simon Gabay and Matthias Gille Levenson -->
     
     <!-- add processing instructions (associate the ODD) -->
-    <xsl:template match="/processing-instruction()">
+    <xsl:template match="/">
         <xsl:call-template name="schemas"/>
+        <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="TEI" xml:id="{/TEI/@xml:id}">
+    <xsl:template match="TEI">
         <xsl:copy>
+            <!-- Fill the name of the catalogue into <xsl:attribute name="xml:id"> tags -->
+            <xsl:attribute name="xml:id">exhibCat_NAME_OF_THE_CATALOGUE</xsl:attribute>
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
@@ -25,9 +28,9 @@
         <xsl:element name="teiHeader">
             <!-- complete the path of the header file : ../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml -->
             <xsl:copy-of
-                select="document('../../Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants_header.xml')/TEI/teiHeader/fileDesc"/>
+                select="document('../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml')/TEI/teiHeader/fileDesc"/>
             <xsl:copy-of
-                select="document('../../Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants_header.xml')/TEI/teiHeader/profileDesc"/>
+                select="document('../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml')/TEI/teiHeader/profileDesc"/>
             <encodingDesc>
                 <samplingDecl>
                     <p>This electronic version of the catalog only reproduces the entries that
@@ -39,7 +42,7 @@
                         <label>Transkribus</label>
                         <ptr target="https://transkribus.eu/Transkribus/"/>
                     </application>
-                    <application version="0.5.4" ident="GROBID" when="">
+                    <application version="0.5.6" ident="GROBID" when="">
                         <label>GROBID_Dictionaries - A machine learning software for structuring
                             digitized dictionaries</label>
                         <ptr target="https://github.com/MedKhem/grobid-dictionaries"/>
@@ -48,7 +51,7 @@
             </encodingDesc>
             <!-- complete the path of the header file : ../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml -->
             <xsl:copy-of
-                select="document('../../Catalogues/exhibCat_1892_Paris_SocieteArtistesIndependants/TEI/exhibCat_1892_Paris_SocieteArtistesIndependants_header.xml')/TEI/teiHeader/revisionDesc"/>
+                select="document('../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml')/TEI/teiHeader/revisionDesc"/>
         </xsl:element>
     </xsl:template>
 
