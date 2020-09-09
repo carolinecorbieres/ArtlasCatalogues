@@ -56,7 +56,7 @@ It will open a new `.xml` document in Oxygen called `exhibCat_NAME_OF_THE_CATALO
 
 <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/output-7.png" width="70%"></p>
 
-- Then you have to correct all the mistakes in the catlogue entries.
+- Then you have to correct all the mistakes in the catalogue entries.
 
 - Finally, look over the encoding carrefully to correct the last mistakes. 
 
