@@ -4,7 +4,63 @@
 
 # Workflow to encode exhibition catalogues
 
-Workflow to do
+The aim of the Artl@s project is to study the global circulation of images from the 1890s to the advent of the Internet. It manages several research projects on artistic and cultural globalization. It also takes an active interest in digital methodologies and in the circulation of images. 
+
+One of its projects is BasArt, an online database of exhibition catalogs from the 19th and 20th centuries. To expand the database, Béatrice Joyeux-Prunel decided to find a way to process and structure the scanned exhibition catalogs in order to easily complete the database. They decided to use a pivot XML-TEI format and GROBID-dictionaries, a machine-learning software designed to automatically structure the lexicographical resources and to automatically encode the exhibition catalogs.
+
+This repository includes all the steps to automatically encode an exhibition catalogue for the Artl@s project. 
+
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/Schema-workflow.png" width="85%"></p>
+
+## Prerequisites
+
+**1.** Download this repository. Run in your terminal this command :
+```
+git clone https://github.com/carolinecorbieres/ArtlasCatalogues.git
+```
+
+**2.** For the steps 1 and 2 you will need to have python 3 installed. Run in your terminal this command : 
+```
+python -m pip install SomePackage
+```
+
+- If you want to work in a virtual environnment, you have to create one : 
+  - Install the virtualenv PyPI library.
+
+  ```
+  pip3 install virtualenv
+  ```
+
+  - Move to the project directory.
+
+  ```
+  cd YOUR_PATH_TO_THE_PROJECT/ArtlasCatalogues
+  ```
+
+  - Set up your Python virtual environment.
+  ```
+  virtualenv -p python3 env
+  ```
+
+  - Activate the environment.
+
+  ```
+  source env/bin/activate
+  ```
+
+- Install libraries and dependencies :
+
+```
+pip3 install -r requirements.txt
+```
+
+## Contribute
+
+You can contribute to the project by encoding new catalogues and/or creating new models for GROBID-dictionaries. If you do so, please update this repository with your new data.
+
+## Thanks
+
+Thanks to Simon Gabay, Matthias Gille Levenson, Ljudmila Petkovic, Auriane Quoix, Jean-Paul Rehr and Lucie Rondeau du Noyer for their help and work. 
 
 ## Credits
 
