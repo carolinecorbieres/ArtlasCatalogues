@@ -20,12 +20,12 @@ After downloading the CSV files, you must open Oxygen XML Editor.
 
 **1.** Go to `File` > `Import` > `Text File`.
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-1.png" width="70%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-1.png" width="70%"></p>
 
 
 **2.** In the dialog box, select the URL of the first CSV file downloaded (PrototypeCSV_exhibCat-periodicals - withoutManifests), click on `Open` and then on the `Next` button.
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-2.png" width="70%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-2.png" width="60%"></p>
 
 
 **3.** Now, the import criteria dialog box is displayed.
@@ -33,15 +33,15 @@ After downloading the CSV files, you must open Oxygen XML Editor.
 - Select the option `First row contains field names`.
 - Click on the `Import` button.
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-3.png" width="70%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-3.png" width="60%"></p>
 
 
 **4.** The new XML document is opened in the editor.
 Go to `File` > `Save` and give this name to the file: "**1-1_CSV_withoutManifests.xml**".
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-4.png" width="70%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-4.png" width="0%"></p>
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-5.png" width="70%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-5.png" width="70%"></p>
 
 
 **You must follow the same procedure to import the second CSV file (PrototypeCSV_exhibCat-periodicals - withManifests) into Oxygen XML Editor.**
@@ -52,7 +52,7 @@ Once you get to **4.**, name it: "**1-2_CSV_withManifests.xml**".
 
 **1.** Open the **2-1_CSVtoTEI_withoutManifests.xsl** file (VISUAL_CONTAGIONS/3_CSVtoTEI/2-1_CSVtoTEI_withoutManifests.xsl) in Oxygen. Or open the **VisualContagions.xpr** project and click on **2-1_CSVtoTEI_withoutManifests.xsl** to open it.
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-6.png" width="70%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-6.png" width="70%"></p>
 
 
 **2.** Now the transformation can be launched.
@@ -64,7 +64,7 @@ Once you get to **4.**, name it: "**1-2_CSV_withManifests.xml**".
 
 The results are in the **3-1_TEI-results_withoutManifests** folder.
 
-<img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-7.png" width="100%">
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/CSVtoTEI-7.png" width="80%"></p>
 
 
 **3.** You can follow the same procedure to transform the other file.
