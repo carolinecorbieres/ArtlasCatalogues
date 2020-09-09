@@ -5,7 +5,7 @@
     
     <!-- Création d'une variable permettant de stocker le chemin jusqu'au dossier devant contenir les fichiers TEI générés automatiquement -->
     <xsl:variable name="dir">
-        <xsl:text>./TEI-results_withoutManifests</xsl:text>
+        <xsl:text>./3-1_TEI-results_withoutManifests</xsl:text>
     </xsl:variable>
 
     <xsl:template match="root">
