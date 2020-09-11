@@ -96,7 +96,7 @@ This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` an
 - Click on the `Auteur` tab and select `Toutes les balises avec attributs` on the upper left-hand corner.
 - Then annotate the file with the `<entry>` tag. Select the text you want to annotate, type `cmd + E` and choose the corresponding tag.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-6.png" width="60%"></p>
 
 **3.** Move the training files in the corresponding folder of the `dataset/dictionary-body-segmentation/corpus` folder.
 - Move the `.xml` file in the `tei` folder.
@@ -127,7 +127,7 @@ This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` an
 - Click on the `Auteur` tab and select `Toutes les balises avec attributs` on the upper left-hand corner.
 - Then annotate the file with the `<lemma>` and `<sense>` tags. Select the text you want to annotate, type `cmd + E` and choose the corresponding tag.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-7.png" width="60%"></p>
 
 **3.** Move the training files in the corresponding folder of the `dataset/lexical-entry/corpus` folder.
 - Move the `.xml` file in the `tei` folder.
@@ -158,7 +158,7 @@ This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` an
 - Click on the `Auteur` tab and select `Toutes les balises avec attributs` on the upper left-hand corner.
 - Then annotate the file with the `<name>` and `<desc>` tags. Select the text you want to annotate, type `cmd + E` and choose the corresponding tag.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-8.png" width="60%"></p>
 
 **3.** Move the training files in the corresponding folder of the `dataset/form/corpus` folder.
 - Move the `.xml` file in the `tei` folder.
@@ -189,7 +189,7 @@ This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` an
 - Click on the `Auteur` tab and select `Toutes les balises avec attributs` on the upper left-hand corner.
 - Then annotate the file with the `<num>`, `<subSense>` and `<note>` tags. Select the text you want to annotate, type `cmd + E` and choose the corresponding tag.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-9.png" width="60%"></p>
 
 **3.** Move the training files in the corresponding folder of the `dataset/sense/corpus` folder.
 - Move the `.xml` file in the `tei` folder.
@@ -266,7 +266,7 @@ This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` an
 - Click on the `Auteur` tab and select `Toutes les balises avec attributs` on the upper left-hand corner.
 - Then annotate the file with the `<entry>` tag. Select the text you want to annotate, type `cmd + E` and choose the corresponding tag.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-6.png" width="60%"></p>
 
 **3.** Move the training files in the corresponding folder of the `dataset/dictionary-body-segmentation/corpus` folder.
 - Move the `.xml` file in the `tei` folder.
@@ -297,7 +297,7 @@ This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` an
 - Click on the `Auteur` tab and select `Toutes les balises avec attributs` on the upper left-hand corner.
 - Then annotate the file with the `<lemma>` and `<sense>` tags. Select the text you want to annotate, type `cmd + E` and choose the corresponding tag.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-7.png" width="60%"></p>
 
 **3.** Move the training files in the corresponding folder of the `dataset/lexical-entry/corpus` folder.
 - Move the `.xml` file in the `tei` folder.
@@ -328,7 +328,7 @@ This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` an
 - Click on the `Auteur` tab and select `Toutes les balises avec attributs` on the upper left-hand corner.
 - Then annotate the file with the `<name>` and `<desc>` tags. Select the text you want to annotate, type `cmd + E` and choose the corresponding tag.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-8.png" width="60%"></p>
 
 **3.** Move the training files in the corresponding folder of the `dataset/form/corpus` folder.
 - Move the `.xml` file in the `tei` folder.
@@ -359,7 +359,7 @@ This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` an
 - Click on the `Auteur` tab and select `Toutes les balises avec attributs` on the upper left-hand corner.
 - Then annotate the file with the `<num>`, `<subSense>` and `<note>` tags. Select the text you want to annotate, type `cmd + E` and choose the corresponding tag.
 
-**IMAGE**
+<p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-9.png" width="60%"></p>
 
 **3.** Move the training files in the corresponding folder of the `dataset/sense/corpus` folder.
 - Move the `.xml` file in the `tei` folder.
