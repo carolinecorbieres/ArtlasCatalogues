@@ -36,6 +36,28 @@ The files are directly created in the `4_GROBID` folder.
 - If you want to add training data to an existing model, you can move the files `exhibCat_NAME_OF_YOUR_CATALOGUE_train.pdf` and `exhibCat_NAME_OF_YOUR_CATALOGUE_test.pdf` in the `TrainingTools/TestTrainingPDF/PDF_testFiles` folder and in the `toyData/dataset/dictionary-segmentation/corpus/pdf` folder.
 - If you want to train a new model, create a new folder named `trainingData_MODEL_NAME_PDF` in `4_GROBID` folder. Then, move your files in the `TrainingTools/TestTrainingPDF/PDF_testFiles` folder and in the `toyData/dataset/dictionary-segmentation/corpus/pdf` folder.
 
+**4.** If you are on Mac OS, you first need to remove the `.DS_Store` file of your `pdf` folder. Run in your terminal the following commands :
+  
+  - Go to your folder.
+   ```
+   cd YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/4_GROBID/toyData/dataset/dictionary-segmentation/corpus/pdf 
+   ```
+   
+  - Look for hidden files. 
+   ```
+   ls -a 
+   ```
+   
+  - If there is a `.DS_Store` file, remove it. 
+   ```
+   rm .DS_Store 
+   ```
+   
+  - Check if you deleted the `.DS_Store` file. 
+   ```
+   ls -a 
+   ```
+
 ### ALTO
 
 TO DO 
@@ -221,7 +243,7 @@ mvn clean install -DskipTests
 
 **3.** Create the training data.
 ```
-java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/exhibCat_1913_Paris_SocieteArtistesIndependants_train/ -isALTO  -dOut resources -exe createTrainingDictionarySegmentation
+java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/ -isALTO  -dOut resources -exe createTrainingDictionarySegmentation
 ```
 
 This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` and `.training.dictionarySegmentation`) in the `toyData` folder.
@@ -255,7 +277,7 @@ mvn generate-resources -P train_dictionary_segmentation -e
 
 **1.** Create the training data.
 ```
-java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/exhibCat_1913_Paris_SocieteArtistesIndependants_test/ -isALTO  -dOut resources -exe createTrainingDictionaryBodySegmentation
+java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/ -isALTO  -dOut resources -exe createTrainingDictionaryBodySegmentation
 ```
 
 This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` and `.dictionaryBodySegmentation`) in the `toyData` folder.
@@ -286,7 +308,7 @@ mvn generate-resources -P train_dictionary_body_segmentation -e
 
 **1.** Create the training data.
 ```
-java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/exhibCat_1913_Paris_SocieteArtistesIndependants_train/ -isALTO  -dOut resources -exe createTrainingLexicalEntry
+java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/ -isALTO  -dOut resources -exe createTrainingLexicalEntry
 ```
 
 This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` and `.lexicalEntry`) in the `toyData` folder.
@@ -317,7 +339,7 @@ mvn generate-resources -P train_lexicalEntries -e
 
 **1.** Create the training data.
 ```
-java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/exhibCat_1913_Paris_SocieteArtistesIndependants_train/ -isALTO  -dOut resources -exe createTrainingForm
+java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/ -isALTO  -dOut resources -exe createTrainingForm
 ```
 
 This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` and `.training.form`) in the `toyData` folder.
@@ -348,7 +370,7 @@ mvn generate-resources -P train_form -e
 
 **1.** Create the training data.
 ```
-java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/exhibCat_1913_Paris_SocieteArtistesIndependants_train/ -isALTO  -dOut resources -exe createTrainingSense
+java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.one-jar.jar -dIn resources/dataset/dictionary-segmentation/corpus/alto/ -isALTO  -dOut resources -exe createTrainingSense
 ```
 
 This command will create 5 different files (`.css`, `.rng`, `.xml`, `.rawtxt` and `.training.sense`) in the `toyData` folder.
