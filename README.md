@@ -60,7 +60,7 @@ You can contribute to the project by encoding new catalogues and/or creating new
 
 ## Thanks
 
-Thanks to Simon Gabay, Matthias Gille Levenson, Ljudmila Petkovic, Auriane Quoix, Jean-Paul Rehr and Lucie Rondeau du Noyer for their help and work. 
+Thanks to Simon Gabay, Matthias Gille Levenson, Ljudmila Petkovic, Auriane Quoix, Jean-Paul Rehr, Lucie Rondeau du Noyer and Barbara Topalov for their help and work. 
 
 ## Credits
 
