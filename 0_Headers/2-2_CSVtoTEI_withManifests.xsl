@@ -29,10 +29,10 @@
     <xsl:template name="header">
         <!-- Instruction de traitement XML qui permet d'associer chaque document à l'ODD -->
         <xsl:processing-instruction name="xml-model">
-            <xsl:text>href="../../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
+            <xsl:text>href="../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
         </xsl:processing-instruction>
         <xsl:processing-instruction name="xml-model">
-            <xsl:text>href="../../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
+            <xsl:text>href="../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
         </xsl:processing-instruction>
         <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file_name">
             <!-- Appel de la règle concernant l'attribut "xml:id" (même procédé réalisé pour les autres attributs) -->

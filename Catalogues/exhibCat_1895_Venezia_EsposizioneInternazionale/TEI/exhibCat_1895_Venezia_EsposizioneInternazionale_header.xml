@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../5_ImproveGROBIDoutput/ODD/ODD_VisualContagions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="exhibCat_1895_Venezia_EsposizioneInternazionale"><!-- Le nom de chaque fichier est indiqué à l'emplacement "xml:id="file_name"" -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prima esposizione internazionale d'arte della citta di venezia. Catalogo illustrato.</title>
+            <editor role="metadata">
+               <persName>Caroline Corbières</persName>
+            </editor>
+            <editor role="data">
+               <persName><!-- Prénom et nom de la personne ayant encodé le corps du texte --></persName>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name>VISUAL CONTAGIONS</name>
+               <persName type="director">Béatrice Joyeux-Prunel</persName>
+               <orgName>UNIGE</orgName>
+               <address>
+                  <addrLine>Rue des Battoirs 7</addrLine>
+                  <postCode>1205</postCode>
+                  <settlement>Genève</settlement>
+               </address>
+            </publisher>
+            <date when="2020"/>
+            <availability><!-- Licence texte -->
+               <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY</licence>
+               <!-- Licence images -->
+               <licence target="http://www.hathitrust.org/access_use#pd-us-google"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="exhibition_catalog">
+               <title>Prima esposizione internazionale d'arte della citta di venezia. Catalogo illustrato.</title>
+               <author/>
+               <editor/>
+               <editor role="director"/>
+               <publisher>Fratelli Visentini</publisher>
+               <pubPlace>Venezia</pubPlace>
+               <date when="1895">1895</date>
+               <date type="first_publication_number"/>
+               <date type="last_publication_number"/>
+               <relatedItem><!-- Localisation de l'original -->
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>University of Michigan</repository>
+                     </msIdentifier>
+                     <additional>
+                        <surrogates><!-- Lien vers sa version numérisée -->
+                           <ref facs="PDF Hathitrust"/>
+                           <name role="digitisation">Google</name>
+                        </surrogates>
+                     </additional>
+                  </msDesc>
+               </relatedItem>
+               <extent>1 vol. (420 p.)</extent>
+               <note/>
+            </bibl>
+            <listEvent><!-- Concernant l'attribut "subtype" de la balise "event", indiquer "travelling" si l'exposition est itinérante, ou "fixed" si elle ne l'est pas -->
+               <event type="exhibition"
+                      subtype="fixed"
+                      from="1895-04-28"
+                      to="1895-10-21">
+                  <head>Prima esposizione internazionale d'arte della citta di venezia</head>
+                  <head/>
+                  <desc><!-- Liste des lieux -->
+                     <listPlace><!-- Enchaînement de balises répétable (dans le cas où il y aurait plusieurs sections (= adresses) pour un même catalogue d'exposition) -->
+                        <place>
+                           <head/>
+                           <placeName>
+                              <orgName>?</orgName>
+                              <!-- Deux adresses sont encodées : celle indiquée dans l'imprimé et sa version normalisée -->
+                              <choice>
+                                 <orig>
+                                    <address n="address_from_source">
+                                       <addrLine/>
+                                    </address>
+                                 </orig>
+                                 <reg>
+                                    <address n="section_address">
+                                       <street/>
+                                       <addrLine n="floor"/>
+                                       <addrLine n="additional_address"/>
+                                       <addrLine n="locality"/>
+                                       <settlement>Venezia</settlement>
+                                       <country>Italy</country>
+                                       <region/>
+                                    </address>
+                                 </reg>
+                              </choice>
+                           </placeName>
+                           <note/>
+                        </place>
+                        <place><!-- Répétition des balises possible comme indiqué ci-dessus --></place>
+                     </listPlace>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="it"/>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc><!-- Concerne uniquement les catalogues encodés avec GROBID.
+                    Caroline Corbières est chargée de compléter cette partie. -->
+         <p/>
+      </encodingDesc>
+      <revisionDesc><!-- Descriptif des révisions du fichier -->
+         <change who="name"><!-- Indiquer la modification ou la correction apportée au fichier --></change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list>
+            <head/>
+         </list>
+      </body>
+   </text>
+</TEI>
