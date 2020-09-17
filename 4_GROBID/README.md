@@ -10,10 +10,6 @@ GROBID-dictionaries is a machine learning software for structuring in XML-TEI di
 
 To encode a catalogue, you need to choose the train set that matches your catalogue. For now, we only have few train sets but you can train some more and add them here.
 
-You can use these train sets to process PDF or ALTO files. 
-- If you process a PDF file, choose the right train set with the `_PDF` extension.
-- If you process a ALTO file, choose the right train set with the `_ALTO` extension.
-
 ### When to choose the trainingData_INDEPENDANTS train set ? 
 
 If the entries of your exhibition catalogue are the same as the _Catalogue de la société des artistes indépendants_ , you can choose this train set for using GROBID-dictionaries. You need to pay attention to following typographical details :
@@ -95,7 +91,7 @@ mvn -Dmaven.test.skip=true jetty:run-war
 **3.** Upload your catalogue. 
 
 - In the `Dictionary services` tab, select `Parse full dictionary`.
-- Upload your catalogue (in PDF or ALTO).
+- Upload your catalogue (in PDF).
 - Click on `Envoyer`.
 - Click on `Download TEI Result`.
 
