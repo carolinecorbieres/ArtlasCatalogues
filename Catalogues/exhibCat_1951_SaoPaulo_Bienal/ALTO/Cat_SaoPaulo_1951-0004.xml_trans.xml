@@ -1,0 +1,65 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0004.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:00.582+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="217" WIDTH="907" VPOS="979" HPOS="369">
+        <TextBlock ID="r_1_1" HEIGHT="89" WIDTH="898" VPOS="983" HPOS="373">
+          <TextLine ID="tl_1" BASELINE="1018" HEIGHT="44" WIDTH="907" VPOS="974" HPOS="369">
+            <String HEIGHT="44" WIDTH="211" VPOS="974" HPOS="353" CONTENT="Copyright" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="563"/>
+            <String HEIGHT="44" WIDTH="162" VPOS="974" HPOS="515" CONTENT="«Museu" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="677"/>
+            <String HEIGHT="44" WIDTH="97" VPOS="974" HPOS="628" CONTENT="de" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="725"/>
+            <String HEIGHT="44" WIDTH="130" VPOS="974" HPOS="677" CONTENT="Arte" ID="tl_1_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="806"/>
+            <String HEIGHT="44" WIDTH="178" VPOS="974" HPOS="758" CONTENT="Moderna" ID="tl_1_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="936"/>
+            <String HEIGHT="44" WIDTH="97" VPOS="974" HPOS="887" CONTENT="de" ID="tl_1_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="984"/>
+            <String HEIGHT="44" WIDTH="113" VPOS="974" HPOS="936" CONTENT="Sào" ID="tl_1_7" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="1049"/>
+            <String HEIGHT="44" WIDTH="162" VPOS="974" HPOS="1001" CONTENT="Paulo," ID="tl_1_8" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="1163"/>
+            <String HEIGHT="44" WIDTH="178" VPOS="974" HPOS="1098" CONTENT="Brasil)&lt;/" ID="tl_1_9" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="tl_2" BASELINE="1075" HEIGHT="41" WIDTH="903" VPOS="1034" HPOS="370">
+            <String HEIGHT="41" WIDTH="253" VPOS="1034" HPOS="334" CONTENT="2.«" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="41" WIDTH="36" VPOS="1034" HPOS="587"/>
+            <String HEIGHT="41" WIDTH="397" VPOS="1034" HPOS="478" CONTENT="tiragem" ID="tl_2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="41" WIDTH="36" VPOS="1034" HPOS="876"/>
+            <String HEIGHT="41" WIDTH="433" VPOS="1034" HPOS="767" CONTENT="Outubro," ID="tl_2_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="41" WIDTH="36" VPOS="1034" HPOS="1201"/>
+            <String HEIGHT="41" WIDTH="217" VPOS="1034" HPOS="1056" CONTENT="1961" ID="tl_2_4" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_1" HEIGHT="29" WIDTH="19" VPOS="1162" HPOS="813">
+          <TextLine ID="tl_3" BASELINE="1194" HEIGHT="38" WIDTH="28" VPOS="1156" HPOS="808">
+            <String HEIGHT="38" WIDTH="84" VPOS="1156" HPOS="752" CONTENT="4" ID="tl_3_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -10,6 +10,36 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>Catalogues/exhibCat_1951_SaoPaulo_Bienal/FO/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>XEP_PDF</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1951_SaoPaulo_Bienal/ALTO/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ALTO_to_FO</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>Catalogues/exhibCat_1923_Paris_SocieteArtistesIndependants/ALTO/</String>
                                 </field>
                                 <field name="scenarioIds">

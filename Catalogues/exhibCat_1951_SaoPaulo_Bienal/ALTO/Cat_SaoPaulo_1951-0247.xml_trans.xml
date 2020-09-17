@@ -1,0 +1,60 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0247.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:48.599+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1256" WIDTH="1134" VPOS="416" HPOS="254">
+        <TextBlock ID="r_2_1" HEIGHT="22" WIDTH="233" VPOS="1644" HPOS="488">
+          <TextLine ID="tl_1" BASELINE="1675" HEIGHT="42" WIDTH="241" VPOS="1633" HPOS="484">
+            <String HEIGHT="42" WIDTH="138" VPOS="1633" HPOS="467" CONTENT="Marc" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="42" WIDTH="17" VPOS="1633" HPOS="605"/>
+            <String HEIGHT="42" WIDTH="189" VPOS="1633" HPOS="536" CONTENT="Mendelson" ID="tl_1_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="22" WIDTH="190" VPOS="1643" HPOS="792">
+          <TextLine ID="tl_2" BASELINE="1675" HEIGHT="43" WIDTH="199" VPOS="1632" HPOS="788">
+            <String HEIGHT="43" WIDTH="142" VPOS="1632" HPOS="774" CONTENT="Nature" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="43" WIDTH="14" VPOS="1632" HPOS="916"/>
+            <String HEIGHT="43" WIDTH="128" VPOS="1632" HPOS="859" CONTENT="morte&lt;/" ID="tl_2_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_4_1" HEIGHT="14" WIDTH="48" VPOS="1649" HPOS="1002">
+          <TextLine ID="tl_3" BASELINE="1666" HEIGHT="35" WIDTH="56" VPOS="1631" HPOS="998">
+            <String HEIGHT="35" WIDTH="93" VPOS="1631" HPOS="961" CONTENT="aux" ID="tl_3_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_5_1" HEIGHT="26" WIDTH="196" VPOS="1642" HPOS="1069">
+          <TextLine ID="tl_4" BASELINE="1674" HEIGHT="38" WIDTH="204" VPOS="1636" HPOS="1065">
+            <String HEIGHT="38" WIDTH="160" VPOS="1636" HPOS="1050" CONTENT="&lt;Fruits" ID="tl_4_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="38" WIDTH="15" VPOS="1636" HPOS="1211"/>
+            <String HEIGHT="38" WIDTH="117" VPOS="1636" HPOS="1152" CONTENT="Jaunes" ID="tl_4_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_6" HEIGHT="14" WIDTH="171" VPOS="1143" HPOS="1006"/>
+        <GraphicalElement ID="r_7" HEIGHT="312" WIDTH="16" VPOS="980" HPOS="257"/>
+        <GraphicalElement ID="r_8" HEIGHT="15" WIDTH="1" VPOS="1080" HPOS="357"/>
+        <Illustration ID="r_1" HEIGHT="881" WIDTH="1134" VPOS="416" HPOS="254"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

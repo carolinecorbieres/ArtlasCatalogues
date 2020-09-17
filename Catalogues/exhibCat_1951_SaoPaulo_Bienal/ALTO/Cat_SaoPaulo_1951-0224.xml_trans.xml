@@ -1,0 +1,46 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0224.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:44.787+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1262" WIDTH="925" VPOS="412" HPOS="360">
+        <TextBlock ID="r_2_1" HEIGHT="25" WIDTH="275" VPOS="1645" HPOS="572">
+          <TextLine ID="tl_1" BASELINE="1674" HEIGHT="41" WIDTH="283" VPOS="1633" HPOS="568">
+            <String HEIGHT="41" WIDTH="167" VPOS="1633" HPOS="555" CONTENT="Heitor" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="41" WIDTH="13" VPOS="1633" HPOS="722"/>
+            <String HEIGHT="41" WIDTH="90" VPOS="1633" HPOS="684" CONTENT="dos" ID="tl_1_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="41" WIDTH="13" VPOS="1633" HPOS="774"/>
+            <String HEIGHT="41" WIDTH="129" VPOS="1633" HPOS="722" CONTENT="Prazeres" ID="tl_1_3" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="24" WIDTH="140" VPOS="1647" HPOS="908">
+          <TextLine ID="tl_2" BASELINE="1675" HEIGHT="68" WIDTH="149" VPOS="1607" HPOS="904">
+            <String HEIGHT="68" WIDTH="174" VPOS="1607" HPOS="879" CONTENT="eMoenda)" ID="tl_2_1" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="5" WIDTH="28" VPOS="507" HPOS="402"/>
+        <Illustration ID="r_1" HEIGHT="720" WIDTH="925" VPOS="412" HPOS="360"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

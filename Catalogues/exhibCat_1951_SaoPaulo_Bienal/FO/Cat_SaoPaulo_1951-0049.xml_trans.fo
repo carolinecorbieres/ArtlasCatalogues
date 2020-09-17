@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>LISTA</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>OBRAS</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ADVERTENCIA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Quando</fo:inline>
+            
+            <fo:inline>nao</fo:inline>
+            
+            <fo:inline>haja</fo:inline>
+            
+            <fo:inline>outras</fo:inline>
+            
+            <fo:inline>indicaçôes,</fo:inline>
+            
+            <fo:inline>entende-se</fo:inline>
+            
+            <fo:inline>que</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>as</fo:inline>
+            
+            <fo:inline>pinturas</fo:inline>
+            
+            <fo:inline>sao</fo:inline>
+            
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>ôleo</fo:inline>
+            
+            <fo:inline>sôbre</fo:inline>
+            
+            <fo:inline>tela.</fo:inline>
+            
+            <fo:inline>Havendo</fo:inline>
+            
+            <fo:inline>algumas</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>delegaçôes</fo:inline>
+            
+            <fo:inline>remetido</fo:inline>
+            
+            <fo:inline>na</fo:inline>
+            
+            <fo:inline>mesma</fo:inline>
+            
+            <fo:inline>relaçio</fo:inline>
+            
+            <fo:inline>as</fo:inline>
+            
+            <fo:inline>gravuras</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>os</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>desenhos,</fo:inline>
+            
+            <fo:inline>sac</fo:inline>
+            
+            <fo:inline>èles</fo:inline>
+            
+            <fo:inline>arrolados</fo:inline>
+            
+            <fo:inline>juntos</fo:inline>
+            
+            <fo:inline>na</fo:inline>
+            
+            <fo:inline>presente</fo:inline>
+            
+            <fo:inline>lista</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>obras.</fo:inline>
+            
+            <fo:inline>Sempre</fo:inline>
+            
+            <fo:inline>que</fo:inline>
+            
+            <fo:inline>possivel,</fo:inline>
+            
+            <fo:inline>os</fo:inline>
+            
+            <fo:inline>desenhos</fo:inline>
+            
+            <fo:inline>vio</fo:inline>
+            
+            <fo:inline>indicados</fo:inline>
+            
+            <fo:inline>por</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>«d’’,</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>as</fo:inline>
+            
+            <fo:inline>gravuras</fo:inline>
+            
+            <fo:inline>por</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>g’’.</fo:inline>
+            
+            <fo:inline>Os</fo:inline>
+            
+            <fo:inline>desenhos</fo:inline>
+            
+            <fo:inline>sao,</fo:inline>
+            
+            <fo:inline>salvo</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>indicaçao</fo:inline>
+            
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>contrârio,</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>lâpis</fo:inline>
+            
+            <fo:inline>sôbre</fo:inline>
+            
+            <fo:inline>papel.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Quando</fo:inline>
+            
+            <fo:inline>indicado</fo:inline>
+            
+            <fo:inline>na</fo:inline>
+            
+            <fo:inline>obra,</fo:inline>
+            
+            <fo:inline>o</fo:inline>
+            
+            <fo:inline>ano</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>execução</fo:inline>
+            
+            <fo:inline>segue</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>titulo.</fo:inline>
+            
+            <fo:inline>As</fo:inline>
+            
+            <fo:inline>dimensôes</fo:inline>
+            
+            <fo:inline>sao</fo:inline>
+            
+            <fo:inline>dadas</fo:inline>
+            
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>centimetros</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>seguem-se</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>data</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>execução</fo:inline>
+            
+            <fo:inline>ou</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>técnica</fo:inline>
+            
+            <fo:inline>usada,</fo:inline>
+            
+            <fo:inline>con</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>forme</fo:inline>
+            
+            <fo:inline>o</fo:inline>
+            
+            <fo:inline>caso.</fo:inline>
+            
+            <fo:inline>Das</fo:inline>
+            
+            <fo:inline>esculturas,</fo:inline>
+            
+            <fo:inline>menciona-se</fo:inline>
+            
+            <fo:inline>apenas</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>al</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tura.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>As</fo:inline>
+            
+            <fo:inline>obras</fo:inline>
+            
+            <fo:inline>que</fo:inline>
+            
+            <fo:inline>nao</fo:inline>
+            
+            <fo:inline>tragam</fo:inline>
+            
+            <fo:inline>indicaçao</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>propristârio,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>entendem-se</fo:inline>
+            
+            <fo:inline>como</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>propriedade</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>artista.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>As</fo:inline>
+            
+            <fo:inline>datas</fo:inline>
+            
+            <fo:inline>que</fo:inline>
+            
+            <fo:inline>se</fo:inline>
+            
+            <fo:inline>seguem</fo:inline>
+            
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>nome</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>artista</fo:inline>
+            
+            <fo:inline>referem</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>aos</fo:inline>
+            
+            <fo:inline>anos</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>nascimento</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>morte.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>49</fo:inline>
+          </fo:block>
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

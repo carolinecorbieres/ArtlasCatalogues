@@ -1,0 +1,61 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0238.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:47.199+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1450" WIDTH="926" VPOS="313" HPOS="359">
+        <TextBlock ID="r_4_1" HEIGHT="27" WIDTH="90" VPOS="1449" HPOS="668">
+          <TextLine ID="tl_1" BASELINE="1490" HEIGHT="53" WIDTH="98" VPOS="1437" HPOS="664">
+            <String HEIGHT="53" WIDTH="123" VPOS="1437" HPOS="640" CONTENT="igigrge." ID="tl_1_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_6_1" HEIGHT="35" WIDTH="411" VPOS="1728" HPOS="731">
+          <TextLine ID="tl_2" BASELINE="1762" HEIGHT="49" WIDTH="418" VPOS="1713" HPOS="728">
+            <String HEIGHT="49" WIDTH="84" VPOS="1713" HPOS="711" CONTENT="—" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1713" HPOS="795"/>
+            <String HEIGHT="49" WIDTH="150" VPOS="1713" HPOS="745" CONTENT="Still" ID="tl_2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1713" HPOS="895"/>
+            <String HEIGHT="49" WIDTH="150" VPOS="1713" HPOS="845" CONTENT="Life," ID="tl_2_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1713" HPOS="996"/>
+            <String HEIGHT="49" WIDTH="167" VPOS="1713" HPOS="945" CONTENT="Zennor" ID="tl_2_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="17" VPOS="1713" HPOS="1113"/>
+            <String HEIGHT="49" WIDTH="100" VPOS="1713" HPOS="1046" CONTENT="Head" ID="tl_2_5" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_7_1" HEIGHT="26" WIDTH="200" VPOS="1734" HPOS="518">
+          <TextLine ID="tl_3" BASELINE="1763" HEIGHT="31" WIDTH="208" VPOS="1732" HPOS="514">
+            <String HEIGHT="31" WIDTH="125" VPOS="1732" HPOS="500" CONTENT="Ben" ID="tl_3_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="31" WIDTH="14" VPOS="1732" HPOS="625"/>
+            <String HEIGHT="31" WIDTH="153" VPOS="1732" HPOS="569" CONTENT="Nicholson" ID="tl_3_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_8" HEIGHT="4" WIDTH="68" VPOS="328" HPOS="429"/>
+        <GraphicalElement ID="r_9" HEIGHT="3" WIDTH="40" VPOS="435" HPOS="1095"/>
+        <GraphicalElement ID="r_10" HEIGHT="4" WIDTH="45" VPOS="1119" HPOS="994"/>
+        <Illustration ID="r_1" HEIGHT="1193" WIDTH="926" VPOS="313" HPOS="359"/>
+        <Illustration ID="r_11" HEIGHT="20" WIDTH="52" VPOS="933" HPOS="900"/>
+        <Illustration ID="r_12" HEIGHT="16" WIDTH="38" VPOS="1302" HPOS="398"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

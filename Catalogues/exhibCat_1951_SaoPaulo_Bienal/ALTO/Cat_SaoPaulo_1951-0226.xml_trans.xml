@@ -1,0 +1,52 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0226.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:45.386+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1254" WIDTH="917" VPOS="417" HPOS="450">
+        <TextBlock ID="r_2_1" HEIGHT="27" WIDTH="234" VPOS="1640" HPOS="576">
+          <TextLine ID="tl_1" BASELINE="1674" HEIGHT="37" WIDTH="242" VPOS="1637" HPOS="572">
+            <String HEIGHT="37" WIDTH="128" VPOS="1637" HPOS="558" CONTENT="Mârio" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="37" WIDTH="14" VPOS="1637" HPOS="686"/>
+            <String HEIGHT="37" WIDTH="128" VPOS="1637" HPOS="643" CONTENT="Cravo" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="37" WIDTH="14" VPOS="1637" HPOS="771"/>
+            <String HEIGHT="37" WIDTH="100" VPOS="1637" HPOS="714" CONTENT="Jr/.&gt;" ID="tl_1_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="27" WIDTH="239" VPOS="1642" HPOS="879">
+          <TextLine ID="tl_2" BASELINE="1675" HEIGHT="49" WIDTH="247" VPOS="1626" HPOS="875">
+            <String HEIGHT="49" WIDTH="148" VPOS="1626" HPOS="859" CONTENT="Briga" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="16" VPOS="1626" HPOS="1007"/>
+            <String HEIGHT="49" WIDTH="99" VPOS="1626" HPOS="957" CONTENT="de" ID="tl_2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="49" WIDTH="16" VPOS="1626" HPOS="1056"/>
+            <String HEIGHT="49" WIDTH="132" VPOS="1626" HPOS="990" CONTENT="galos)" ID="tl_2_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="2" WIDTH="32" VPOS="1655" HPOS="830"/>
+        <GraphicalElement ID="r_5" HEIGHT="62" WIDTH="2" VPOS="456" HPOS="462"/>
+        <Illustration ID="r_1" HEIGHT="1001" WIDTH="917" VPOS="417" HPOS="450"/>
+        <Illustration ID="r_6" HEIGHT="12" WIDTH="47" VPOS="1273" HPOS="781"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,55 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0249.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:48.909+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1334" WIDTH="681" VPOS="377" HPOS="479">
+        <TextBlock ID="r_1_1" HEIGHT="22" WIDTH="104" VPOS="379" HPOS="763">
+          <TextLine ID="tl_1" BASELINE="403" HEIGHT="33" WIDTH="113" VPOS="370" HPOS="758">
+            <String HEIGHT="33" WIDTH="138" VPOS="370" HPOS="733" CONTENT="JAPAU" ID="tl_1_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="23" WIDTH="230" VPOS="1682" HPOS="542">
+          <TextLine ID="tl_2" BASELINE="1714" HEIGHT="44" WIDTH="238" VPOS="1670" HPOS="538">
+            <String HEIGHT="44" WIDTH="150" VPOS="1670" HPOS="525" CONTENT="Iwami" ID="tl_2_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="44" WIDTH="13" VPOS="1670" HPOS="676"/>
+            <String HEIGHT="44" WIDTH="150" VPOS="1670" HPOS="626" CONTENT="Furusawa" ID="tl_2_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_4_1" HEIGHT="24" WIDTH="254" VPOS="1684" HPOS="839">
+          <TextLine ID="tl_3" BASELINE="1714" HEIGHT="37" WIDTH="262" VPOS="1677" HPOS="835">
+            <String HEIGHT="37" WIDTH="80" VPOS="1677" HPOS="824" CONTENT="A" ID="tl_3_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="37" WIDTH="11" VPOS="1677" HPOS="903"/>
+            <String HEIGHT="37" WIDTH="103" VPOS="1677" HPOS="869" CONTENT="filha" ID="tl_3_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="37" WIDTH="11" VPOS="1677" HPOS="972"/>
+            <String HEIGHT="37" WIDTH="68" VPOS="1677" HPOS="938" CONTENT="de" ID="tl_3_3" STYLEREFS="FONT1"/>
+            <SP HEIGHT="37" WIDTH="11" VPOS="1677" HPOS="1006"/>
+            <String HEIGHT="37" WIDTH="137" VPOS="1677" HPOS="960" CONTENT="Plutao" ID="tl_3_4" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="r_2" HEIGHT="1049" WIDTH="681" VPOS="439" HPOS="479"/>
+        <Illustration ID="r_5" HEIGHT="1048" WIDTH="681" VPOS="439" HPOS="479"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

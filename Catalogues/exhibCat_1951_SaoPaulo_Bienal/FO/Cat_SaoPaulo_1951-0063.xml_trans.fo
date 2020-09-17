@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Robert</fo:inline>
+            
+            <fo:inline font-weight="bold">COUTURIER</fo:inline>
+            
+            <fo:inline font-weight="bold">(1905—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>140.</fo:inline>
+            
+            <fo:inline>Moça</fo:inline>
+            
+            <fo:inline>lameliforme</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949-1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>110.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>141.</fo:inline>
+            
+            <fo:inline>Par</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>pé</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>73.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>142.</fo:inline>
+            
+            <fo:inline>Os</fo:inline>
+            
+            <fo:inline>utensilios</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>escultor</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Pedra</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>50.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Alberto</fo:inline>
+            
+            <fo:inline font-weight="bold">GIACOMMETTI</fo:inline>
+            
+            <fo:inline font-weight="bold">(1901—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>143.</fo:inline>
+            
+            <fo:inline>Gaiola</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>144.</fo:inline>
+            
+            <fo:inline>Quatro</fo:inline>
+            
+            <fo:inline>figuras</fo:inline>
+            
+            <fo:inline>sôbre</fo:inline>
+            
+            <fo:inline>pedestal</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>65.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>145.</fo:inline>
+            
+            <fo:inline>Homen</fo:inline>
+            
+            <fo:inline>que</fo:inline>
+            
+            <fo:inline>anda</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>47.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Marie-Thérèse</fo:inline>
+            
+            <fo:inline font-weight="bold">PINTO</fo:inline>
+            
+            <fo:inline>(1910—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>146.</fo:inline>
+            
+            <fo:inline>Cabeça</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>mulher</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Mârmore</fo:inline>
+            
+            <fo:inline>rosa</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Milao</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>1949</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>45.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>147.</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>esfinge</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Mârmore</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>80.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Germaine</fo:inline>
+            
+            <fo:inline font-weight="bold">RICHIER</fo:inline>
+            
+            <fo:inline/>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>148.</fo:inline>
+            
+            <fo:inline>O</fo:inline>
+            
+            <fo:inline>louva-deus</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>110.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>149.</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>floresta</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>110.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>150.</fo:inline>
+            
+            <fo:inline>Busto</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>40.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Hubert</fo:inline>
+            
+            <fo:inline font-weight="bold">YENCESSE</fo:inline>
+            
+            <fo:inline font-weight="bold">(1900—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>151.</fo:inline>
+            
+            <fo:inline>Banhista</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1943</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>35.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>152.</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>poesia.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">GRAVURAS</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Hénri</fo:inline>
+            
+            <fo:inline font-weight="bold">Georges</fo:inline>
+            
+            <fo:inline font-weight="bold">ADAM</fo:inline>
+            
+            <fo:inline font-weight="bold">(1904—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>153.</fo:inline>
+            
+            <fo:inline>Cristo</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>demônio.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>154.</fo:inline>
+            
+            <fo:inline>Anjos</fo:inline>
+            
+            <fo:inline>guerreiros.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>63</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

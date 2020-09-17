@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-09-15T11:53:45.675+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+         <TopMargin HEIGHT="417" WIDTH="1641" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1254" WIDTH="271" VPOS="417" HPOS="0"/>
+         <RightMargin HEIGHT="1254" WIDTH="144" VPOS="417" HPOS="1497"/>
+         <BottomMargin HEIGHT="416" WIDTH="1641" VPOS="1671" HPOS="0"/>
+         <PrintSpace HEIGHT="1254" WIDTH="1226" VPOS="417" HPOS="271">
+            <TextBlock ID="r_2_1" HEIGHT="24" WIDTH="187" VPOS="1640" HPOS="491">
+               <Shape>
+                  <Polygon POINTS="491,1640 678,1640 678,1664 491,1664"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="1668"
+                         HEIGHT="35"
+                         WIDTH="194"
+                         VPOS="1633"
+                         HPOS="487">
+                  <String HEIGHT="35"
+                          WIDTH="146"
+                          VPOS="1633"
+                          HPOS="475"
+                          CONTENT="&lt;b&gt;Felix"/>
+                  <SP HEIGHT="35" WIDTH="12" VPOS="1633" HPOS="620"/>
+                  <String HEIGHT="35"
+                          WIDTH="109"
+                          VPOS="1633"
+                          HPOS="572"
+                          CONTENT="Labisse"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_3_1" HEIGHT="29" WIDTH="290" VPOS="1641" HPOS="741">
+               <Shape>
+                  <Polygon POINTS="741,1641 1031,1641 1031,1670 741,1670"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="1674"
+                         HEIGHT="46"
+                         WIDTH="297"
+                         VPOS="1628"
+                         HPOS="737">
+                  <String HEIGHT="46"
+                          WIDTH="193"
+                          VPOS="1628"
+                          HPOS="722"
+                          CONTENT="&lt;b&gt;Manhas"/>
+                  <SP HEIGHT="46" WIDTH="15" VPOS="1628" HPOS="915"/>
+                  <String HEIGHT="46" WIDTH="89" VPOS="1628" HPOS="871" CONTENT="de"/>
+                  <SP HEIGHT="46" WIDTH="15" VPOS="1628" HPOS="960"/>
+                  <String HEIGHT="46"
+                          WIDTH="134"
+                          VPOS="1628"
+                          HPOS="900"
+                          CONTENT="Ipanema"/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_4" HEIGHT="191" WIDTH="14" VPOS="439" HPOS="279"/>
+            <GraphicalElement ID="r_5" HEIGHT="258" WIDTH="6" VPOS="630" HPOS="280"/>
+            <Illustration ID="r_1" HEIGHT="946" WIDTH="1226" VPOS="417" HPOS="271"/>
+            <Illustration ID="r_6" HEIGHT="42" WIDTH="25" VPOS="899" HPOS="457"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

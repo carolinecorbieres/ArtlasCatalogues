@@ -1,0 +1,45 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0218.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:43.91+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1259" WIDTH="1060" VPOS="415" HPOS="292">
+        <TextBlock ID="r_2_1" HEIGHT="23" WIDTH="83" VPOS="1644" HPOS="593">
+          <TextLine ID="tl_1" BASELINE="1675" HEIGHT="38" WIDTH="92" VPOS="1637" HPOS="589">
+            <String HEIGHT="38" WIDTH="118" VPOS="1637" HPOS="563" CONTENT="Maria" ID="tl_1_1" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="27" WIDTH="184" VPOS="1643" HPOS="746">
+          <TextLine ID="tl_2" BASELINE="1674" HEIGHT="42" WIDTH="192" VPOS="1632" HPOS="742">
+            <String HEIGHT="42" WIDTH="80" VPOS="1632" HPOS="726" CONTENT="O" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="42" WIDTH="16" VPOS="1632" HPOS="806"/>
+            <String HEIGHT="42" WIDTH="192" VPOS="1632" HPOS="742" CONTENT="impossivel" ID="tl_2_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="3" WIDTH="112" VPOS="422" HPOS="718"/>
+        <Illustration ID="r_1" HEIGHT="1038" WIDTH="1060" VPOS="415" HPOS="292"/>
+        <Illustration ID="r_5" HEIGHT="923" WIDTH="1060" VPOS="415" HPOS="292"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

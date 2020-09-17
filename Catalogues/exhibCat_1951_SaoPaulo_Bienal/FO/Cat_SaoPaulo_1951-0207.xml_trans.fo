@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Maiorana..</fo:inline>
+            
+            <fo:inline font-style="italic">10.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>escultor</fo:inline>
+            
+            <fo:inline>Luciano</fo:inline>
+            
+            <fo:inline>Minguzzi,</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Itâlia</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">&gt;O</fo:inline>
+            
+            <fo:inline font-weight="bold">Gato</fo:inline>
+            
+            <fo:inline font-weight="bold">Persa)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Spilborghs</fo:inline>
+            
+            <fo:inline font-style="italic">8</fo:inline>
+            
+            <fo:inline font-style="italic">Cia</fo:inline>
+            
+            <fo:inline font-style="italic">Lita.............</fo:inline>
+            
+            <fo:inline font-style="italic">10.00000</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>escultor</fo:inline>
+            
+            <fo:inline>M.rio</fo:inline>
+            
+            <fo:inline>Cravo</fo:inline>
+            
+            <fo:inline>Jr.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>«e</fo:inline>
+            
+            <fo:inline>Briga</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Galos)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>GRAFURA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Companhia</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">Seguros</fo:inline>
+            
+            <fo:inline font-style="italic">da</fo:inline>
+            
+            <fo:inline font-style="italic">Bahia...</fo:inline>
+            
+            <fo:inline font-style="italic">30.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>gravador</fo:inline>
+            
+            <fo:inline>Giuseppe</fo:inline>
+            
+            <fo:inline>Viviani,</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Itâlia</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Felicio</fo:inline>
+            
+            <fo:inline font-style="italic">Lanzara.....</fo:inline>
+            
+            <fo:inline font-style="italic">30.00000</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>gravador</fo:inline>
+            
+            <fo:inline>Oswaldo</fo:inline>
+            
+            <fo:inline>Goeldi</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">T</fo:inline>
+            
+            <fo:inline font-style="italic">Janer</fo:inline>
+            
+            <fo:inline font-style="italic">Comércio</fo:inline>
+            
+            <fo:inline font-style="italic">e</fo:inline>
+            
+            <fo:inline font-style="italic">Indistria....</fo:inline>
+            
+            <fo:inline font-style="italic">10.00000</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>gravadora</fo:inline>
+            
+            <fo:inline>Prunella</fo:inline>
+            
+            <fo:inline>Glough,</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Grà</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Brettanlia</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prévrio</fo:inline>
+            
+            <fo:inline font-style="italic">Ferraria</fo:inline>
+            
+            <fo:inline font-style="italic">Irmdos</fo:inline>
+            
+            <fo:inline font-style="italic">Santissi.......</fo:inline>
+            
+            <fo:inline font-style="italic">5.00000</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>gravador</fo:inline>
+            
+            <fo:inline>Arnoldo</fo:inline>
+            
+            <fo:inline>Clarrocchi,</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Itâlia</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Francisco</fo:inline>
+            
+            <fo:inline font-style="italic">G.</fo:inline>
+            
+            <fo:inline font-style="italic">Spina</fo:inline>
+            
+            <fo:inline font-style="italic">(Nadir</fo:inline>
+            
+            <fo:inline font-style="italic">Figuei</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">redo)</fo:inline>
+            
+            <fo:inline>.</fo:inline>
+            
+            <fo:inline>5.00096</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>gravador</fo:inline>
+            
+            <fo:inline>Marcelo</fo:inline>
+            
+            <fo:inline>Grassmann</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Francisco.</fo:inline>
+            
+            <fo:inline font-style="italic">G.</fo:inline>
+            
+            <fo:inline font-style="italic">Spina</fo:inline>
+            
+            <fo:inline font-style="italic">(Nadir</fo:inline>
+            
+            <fo:inline font-style="italic">Figuci</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">redo).</fo:inline>
+            
+            <fo:inline>5.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>gravador</fo:inline>
+            
+            <fo:inline>Geraldo</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Barros</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Indistria</fo:inline>
+            
+            <fo:inline font-style="italic">Lider</fo:inline>
+            
+            <fo:inline font-style="italic">Papeis</fo:inline>
+            
+            <fo:inline font-style="italic">Gomados...</fo:inline>
+            
+            <fo:inline font-style="italic">5.000,0C</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>gravador</fo:inline>
+            
+            <fo:inline>Robert</fo:inline>
+            
+            <fo:inline>Adams,</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Grà</fo:inline>
+            
+            <fo:inline>Bre</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tanlia</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>DESENHO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Olivia</fo:inline>
+            
+            <fo:inline font-style="italic">Guedes</fo:inline>
+            
+            <fo:inline font-style="italic">Pentcado...........</fo:inline>
+            
+            <fo:inline font-style="italic">20.000,</fo:inline>
+            
+            <fo:inline font-style="italic">0</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>desenhista</fo:inline>
+            
+            <fo:inline>Aldemir</fo:inline>
+            
+            <fo:inline>Martins</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Andrade</fo:inline>
+            
+            <fo:inline font-style="italic">Costa.....</fo:inline>
+            
+            <fo:inline>10.000.60</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>desenhiista</fo:inline>
+            
+            <fo:inline>Renzo</fo:inline>
+            
+            <fo:inline>Vespignani,</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Itâlia</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Prémio</fo:inline>
+            
+            <fo:inline font-style="italic">Antunes</fo:inline>
+            
+            <fo:inline font-style="italic">Freivo.....</fo:inline>
+            
+            <fo:inline font-style="italic">5.00060</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ao</fo:inline>
+            
+            <fo:inline>desenhista</fo:inline>
+            
+            <fo:inline>Hans</fo:inline>
+            
+            <fo:inline>Uhlmann,</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Ale</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>manlia</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>203</fo:inline>
+          </fo:block>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

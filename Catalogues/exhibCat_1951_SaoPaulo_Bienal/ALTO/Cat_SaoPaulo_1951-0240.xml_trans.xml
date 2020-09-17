@@ -1,0 +1,53 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0240.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:47.556+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1221" WIDTH="1064" VPOS="433" HPOS="289">
+        <TextBlock ID="r_2_1" HEIGHT="28" WIDTH="345" VPOS="1624" HPOS="631">
+          <TextLine ID="tl_1" BASELINE="1658" HEIGHT="52" WIDTH="354" VPOS="1606" HPOS="627">
+            <String HEIGHT="52" WIDTH="135" VPOS="1606" HPOS="610" CONTENT="John" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="17" VPOS="1606" HPOS="745"/>
+            <String HEIGHT="52" WIDTH="152" VPOS="1606" HPOS="694" CONTENT="Wells" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="17" VPOS="1606" HPOS="846"/>
+            <String HEIGHT="52" WIDTH="84" VPOS="1606" HPOS="796" CONTENT="—" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="52" WIDTH="17" VPOS="1606" HPOS="880"/>
+            <String HEIGHT="52" WIDTH="169" VPOS="1606" HPOS="812" CONTENT="Paisagem" ID="tl_1_4" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="11" WIDTH="155" VPOS="439" HPOS="295"/>
+        <GraphicalElement ID="r_4" HEIGHT="11" WIDTH="335" VPOS="440" HPOS="928"/>
+        <GraphicalElement ID="r_5" HEIGHT="5" WIDTH="77" VPOS="739" HPOS="1124"/>
+        <GraphicalElement ID="r_6" HEIGHT="12" WIDTH="312" VPOS="1331" HPOS="779"/>
+        <GraphicalElement ID="r_7" HEIGHT="13" WIDTH="211" VPOS="1332" HPOS="1126"/>
+        <GraphicalElement ID="r_8" HEIGHT="11" WIDTH="335" VPOS="1334" HPOS="311"/>
+        <GraphicalElement ID="r_9" HEIGHT="193" WIDTH="7" VPOS="488" HPOS="291"/>
+        <GraphicalElement ID="r_10" HEIGHT="136" WIDTH="6" VPOS="1197" HPOS="1342"/>
+        <Illustration ID="r_1" HEIGHT="927" WIDTH="1064" VPOS="433" HPOS="289"/>
+        <Illustration ID="r_11" HEIGHT="15" WIDTH="41" VPOS="557" HPOS="1101"/>
+        <Illustration ID="r_12" HEIGHT="17" WIDTH="74" VPOS="978" HPOS="826"/>
+        <Illustration ID="r_13" HEIGHT="19" WIDTH="89" VPOS="1113" HPOS="904"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

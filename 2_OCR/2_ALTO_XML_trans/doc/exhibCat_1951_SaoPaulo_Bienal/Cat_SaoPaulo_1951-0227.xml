@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-09-15T11:53:45.529+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+         <TopMargin HEIGHT="415" WIDTH="1641" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1254" WIDTH="240" VPOS="415" HPOS="0"/>
+         <RightMargin HEIGHT="1254" WIDTH="322" VPOS="415" HPOS="1319"/>
+         <BottomMargin HEIGHT="418" WIDTH="1641" VPOS="1669" HPOS="0"/>
+         <PrintSpace HEIGHT="1254" WIDTH="1079" VPOS="415" HPOS="240">
+            <TextBlock ID="r_2_1" HEIGHT="28" WIDTH="202" VPOS="1638" HPOS="526">
+               <Shape>
+                  <Polygon POINTS="526,1638 728,1638 728,1666 526,1666"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="1674"
+                         HEIGHT="44"
+                         WIDTH="210"
+                         VPOS="1630"
+                         HPOS="522">
+                  <String HEIGHT="44"
+                          WIDTH="150"
+                          VPOS="1630"
+                          HPOS="507"
+                          CONTENT="&lt;Roger"/>
+                  <SP HEIGHT="44" WIDTH="15" VPOS="1630" HPOS="657"/>
+                  <String HEIGHT="44"
+                          WIDTH="135"
+                          VPOS="1630"
+                          HPOS="597"
+                          CONTENT="Chastel"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_3_1" HEIGHT="24" WIDTH="308" VPOS="1637" HPOS="799">
+               <Shape>
+                  <Polygon POINTS="799,1637 1107,1637 1107,1661 799,1661"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="1667"
+                         HEIGHT="40"
+                         WIDTH="317"
+                         VPOS="1627"
+                         HPOS="794">
+                  <String HEIGHT="40"
+                          WIDTH="222"
+                          VPOS="1627"
+                          HPOS="778"
+                          CONTENT="’Namorados"/>
+                  <SP HEIGHT="40" WIDTH="16" VPOS="1627" HPOS="1000"/>
+                  <String HEIGHT="40" WIDTH="95" VPOS="1627" HPOS="952" CONTENT="no"/>
+                  <SP HEIGHT="40" WIDTH="16" VPOS="1627" HPOS="1048"/>
+                  <String HEIGHT="40"
+                          WIDTH="127"
+                          VPOS="1627"
+                          HPOS="984"
+                          CONTENT="café)»"/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_4" HEIGHT="112" WIDTH="3" VPOS="688" HPOS="494"/>
+            <GraphicalElement ID="r_5" HEIGHT="74" WIDTH="6" VPOS="1143" HPOS="974"/>
+            <GraphicalElement ID="r_6" HEIGHT="44" WIDTH="4" VPOS="861" HPOS="493"/>
+            <Illustration ID="r_1" HEIGHT="1131" WIDTH="1079" VPOS="415" HPOS="240"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0233.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:46.408+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1258" WIDTH="997" VPOS="415" HPOS="324">
+        <TextBlock ID="r_2_1" HEIGHT="23" WIDTH="256" VPOS="1646" HPOS="569">
+          <TextLine ID="tl_1" BASELINE="1674" HEIGHT="43" WIDTH="264" VPOS="1631" HPOS="565">
+            <String HEIGHT="43" WIDTH="208" VPOS="1631" HPOS="551" CONTENT="Theodore" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="43" WIDTH="14" VPOS="1631" HPOS="760"/>
+            <String HEIGHT="43" WIDTH="125" VPOS="1631" HPOS="704" CONTENT="Roszack" ID="tl_1_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="29" WIDTH="241" VPOS="1642" HPOS="896">
+          <TextLine ID="tl_2" BASELINE="1675" HEIGHT="54" WIDTH="250" VPOS="1621" HPOS="891">
+            <String HEIGHT="54" WIDTH="100" VPOS="1621" HPOS="874" CONTENT="«A" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="54" WIDTH="17" VPOS="1621" HPOS="974"/>
+            <String HEIGHT="54" WIDTH="150" VPOS="1621" HPOS="924" CONTENT="jovem" ID="tl_2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="54" WIDTH="17" VPOS="1621" HPOS="1074"/>
+            <String HEIGHT="54" WIDTH="133" VPOS="1621" HPOS="1008" CONTENT="füria»" ID="tl_2_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="3" WIDTH="47" VPOS="1134" HPOS="339"/>
+        <Illustration ID="r_1" HEIGHT="725" WIDTH="997" VPOS="415" HPOS="324"/>
+        <Illustration ID="r_5" HEIGHT="19" WIDTH="37" VPOS="777" HPOS="621"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

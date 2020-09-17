@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Berto</fo:inline>
+            
+            <fo:inline font-weight="bold">LARDERA</fo:inline>
+            
+            <fo:inline>(1911)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>129.</fo:inline>
+            
+            <fo:inline>Escultura</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1946.</fo:inline>
+            
+            <fo:inline>Cobre.</fo:inline>
+            
+            <fo:inline>100.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>130.</fo:inline>
+            
+            <fo:inline>Escultura</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948.</fo:inline>
+            
+            <fo:inline>Cobre</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>ferro.</fo:inline>
+            
+            <fo:inline>200</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>131.</fo:inline>
+            
+            <fo:inline>Escultura</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950.</fo:inline>
+            
+            <fo:inline>Ferro.</fo:inline>
+            
+            <fo:inline>120</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Giacomo</fo:inline>
+            
+            <fo:inline font-weight="bold">MANZU</fo:inline>
+            
+            <fo:inline font-weight="bold">(1908)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>132.</fo:inline>
+            
+            <fo:inline>David</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1938.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>60.</fo:inline>
+            
+            <fo:inline>Paolo</fo:inline>
+            
+            <fo:inline>Lampugnani,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Milão</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>133.</fo:inline>
+            
+            <fo:inline>Susana</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1942.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>155.</fo:inline>
+            
+            <fo:inline>Primo</fo:inline>
+            
+            <fo:inline>Minervino,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Milão</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>134.</fo:inline>
+            
+            <fo:inline>Retrato</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Francesca</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1942.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>135.</fo:inline>
+            
+            <fo:inline>Ba</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>rone</fo:inline>
+            
+            <fo:inline>Blanc,</fo:inline>
+            
+            <fo:inline font-style="italic">Milao</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>135.</fo:inline>
+            
+            <fo:inline>Seis</fo:inline>
+            
+            <fo:inline>esboços</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>estâtua</fo:inline>
+            
+            <fo:inline>para</fo:inline>
+            
+            <fo:inline>um</fo:inline>
+            
+            <fo:inline>portal</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1943.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Bronze</fo:inline>
+            
+            <fo:inline>37.</fo:inline>
+            
+            <fo:inline>Riccardo</fo:inline>
+            
+            <fo:inline>Gualino,</fo:inline>
+            
+            <fo:inline font-style="italic">Roma</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>136.</fo:inline>
+            
+            <fo:inline>Grande</fo:inline>
+            
+            <fo:inline>retrato</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>senhora</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1946.</fo:inline>
+            
+            <fo:inline>bronze.</fo:inline>
+            
+            <fo:inline>Paolo</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Lampugnani,</fo:inline>
+            
+            <fo:inline font-style="italic">Milao</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>137.</fo:inline>
+            
+            <fo:inline>Menino</fo:inline>
+            
+            <fo:inline>com.</fo:inline>
+            
+            <fo:inline>marreca</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1946.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>57.</fo:inline>
+            
+            <fo:inline>Civico</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Museo</fo:inline>
+            
+            <fo:inline>Revoltella,</fo:inline>
+            
+            <fo:inline font-style="italic">Trieste</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>138.</fo:inline>
+            
+            <fo:inline>Passo</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>dança</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1946.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>Garcia</fo:inline>
+            
+            <fo:inline>Victoria.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Buenos</fo:inline>
+            
+            <fo:inline>Aires</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>139.</fo:inline>
+            
+            <fo:inline>Cabeça</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>minha</fo:inline>
+            
+            <fo:inline>mulher</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1947.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>50.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Guido</fo:inline>
+            
+            <fo:inline>Tadim,</fo:inline>
+            
+            <fo:inline font-style="italic">Bergamo</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>140.</fo:inline>
+            
+            <fo:inline>Busto</fo:inline>
+            
+            <fo:inline>feminino</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>60.</fo:inline>
+            
+            <fo:inline>Paolo</fo:inline>
+            
+            <fo:inline>Lam</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>pugnani,</fo:inline>
+            
+            <fo:inline>Milao</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>141.</fo:inline>
+            
+            <fo:inline>Cardeal</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>60</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>142.</fo:inline>
+            
+            <fo:inline>Deposiçào</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>120</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Luciano</fo:inline>
+            
+            <fo:inline font-weight="bold">MINGUZZI</fo:inline>
+            
+            <fo:inline font-weight="bold">(1911)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>143.</fo:inline>
+            
+            <fo:inline>Eva</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1938.</fo:inline>
+            
+            <fo:inline>Céra.</fo:inline>
+            
+            <fo:inline>175</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>144.</fo:inline>
+            
+            <fo:inline>Bailarina</fo:inline>
+            
+            <fo:inline>japonesa</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1943.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>100.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>145.</fo:inline>
+            
+            <fo:inline>Gato</fo:inline>
+            
+            <fo:inline>persa</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949.</fo:inline>
+            
+            <fo:inline>Bronze.</fo:inline>
+            
+            <fo:inline>100</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>96</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

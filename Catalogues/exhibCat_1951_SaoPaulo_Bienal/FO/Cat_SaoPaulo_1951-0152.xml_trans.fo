@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Jorge</fo:inline>
+            
+            <fo:inline font-weight="bold">OLIVEIRA</fo:inline>
+            
+            <fo:inline font-weight="bold">(1924)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>20.</fo:inline>
+            
+            <fo:inline>Hoje</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>ôleo-Unitex</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>122x115.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>21.</fo:inline>
+            
+            <fo:inline>Quietude</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>ôleo</fo:inline>
+            
+            <fo:inline>Unitex</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>122x100.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Cândido</fo:inline>
+            
+            <fo:inline font-weight="bold">COSTA</fo:inline>
+            
+            <fo:inline font-weight="bold">PINTO</fo:inline>
+            
+            <fo:inline font-weight="bold">(1911)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>22.</fo:inline>
+            
+            <fo:inline>Sem</fo:inline>
+            
+            <fo:inline>poder</fo:inline>
+            
+            <fo:inline>deixar</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>70x50.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>23.</fo:inline>
+            
+            <fo:inline>Coisas</fo:inline>
+            
+            <fo:inline>espanholas</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1947</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>81x60.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Mily</fo:inline>
+            
+            <fo:inline font-weight="bold">POSSOZ</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>24.</fo:inline>
+            
+            <fo:inline>Chaminé</fo:inline>
+            
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>Morilinho</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>ôleo</fo:inline>
+            
+            <fo:inline>s/cartio</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>70x60.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>25.</fo:inline>
+            
+            <fo:inline>Rapaz</fo:inline>
+            
+            <fo:inline>com</fo:inline>
+            
+            <fo:inline>barrete</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>gouache-papel</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>67x49.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>26.</fo:inline>
+            
+            <fo:inline>João</fo:inline>
+            
+            <fo:inline>Reis</fo:inline>
+            
+            <fo:inline>Tricana</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>94x81.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Jûlio</fo:inline>
+            
+            <fo:inline font-weight="bold">RESENDE</fo:inline>
+            
+            <fo:inline font-weight="bold">(1917)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>27.</fo:inline>
+            
+            <fo:inline>Mulheres</fo:inline>
+            
+            <fo:inline>com</fo:inline>
+            
+            <fo:inline>bilhas</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1951</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>81x65.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>28.</fo:inline>
+            
+            <fo:inline>Mulheres</fo:inline>
+            
+            <fo:inline>na</fo:inline>
+            
+            <fo:inline>fonte</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1951</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>112x93.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Luciano</fo:inline>
+            
+            <fo:inline font-weight="bold">SANTOS</fo:inline>
+            
+            <fo:inline font-weight="bold">(1911)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>29.</fo:inline>
+            
+            <fo:inline>Nazaré</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>Lota</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1946</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>ôleo</fo:inline>
+            
+            <fo:inline>sfcartio</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>59x51.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>30.</fo:inline>
+            
+            <fo:inline>Oratôrio</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Rua</fo:inline>
+            
+            <fo:inline>Nova-Guimarâes</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1947</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>ôleo</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>sJcartão</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>58x53.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Silva</fo:inline>
+            
+            <fo:inline font-weight="bold">LINO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>31.</fo:inline>
+            
+            <fo:inline>Barcaças</fo:inline>
+            
+            <fo:inline>no</fo:inline>
+            
+            <fo:inline>rio</fo:inline>
+            
+            <fo:inline>Douro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>ôleo-Unitex</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>50x40.</fo:inline>
+            
+            <fo:inline>i</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>152</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

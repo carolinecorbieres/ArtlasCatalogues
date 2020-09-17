@@ -1,0 +1,48 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0245.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:48.305+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1251" WIDTH="1201" VPOS="419" HPOS="290">
+        <TextBlock ID="r_2_1" HEIGHT="22" WIDTH="266" VPOS="1644" HPOS="589">
+          <TextLine ID="tl_1" BASELINE="1674" HEIGHT="43" WIDTH="274" VPOS="1631" HPOS="585">
+            <String HEIGHT="43" WIDTH="152" VPOS="1631" HPOS="570" CONTENT="Minoru" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="43" WIDTH="15" VPOS="1631" HPOS="722"/>
+            <String HEIGHT="43" WIDTH="198" VPOS="1631" HPOS="661" CONTENT="Kawabata/&gt;." ID="tl_1_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="22" WIDTH="287" VPOS="1643" HPOS="881">
+          <TextLine ID="tl_2" BASELINE="1675" HEIGHT="56" WIDTH="295" VPOS="1619" HPOS="877">
+            <String HEIGHT="56" WIDTH="171" VPOS="1619" HPOS="861" CONTENT="eCut" ID="tl_2_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="56" WIDTH="16" VPOS="1619" HPOS="1032"/>
+            <String HEIGHT="56" WIDTH="140" VPOS="1619" HPOS="986" CONTENT="Glass" ID="tl_2_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="56" WIDTH="16" VPOS="1619" HPOS="1125"/>
+            <String HEIGHT="56" WIDTH="109" VPOS="1619" HPOS="1063" CONTENT="Maker" ID="tl_2_3" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="6" WIDTH="51" VPOS="792" HPOS="736"/>
+        <Illustration ID="r_1" HEIGHT="831" WIDTH="1201" VPOS="419" HPOS="290"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

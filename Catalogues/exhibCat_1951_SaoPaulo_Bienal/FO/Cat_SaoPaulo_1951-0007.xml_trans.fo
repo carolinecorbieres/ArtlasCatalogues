@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>COMISSAO</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>HONRA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>PRESIDENCIA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Sua</fo:inline>
+            
+            <fo:inline>Exceléncia</fo:inline>
+            
+            <fo:inline>Senhor</fo:inline>
+            
+            <fo:inline>Getûlio</fo:inline>
+            
+            <fo:inline>Dorneles</fo:inline>
+            
+            <fo:inline>Vargas</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Presidente</fo:inline>
+            
+            <fo:inline font-weight="bold">da</fo:inline>
+            
+            <fo:inline font-weight="bold">Repûblica</fo:inline>
+            
+            <fo:inline font-weight="bold">dos</fo:inline>
+            
+            <fo:inline font-weight="bold">Estados</fo:inline>
+            
+            <fo:inline font-weight="bold">Unidos</fo:inline>
+            
+            <fo:inline font-weight="bold">do</fo:inline>
+            
+            <fo:inline font-weight="bold">Braoil</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>S.</fo:inline>
+            
+            <fo:inline>Excia.</fo:inline>
+            
+            <fo:inline>Sr.</fo:inline>
+            
+            <fo:inline>Lucas</fo:inline>
+            
+            <fo:inline>Nogueira</fo:inline>
+            
+            <fo:inline>Garcez</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Governador</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>Estado</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Sào</fo:inline>
+            
+            <fo:inline>Paulo</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>S.</fo:inline>
+            
+            <fo:inline>Excia.</fo:inline>
+            
+            <fo:inline>Sr.</fo:inline>
+            
+            <fo:inline>Armando</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Arruda</fo:inline>
+            
+            <fo:inline>Pereira</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Prefeito</fo:inline>
+            
+            <fo:inline font-weight="bold">do</fo:inline>
+            
+            <fo:inline font-weight="bold">Municlpio</fo:inline>
+            
+            <fo:inline font-weight="bold">de</fo:inline>
+            
+            <fo:inline font-weight="bold">Sào</fo:inline>
+            
+            <fo:inline font-weight="bold">Paulo</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>MEMBROS</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>8.</fo:inline>
+            
+            <fo:inline>EXCA.</fo:inline>
+            
+            <fo:inline>SR.</fo:inline>
+            
+            <fo:inline>J07O</fo:inline>
+            
+            <fo:inline>CATÉ</fo:inline>
+            
+            <fo:inline>FILHO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Vice-Presidente</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Repûblica</fo:inline>
+            
+            <fo:inline>dos</fo:inline>
+            
+            <fo:inline>Estados</fo:inline>
+            
+            <fo:inline>Unidos</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Brasil</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>8.</fo:inline>
+            
+            <fo:inline>EXCLA.</fo:inline>
+            
+            <fo:inline>SR.</fo:inline>
+            
+            <fo:inline>NEREU</fo:inline>
+            
+            <fo:inline>RAMOS</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Presidente</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Câmara</fo:inline>
+            
+            <fo:inline>dos</fo:inline>
+            
+            <fo:inline>Deputados</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>S.</fo:inline>
+            
+            <fo:inline>EXCLA.</fo:inline>
+            
+            <fo:inline>SR.</fo:inline>
+            
+            <fo:inline>ALEXANDRE</fo:inline>
+            
+            <fo:inline>MARCONDES</fo:inline>
+            
+            <fo:inline>FILHOb</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Vice-Presidente</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>Senado</fo:inline>
+            
+            <fo:inline>Federal</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>8.</fo:inline>
+            
+            <fo:inline>EXCIA.</fo:inline>
+            
+            <fo:inline>SR.</fo:inline>
+            
+            <fo:inline>J070</fo:inline>
+            
+            <fo:inline>NEVES</fo:inline>
+            
+            <fo:inline>DA</fo:inline>
+            
+            <fo:inline>FONTOURA&lt;</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Ministro</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Estado</fo:inline>
+            
+            <fo:inline>para</fo:inline>
+            
+            <fo:inline>os</fo:inline>
+            
+            <fo:inline>Negécios</fo:inline>
+            
+            <fo:inline>das</fo:inline>
+            
+            <fo:inline>Relaçôes</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Exteriores</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>s.</fo:inline>
+            
+            <fo:inline>EXCIA.</fo:inline>
+            
+            <fo:inline>SR.</fo:inline>
+            
+            <fo:inline>HORACIO</fo:inline>
+            
+            <fo:inline>LAFER</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Ministro</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Estado</fo:inline>
+            
+            <fo:inline>para</fo:inline>
+            
+            <fo:inline>os</fo:inline>
+            
+            <fo:inline>Negôcios</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Fazenda</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>s.</fo:inline>
+            
+            <fo:inline>EXCIA.</fo:inline>
+            
+            <fo:inline>SR.</fo:inline>
+            
+            <fo:inline>ERNESTO</fo:inline>
+            
+            <fo:inline>SIMSES</fo:inline>
+            
+            <fo:inline>FILHO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Ministro</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Estado</fo:inline>
+            
+            <fo:inline>para</fo:inline>
+            
+            <fo:inline>os</fo:inline>
+            
+            <fo:inline>Negôcios</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Educação</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Saûde</fo:inline>
+            
+            <fo:inline>Pûblica</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>8.</fo:inline>
+            
+            <fo:inline>EMCLA.</fo:inline>
+            
+            <fo:inline>SR.</fo:inline>
+            
+            <fo:inline>LOURIVAL</fo:inline>
+            
+            <fo:inline>FONTES</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Chefe</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Casa</fo:inline>
+            
+            <fo:inline>Civil</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Presidéncia</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Repûblica</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>7</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

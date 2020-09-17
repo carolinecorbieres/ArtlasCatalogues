@@ -1,0 +1,52 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0216.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:43.616+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1250" WIDTH="1142" VPOS="419" HPOS="250">
+        <TextBlock ID="r_2_1" HEIGHT="22" WIDTH="340" VPOS="1644" HPOS="361">
+          <TextLine ID="tl_1" BASELINE="1674" HEIGHT="40" WIDTH="348" VPOS="1634" HPOS="357">
+            <String HEIGHT="40" WIDTH="209" VPOS="1634" HPOS="343" CONTENT="Emiliano" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="40" WIDTH="14" VPOS="1634" HPOS="552"/>
+            <String HEIGHT="40" WIDTH="84" VPOS="1634" HPOS="510" CONTENT="Di" ID="tl_1_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="40" WIDTH="14" VPOS="1634" HPOS="594"/>
+            <String HEIGHT="40" WIDTH="167" VPOS="1634" HPOS="538" CONTENT="Cavalcanti" ID="tl_1_3" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="22" WIDTH="310" VPOS="1644" HPOS="774">
+          <TextLine ID="tl_2" BASELINE="1674" HEIGHT="37" WIDTH="318" VPOS="1637" HPOS="770">
+            <String HEIGHT="37" WIDTH="231" VPOS="1637" HPOS="756" CONTENT="Pescadores" ID="tl_2_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="37" WIDTH="14" VPOS="1637" HPOS="987"/>
+            <String HEIGHT="37" WIDTH="159" VPOS="1637" HPOS="929" CONTENT="Mexicanos" ID="tl_2_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="9" WIDTH="268" VPOS="421" HPOS="1044"/>
+        <GraphicalElement ID="r_5" HEIGHT="4" WIDTH="80" VPOS="423" HPOS="538"/>
+        <GraphicalElement ID="r_6" HEIGHT="3" WIDTH="26" VPOS="1076" HPOS="737"/>
+        <Illustration ID="r_1" HEIGHT="1030" WIDTH="1142" VPOS="419" HPOS="250"/>
+        <Illustration ID="r_7" HEIGHT="243" WIDTH="16" VPOS="730" HPOS="1232"/>
+        <Illustration ID="r_8" HEIGHT="93" WIDTH="14" VPOS="1076" HPOS="1250"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

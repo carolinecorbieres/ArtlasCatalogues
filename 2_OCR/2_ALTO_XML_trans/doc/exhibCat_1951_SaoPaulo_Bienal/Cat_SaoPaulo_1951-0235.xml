@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-09-15T11:53:46.753+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+         <TopMargin HEIGHT="404" WIDTH="1641" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1264" WIDTH="403" VPOS="404" HPOS="0"/>
+         <RightMargin HEIGHT="1264" WIDTH="454" VPOS="404" HPOS="1187"/>
+         <BottomMargin HEIGHT="419" WIDTH="1641" VPOS="1668" HPOS="0"/>
+         <PrintSpace HEIGHT="1264" WIDTH="784" VPOS="404" HPOS="403">
+            <TextBlock ID="r_2_1" HEIGHT="10" WIDTH="17" VPOS="1636" HPOS="1075">
+               <Shape>
+                  <Polygon POINTS="1075,1636 1092,1636 1092,1646 1075,1646"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="1658"
+                         HEIGHT="42"
+                         WIDTH="25"
+                         VPOS="1616"
+                         HPOS="1071">
+                  <String HEIGHT="42" WIDTH="50" VPOS="1616" HPOS="1046" CONTENT="»,"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_3_1" HEIGHT="26" WIDTH="239" VPOS="1639" HPOS="569">
+               <Shape>
+                  <Polygon POINTS="569,1639 808,1639 808,1665 569,1665"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="1674"
+                         HEIGHT="46"
+                         WIDTH="247"
+                         VPOS="1628"
+                         HPOS="564">
+                  <String HEIGHT="46"
+                          WIDTH="182"
+                          VPOS="1628"
+                          HPOS="551"
+                          CONTENT="&lt;b&gt;Alberto"/>
+                  <SP HEIGHT="46" WIDTH="13" VPOS="1628" HPOS="733"/>
+                  <String HEIGHT="46"
+                          WIDTH="130"
+                          VPOS="1628"
+                          HPOS="681"
+                          CONTENT="Magnelli"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_4_1" HEIGHT="22" WIDTH="196" VPOS="1637" HPOS="879">
+               <Shape>
+                  <Polygon POINTS="879,1637 1075,1637 1075,1659 879,1659"/>
+               </Shape>
+               <TextLine ID="tl_3"
+                         BASELINE="1667"
+                         HEIGHT="40"
+                         WIDTH="207"
+                         VPOS="1627"
+                         HPOS="874">
+                  <String HEIGHT="40"
+                          WIDTH="122"
+                          VPOS="1627"
+                          HPOS="862"
+                          CONTENT="&gt;'Avec"/>
+                  <SP HEIGHT="40" WIDTH="12" VPOS="1627" HPOS="984"/>
+                  <String HEIGHT="40"
+                          WIDTH="146"
+                          VPOS="1627"
+                          HPOS="935"
+                          CONTENT="mesure&lt;/b&gt;"/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_5" HEIGHT="108" WIDTH="7" VPOS="414" HPOS="458"/>
+            <GraphicalElement ID="r_6" HEIGHT="108" WIDTH="2" VPOS="963" HPOS="990"/>
+            <Illustration ID="r_1" HEIGHT="955" WIDTH="784" VPOS="404" HPOS="403"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

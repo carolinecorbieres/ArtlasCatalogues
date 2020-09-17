@@ -1,0 +1,43 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0215.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:43.451+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1306" WIDTH="1001" VPOS="390" HPOS="355">
+        <TextBlock ID="r_2_1" HEIGHT="28" WIDTH="336" VPOS="1667" HPOS="647">
+          <TextLine ID="tl_1" BASELINE="1698" HEIGHT="37" WIDTH="344" VPOS="1661" HPOS="643">
+            <String HEIGHT="37" WIDTH="172" VPOS="1661" HPOS="630" CONTENT="Portinari" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="37" WIDTH="13" VPOS="1661" HPOS="802"/>
+            <String HEIGHT="37" WIDTH="66" VPOS="1661" HPOS="762" CONTENT="—" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="37" WIDTH="13" VPOS="1661" HPOS="828"/>
+            <String HEIGHT="37" WIDTH="212" VPOS="1661" HPOS="775" CONTENT="Cangaceiro" ID="tl_1_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_3" HEIGHT="3" WIDTH="29" VPOS="975" HPOS="429"/>
+        <GraphicalElement ID="r_4" HEIGHT="2" WIDTH="41" VPOS="1037" HPOS="1138"/>
+        <Illustration ID="r_1" HEIGHT="1221" WIDTH="1001" VPOS="390" HPOS="355"/>
+        <Illustration ID="r_5" HEIGHT="1221" WIDTH="932" VPOS="390" HPOS="355"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

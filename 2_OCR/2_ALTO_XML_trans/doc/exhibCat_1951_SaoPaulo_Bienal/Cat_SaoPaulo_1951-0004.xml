@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-09-15T11:53:00.582+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+         <TopMargin HEIGHT="979" WIDTH="1641" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="217" WIDTH="369" VPOS="979" HPOS="0"/>
+         <RightMargin HEIGHT="217" WIDTH="365" VPOS="979" HPOS="1276"/>
+         <BottomMargin HEIGHT="891" WIDTH="1641" VPOS="1196" HPOS="0"/>
+         <PrintSpace HEIGHT="217" WIDTH="907" VPOS="979" HPOS="369">
+            <TextBlock ID="r_1_1" HEIGHT="89" WIDTH="898" VPOS="983" HPOS="373">
+               <Shape>
+                  <Polygon POINTS="373,983 1271,983 1271,1072 373,1072"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="1018"
+                         HEIGHT="44"
+                         WIDTH="907"
+                         VPOS="974"
+                         HPOS="369">
+                  <String HEIGHT="44"
+                          WIDTH="211"
+                          VPOS="974"
+                          HPOS="353"
+                          CONTENT="Copyright"/>
+                  <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="563"/>
+                  <String HEIGHT="44"
+                          WIDTH="162"
+                          VPOS="974"
+                          HPOS="515"
+                          CONTENT="«Museu"/>
+                  <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="677"/>
+                  <String HEIGHT="44" WIDTH="97" VPOS="974" HPOS="628" CONTENT="de"/>
+                  <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="725"/>
+                  <String HEIGHT="44"
+                          WIDTH="130"
+                          VPOS="974"
+                          HPOS="677"
+                          CONTENT="Arte"/>
+                  <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="806"/>
+                  <String HEIGHT="44"
+                          WIDTH="178"
+                          VPOS="974"
+                          HPOS="758"
+                          CONTENT="Moderna"/>
+                  <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="936"/>
+                  <String HEIGHT="44" WIDTH="97" VPOS="974" HPOS="887" CONTENT="de"/>
+                  <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="984"/>
+                  <String HEIGHT="44" WIDTH="113" VPOS="974" HPOS="936" CONTENT="Sào"/>
+                  <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="1049"/>
+                  <String HEIGHT="44"
+                          WIDTH="162"
+                          VPOS="974"
+                          HPOS="1001"
+                          CONTENT="Paulo,"/>
+                  <SP HEIGHT="44" WIDTH="16" VPOS="974" HPOS="1163"/>
+                  <String HEIGHT="44"
+                          WIDTH="178"
+                          VPOS="974"
+                          HPOS="1098"
+                          CONTENT="Brasil)&lt;/"/>
+               </TextLine>
+               <TextLine ID="tl_2"
+                         BASELINE="1075"
+                         HEIGHT="41"
+                         WIDTH="903"
+                         VPOS="1034"
+                         HPOS="370">
+                  <String HEIGHT="41"
+                          WIDTH="253"
+                          VPOS="1034"
+                          HPOS="334"
+                          CONTENT="2.«"/>
+                  <SP HEIGHT="41" WIDTH="36" VPOS="1034" HPOS="587"/>
+                  <String HEIGHT="41"
+                          WIDTH="397"
+                          VPOS="1034"
+                          HPOS="478"
+                          CONTENT="tiragem"/>
+                  <SP HEIGHT="41" WIDTH="36" VPOS="1034" HPOS="876"/>
+                  <String HEIGHT="41"
+                          WIDTH="433"
+                          VPOS="1034"
+                          HPOS="767"
+                          CONTENT="Outubro,"/>
+                  <SP HEIGHT="41" WIDTH="36" VPOS="1034" HPOS="1201"/>
+                  <String HEIGHT="41"
+                          WIDTH="217"
+                          VPOS="1034"
+                          HPOS="1056"
+                          CONTENT="1961"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_1" HEIGHT="29" WIDTH="19" VPOS="1162" HPOS="813">
+               <Shape>
+                  <Polygon POINTS="813,1162 832,1162 832,1191 813,1191"/>
+               </Shape>
+               <TextLine ID="tl_3"
+                         BASELINE="1194"
+                         HEIGHT="38"
+                         WIDTH="28"
+                         VPOS="1156"
+                         HPOS="808">
+                  <String HEIGHT="38" WIDTH="84" VPOS="1156" HPOS="752" CONTENT="4"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

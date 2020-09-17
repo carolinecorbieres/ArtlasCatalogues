@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>Walter BODMER</name> (<desc>1903</desc> -</form><form><name>Oskar DALVIT</name> (<desc>1911</desc> -</form><form><name>Georges FROIDEVAUX</name> (<desc>1911</desc> -</form><form><name>Leo LEUPPI</name> (<desc>1893</desc> -</form><form><name>Claude LOEWER</name> (<desc>1917</desc> </form><form><name>Richard Paul LOHSE</name> (<desc>1902</desc> </form><form><name>Oto TSCHUMI</name> (<desc>1904</desc> </form><form><name>Sophie H. TAEUBER-ARP</name> (<desc>1889</desc> <lb/></form><form><name>Oskar DALVIT</name> (<desc>1911</desc> </form><form><name>Claude LOEWER</name> (<desc>1917</desc> -</form><form><name>Oto TSCHUMI</name> (<desc>1904</desc> -</form><form><name>Pedro FIGARI</name> (<desc>1871</desc> <lb/></form><form><name>Rafael PEREZ BARRADAS</name> (<desc>1890</desc> <lb/></form><form><name>Joaquim TORREZ-GARCIA</name> (<desc>1877.1949</desc></form><form><name>Antonio PENA</name> (<desc>1894</desc> <lb/></form></body>
+	</text>
+</tei>

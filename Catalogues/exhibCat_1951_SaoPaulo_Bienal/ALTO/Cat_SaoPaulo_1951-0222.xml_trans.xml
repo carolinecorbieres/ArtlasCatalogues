@@ -1,0 +1,51 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0222.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:44.49+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1266" WIDTH="1047" VPOS="411" HPOS="299">
+        <TextBlock ID="r_2_1" HEIGHT="23" WIDTH="460" VPOS="1650" HPOS="436">
+          <TextLine ID="tl_1" BASELINE="1682" HEIGHT="58" WIDTH="468" VPOS="1624" HPOS="432">
+            <String HEIGHT="58" WIDTH="156" VPOS="1624" HPOS="419" CONTENT="Maria" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="58" WIDTH="13" VPOS="1624" HPOS="575"/>
+            <String HEIGHT="58" WIDTH="156" VPOS="1624" HPOS="536" CONTENT="Leontina" ID="tl_1_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="58" WIDTH="13" VPOS="1624" HPOS="692"/>
+            <String HEIGHT="58" WIDTH="130" VPOS="1624" HPOS="653" CONTENT="Franco" ID="tl_1_3" STYLEREFS="FONT1"/>
+            <SP HEIGHT="58" WIDTH="13" VPOS="1624" HPOS="783"/>
+            <String HEIGHT="58" WIDTH="169" VPOS="1624" HPOS="731" CONTENT="Dacosta" ID="tl_1_4" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="23" WIDTH="255" VPOS="1649" HPOS="968">
+          <TextLine ID="tl_2" BASELINE="1675" HEIGHT="55" WIDTH="264" VPOS="1620" HPOS="964">
+            <String HEIGHT="55" WIDTH="201" VPOS="1620" HPOS="951" CONTENT="&lt;&gt;CeNatureza" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="55" WIDTH="13" VPOS="1620" HPOS="1153"/>
+            <String HEIGHT="55" WIDTH="126" VPOS="1620" HPOS="1102" CONTENT="morta" ID="tl_2_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="r_1" HEIGHT="725" WIDTH="1047" VPOS="411" HPOS="299"/>
+        <Illustration ID="r_4" HEIGHT="45" WIDTH="41" VPOS="740" HPOS="593"/>
+        <Illustration ID="r_5" HEIGHT="24" WIDTH="69" VPOS="890" HPOS="934"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

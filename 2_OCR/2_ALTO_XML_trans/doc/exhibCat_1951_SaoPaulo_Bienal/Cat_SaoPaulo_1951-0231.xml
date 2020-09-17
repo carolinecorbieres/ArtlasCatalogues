@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-09-15T11:53:46.122+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+         <TopMargin HEIGHT="365" WIDTH="1641" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1354" WIDTH="405" VPOS="365" HPOS="0"/>
+         <RightMargin HEIGHT="1354" WIDTH="401" VPOS="365" HPOS="1240"/>
+         <BottomMargin HEIGHT="368" WIDTH="1641" VPOS="1719" HPOS="0"/>
+         <PrintSpace HEIGHT="1354" WIDTH="835" VPOS="365" HPOS="405">
+            <TextBlock ID="r_2_1" HEIGHT="29" WIDTH="393" VPOS="1688" HPOS="623">
+               <Shape>
+                  <Polygon POINTS="623,1688 1016,1688 1016,1717 623,1717"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="1723"
+                         HEIGHT="38"
+                         WIDTH="402"
+                         VPOS="1685"
+                         HPOS="618">
+                  <String HEIGHT="38"
+                          WIDTH="186"
+                          VPOS="1685"
+                          HPOS="603"
+                          CONTENT="&lt;bRobert"/>
+                  <SP HEIGHT="38" WIDTH="15" VPOS="1685" HPOS="788"/>
+                  <String HEIGHT="38"
+                          WIDTH="201"
+                          VPOS="1685"
+                          HPOS="742"
+                          CONTENT="Couturier"/>
+                  <SP HEIGHT="38" WIDTH="15" VPOS="1685" HPOS="943"/>
+                  <String HEIGHT="38" WIDTH="77" VPOS="1685" HPOS="896" CONTENT="—"/>
+                  <SP HEIGHT="38" WIDTH="15" VPOS="1685" HPOS="974"/>
+                  <String HEIGHT="38"
+                          WIDTH="108"
+                          VPOS="1685"
+                          HPOS="912"
+                          CONTENT="Joven"/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_3" HEIGHT="6" WIDTH="70" VPOS="372" HPOS="475"/>
+            <GraphicalElement ID="r_4" HEIGHT="5" WIDTH="65" VPOS="1624" HPOS="1071"/>
+            <GraphicalElement ID="r_5" HEIGHT="34" WIDTH="2" VPOS="399" HPOS="408"/>
+            <GraphicalElement ID="r_6" HEIGHT="58" WIDTH="3" VPOS="1182" HPOS="413"/>
+            <GraphicalElement ID="r_7" HEIGHT="95" WIDTH="5" VPOS="1258" HPOS="413"/>
+            <GraphicalElement ID="r_8" HEIGHT="73" WIDTH="4" VPOS="1379" HPOS="414"/>
+            <GraphicalElement ID="r_9" HEIGHT="4" WIDTH="47" VPOS="1271" HPOS="1168"/>
+            <GraphicalElement ID="r_10" HEIGHT="33" WIDTH="3" VPOS="1063" HPOS="1229"/>
+            <Illustration ID="r_1" HEIGHT="1282" WIDTH="835" VPOS="365" HPOS="405"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

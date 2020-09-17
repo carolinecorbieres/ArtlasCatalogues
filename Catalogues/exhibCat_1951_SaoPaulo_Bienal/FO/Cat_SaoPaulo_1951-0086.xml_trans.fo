@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Mauricio</fo:inline>
+            
+            <fo:inline font-weight="bold">LASANSKY</fo:inline>
+            
+            <fo:inline font-weight="bold">(Argentina,</fo:inline>
+            
+            <fo:inline font-weight="bold">1914</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>116.</fo:inline>
+            
+            <fo:inline>Auto-retrato</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1945</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>117.</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Pietàl</fo:inline>
+            
+            <fo:inline>1947.</fo:inline>
+            
+            <fo:inline>âgua-forte</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>118.</fo:inline>
+            
+            <fo:inline>O</fo:inline>
+            
+            <fo:inline>pâssaro</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>fogo</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1951.</fo:inline>
+            
+            <fo:inline>âgua</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Boris</fo:inline>
+            
+            <fo:inline font-weight="bold">MARGO</fo:inline>
+            
+            <fo:inline font-weight="bold">(Russia,</fo:inline>
+            
+            <fo:inline font-weight="bold">1902</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>119.</fo:inline>
+            
+            <fo:inline>Joias</fo:inline>
+            
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>levitaçào</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948-49.</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Cellocut’</fo:inline>
+            
+            <fo:inline>(molde</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>celuloide)</fo:inline>
+            
+            <fo:inline>Betty</fo:inline>
+            
+            <fo:inline>Parsons</fo:inline>
+            
+            <fo:inline>Gallery,</fo:inline>
+            
+            <fo:inline font-style="italic">New</fo:inline>
+            
+            <fo:inline font-style="italic">Yore</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>120.</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Telecast</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949.</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Cellocute</fo:inline>
+            
+            <fo:inline>Betty</fo:inline>
+            
+            <fo:inline>Parsons</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Gallery,</fo:inline>
+            
+            <fo:inline font-style="italic">Neu</fo:inline>
+            
+            <fo:inline font-style="italic">York</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>121.</fo:inline>
+            
+            <fo:inline>Carnaval</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1946.</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Cellocut’’</fo:inline>
+            
+            <fo:inline>Bdy</fo:inline>
+            
+            <fo:inline>Parsons</fo:inline>
+            
+            <fo:inline>Gal</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>lery,</fo:inline>
+            
+            <fo:inline font-style="italic">Neu</fo:inline>
+            
+            <fo:inline font-style="italic">York</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Louis</fo:inline>
+            
+            <fo:inline font-weight="bold">SCHANKER</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.</fo:inline>
+            
+            <fo:inline font-weight="bold">UU</fo:inline>
+            
+            <fo:inline font-weight="bold">1903</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>122.</fo:inline>
+            
+            <fo:inline>Paisagem</fo:inline>
+            
+            <fo:inline>abstrata,</fo:inline>
+            
+            <fo:inline>n.°</fo:inline>
+            
+            <fo:inline>1</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1946.</fo:inline>
+            
+            <fo:inline>xilogravura</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>123.</fo:inline>
+            
+            <fo:inline>Arranjo</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>formas</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949.</fo:inline>
+            
+            <fo:inline>xilogravura</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>124.</fo:inline>
+            
+            <fo:inline>Pâssaros</fo:inline>
+            
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>vôo.</fo:inline>
+            
+            <fo:inline>xilogravura</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

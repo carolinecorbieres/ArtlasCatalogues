@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">apresentada</fo:inline>
+            
+            <fo:inline font-style="italic">na</fo:inline>
+            
+            <fo:inline font-style="italic">XXV</fo:inline>
+            
+            <fo:inline font-style="italic">Exροsição</fo:inline>
+            
+            <fo:inline font-style="italic">Internacional</fo:inline>
+            
+            <fo:inline font-style="italic">da</fo:inline>
+            
+            <fo:inline font-style="italic">Bienal</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Veneziana</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Este</fo:inline>
+            
+            <fo:inline font-style="italic">ano,</fo:inline>
+            
+            <fo:inline font-style="italic">a</fo:inline>
+            
+            <fo:inline font-style="italic">ee</fo:inline>
+            
+            <fo:inline font-style="italic">Biennale</fo:inline>
+            
+            <fo:inline font-style="italic">di</fo:inline>
+            
+            <fo:inline font-style="italic">Venezia’’,</fo:inline>
+            
+            <fo:inline font-style="italic">por</fo:inline>
+            
+            <fo:inline font-style="italic">honrosa</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">incumbencia</fo:inline>
+            
+            <fo:inline font-style="italic">do</fo:inline>
+            
+            <fo:inline font-style="italic">Ministério</fo:inline>
+            
+            <fo:inline font-style="italic">das</fo:inline>
+            
+            <fo:inline font-style="italic">Relaçôes</fo:inline>
+            
+            <fo:inline font-style="italic">Exteriores</fo:inline>
+            
+            <fo:inline font-style="italic">e</fo:inline>
+            
+            <fo:inline font-style="italic">do</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Ministério</fo:inline>
+            
+            <fo:inline font-style="italic">da</fo:inline>
+            
+            <fo:inline font-style="italic">Instruçuo</fo:inline>
+            
+            <fo:inline font-style="italic">Pablica,</fo:inline>
+            
+            <fo:inline font-style="italic">envia</fo:inline>
+            
+            <fo:inline font-style="italic">ao</fo:inline>
+            
+            <fo:inline font-style="italic">Brasil</fo:inline>
+            
+            <fo:inline font-style="italic">um</fo:inline>
+            
+            <fo:inline font-style="italic">grupo</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">artistas</fo:inline>
+            
+            <fo:inline font-style="italic">italianos,</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">idades</fo:inline>
+            
+            <fo:inline font-style="italic">e</fo:inline>
+            
+            <fo:inline font-style="italic">tendencias</fo:inline>
+            
+            <fo:inline font-style="italic">diversas,</fo:inline>
+            
+            <fo:inline font-style="italic">9</fo:inline>
+            
+            <fo:inline font-style="italic">fim</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">que</fo:inline>
+            
+            <fo:inline font-style="italic">sejam</fo:inline>
+            
+            <fo:inline font-style="italic">conhecidas</fo:inline>
+            
+            <fo:inline font-style="italic">algumas</fo:inline>
+            
+            <fo:inline font-style="italic">entre</fo:inline>
+            
+            <fo:inline font-style="italic">as</fo:inline>
+            
+            <fo:inline font-style="italic">suas</fo:inline>
+            
+            <fo:inline font-style="italic">expressôes</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">meais</fo:inline>
+            
+            <fo:inline font-style="italic">significativas</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Nao</fo:inline>
+            
+            <fo:inline font-style="italic">era</fo:inline>
+            
+            <fo:inline font-style="italic">possivel</fo:inline>
+            
+            <fo:inline font-style="italic">—</fo:inline>
+            
+            <fo:inline font-style="italic">e</fo:inline>
+            
+            <fo:inline font-style="italic">nem</fo:inline>
+            
+            <fo:inline font-style="italic">isso</fo:inline>
+            
+            <fo:inline font-style="italic">era</fo:inline>
+            
+            <fo:inline font-style="italic">intençao</fo:inline>
+            
+            <fo:inline font-style="italic">dos</fo:inline>
+            
+            <fo:inline font-style="italic">orga</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">nizodores</fo:inline>
+            
+            <fo:inline font-style="italic">brasileiros</fo:inline>
+            
+            <fo:inline font-style="italic">—</fo:inline>
+            
+            <fo:inline font-style="italic">apresentar,</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">umo</fo:inline>
+            
+            <fo:inline font-style="italic">s6</fo:inline>
+            
+            <fo:inline font-style="italic">υ22,</fo:inline>
+            
+            <fo:inline font-style="italic">todus</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">aqueles</fo:inline>
+            
+            <fo:inline font-style="italic">desenvolvimenios</fo:inline>
+            
+            <fo:inline font-style="italic">que</fo:inline>
+            
+            <fo:inline font-style="italic">à</fo:inline>
+            
+            <fo:inline font-style="italic">arte</fo:inline>
+            
+            <fo:inline font-style="italic">italiana</fo:inline>
+            
+            <fo:inline font-style="italic">experimentou</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">nesses</fo:inline>
+            
+            <fo:inline font-style="italic">âaltimos</fo:inline>
+            
+            <fo:inline font-style="italic">cinqienta</fo:inline>
+            
+            <fo:inline font-style="italic">anos.</fo:inline>
+            
+            <fo:inline font-style="italic">Limilamo-nos,</fo:inline>
+            
+            <fo:inline font-style="italic">entio,</fo:inline>
+            
+            <fo:inline font-style="italic">a</fo:inline>
+            
+            <fo:inline font-style="italic">seguir</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">um</fo:inline>
+            
+            <fo:inline font-style="italic">critério</fo:inline>
+            
+            <fo:inline font-style="italic">selectwvo,</fo:inline>
+            
+            <fo:inline font-style="italic">veservondo-nos</fo:inline>
+            
+            <fo:inline font-style="italic">para</fo:inline>
+            
+            <fo:inline font-style="italic">a</fo:inline>
+            
+            <fo:inline font-style="italic">prôxima</fo:inline>
+            
+            <fo:inline font-style="italic">Bienal</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Brasileira</fo:inline>
+            
+            <fo:inline font-style="italic">a</fo:inline>
+            
+            <fo:inline font-style="italic">apresentaçao</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">outros</fo:inline>
+            
+            <fo:inline font-style="italic">dignos</fo:inline>
+            
+            <fo:inline font-style="italic">nestres</fo:inline>
+            
+            <fo:inline font-style="italic">e</fo:inline>
+            
+            <fo:inline font-style="italic">ar</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">tistas.</fo:inline>
+            
+            <fo:inline font-style="italic">Que</fo:inline>
+            
+            <fo:inline font-style="italic">a</fo:inline>
+            
+            <fo:inline font-style="italic">escolha</fo:inline>
+            
+            <fo:inline font-style="italic">se</fo:inline>
+            
+            <fo:inline font-style="italic">caracterizou</fo:inline>
+            
+            <fo:inline font-style="italic">pela</fo:inline>
+            
+            <fo:inline font-style="italic">maior</fo:inline>
+            
+            <fo:inline font-style="italic">objetivi</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">dade,</fo:inline>
+            
+            <fo:inline font-style="italic">demonstra-o</fo:inline>
+            
+            <fo:inline font-style="italic">0</fo:inline>
+            
+            <fo:inline font-style="italic">fato</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">que</fo:inline>
+            
+            <fo:inline font-style="italic">se</fo:inline>
+            
+            <fo:inline font-style="italic">parte</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">artistas</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">idade,</fo:inline>
+            
+            <fo:inline font-style="italic">como</fo:inline>
+            
+            <fo:inline font-style="italic">Carlo</fo:inline>
+            
+            <fo:inline font-style="italic">Carrè,</fo:inline>
+            
+            <fo:inline font-style="italic">nascido</fo:inline>
+            
+            <fo:inline font-style="italic">em</fo:inline>
+            
+            <fo:inline>1881,</fo:inline>
+            
+            <fo:inline font-style="italic">para</fo:inline>
+            
+            <fo:inline font-style="italic">chegar</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">aos</fo:inline>
+            
+            <fo:inline font-style="italic">mais</fo:inline>
+            
+            <fo:inline font-style="italic">jovens,</fo:inline>
+            
+            <fo:inline font-style="italic">até</fo:inline>
+            
+            <fo:inline font-style="italic">Sergio</fo:inline>
+            
+            <fo:inline font-style="italic">Vacchi,</fo:inline>
+            
+            <fo:inline font-style="italic">nascido</fo:inline>
+            
+            <fo:inline font-style="italic">em</fo:inline>
+            
+            <fo:inline>1925.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Assin,</fo:inline>
+            
+            <fo:inline font-style="italic">representamos,</fo:inline>
+            
+            <fo:inline font-style="italic">atrovés</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">exemplos,</fo:inline>
+            
+            <fo:inline font-style="italic">as</fo:inline>
+            
+            <fo:inline font-style="italic">caracteris</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">ticas</fo:inline>
+            
+            <fo:inline font-style="italic">e</fo:inline>
+            
+            <fo:inline font-style="italic">as</fo:inline>
+            
+            <fo:inline font-style="italic">instancias</fo:inline>
+            
+            <fo:inline font-style="italic">das</fo:inline>
+            
+            <fo:inline font-style="italic">geraçôes</fo:inline>
+            
+            <fo:inline font-style="italic">que</fo:inline>
+            
+            <fo:inline font-style="italic">se</fo:inline>
+            
+            <fo:inline font-style="italic">sucederdm</fo:inline>
+            
+            <fo:inline font-style="italic">nos</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">âltimos</fo:inline>
+            
+            <fo:inline font-style="italic">dez</fo:inline>
+            
+            <fo:inline font-style="italic">lustros</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Faço</fo:inline>
+            
+            <fo:inline font-style="italic">votos</fo:inline>
+            
+            <fo:inline font-style="italic">para</fo:inline>
+            
+            <fo:inline font-style="italic">que</fo:inline>
+            
+            <fo:inline font-style="italic">este</fo:inline>
+            
+            <fo:inline font-style="italic">grupo</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">obras</fo:inline>
+            
+            <fo:inline font-style="italic">combosta</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">pinturas,</fo:inline>
+            
+            <fo:inline font-style="italic">esculturas</fo:inline>
+            
+            <fo:inline font-style="italic">e</fo:inline>
+            
+            <fo:inline font-style="italic">gravuras</fo:inline>
+            
+            <fo:inline font-style="italic">deixe</fo:inline>
+            
+            <fo:inline font-style="italic">eveuder,</fo:inline>
+            
+            <fo:inline font-style="italic">com</fo:inline>
+            
+            <fo:inline font-style="italic">sufi</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">ciente</fo:inline>
+            
+            <fo:inline font-style="italic">clarezo,</fo:inline>
+            
+            <fo:inline font-style="italic">0</fo:inline>
+            
+            <fo:inline font-style="italic">energia</fo:inline>
+            
+            <fo:inline font-style="italic">vital</fo:inline>
+            
+            <fo:inline font-style="italic">que</fo:inline>
+            
+            <fo:inline font-style="italic">anima</fo:inline>
+            
+            <fo:inline font-style="italic">nossos</fo:inline>
+            
+            <fo:inline font-style="italic">artistas</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">os</fo:inline>
+            
+            <fo:inline font-style="italic">quais</fo:inline>
+            
+            <fo:inline font-style="italic">trabalham</fo:inline>
+            
+            <fo:inline font-style="italic">dentro</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">uva</fo:inline>
+            
+            <fo:inline font-style="italic">cultura</fo:inline>
+            
+            <fo:inline font-style="italic">mundiak,</fo:inline>
+            
+            <fo:inline font-style="italic">levando</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">a</fo:inline>
+            
+            <fo:inline font-style="italic">essa</fo:inline>
+            
+            <fo:inline font-style="italic">a</fo:inline>
+            
+            <fo:inline font-style="italic">contribuiçdo</fo:inline>
+            
+            <fo:inline font-style="italic">diferenciada</fo:inline>
+            
+            <fo:inline font-style="italic">de</fo:inline>
+            
+            <fo:inline font-style="italic">suas</fo:inline>
+            
+            <fo:inline font-style="italic">livres</fo:inline>
+            
+            <fo:inline font-style="italic">individua</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">lidades</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>GIOVANNI</fo:inline>
+            
+            <fo:inline>PONTI</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Presidente</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Biennale</fo:inline>
+            
+            <fo:inline>di</fo:inline>
+            
+            <fo:inline>Venezia)»</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">PINTURA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">AFRO</fo:inline>
+            
+            <fo:inline font-weight="bold">(1912)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>1.</fo:inline>
+            
+            <fo:inline>Novo</fo:inline>
+            
+            <fo:inline>testamento</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949,</fo:inline>
+            
+            <fo:inline>desenho.</fo:inline>
+            
+            <fo:inline>120,5x90</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>2.</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Passeggiata</fo:inline>
+            
+            <fo:inline>archoolôgical</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1951.</fo:inline>
+            
+            <fo:inline>70x101</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>3.</fo:inline>
+            
+            <fo:inline>O</fo:inline>
+            
+            <fo:inline>terceiro</fo:inline>
+            
+            <fo:inline>disparo</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>bateria</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1951.</fo:inline>
+            
+            <fo:inline>100x70</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>88</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

@@ -1,0 +1,50 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0227.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:45.529+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1254" WIDTH="1079" VPOS="415" HPOS="240">
+        <TextBlock ID="r_2_1" HEIGHT="28" WIDTH="202" VPOS="1638" HPOS="526">
+          <TextLine ID="tl_1" BASELINE="1674" HEIGHT="44" WIDTH="210" VPOS="1630" HPOS="522">
+            <String HEIGHT="44" WIDTH="150" VPOS="1630" HPOS="507" CONTENT="&lt;Roger" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="1630" HPOS="657"/>
+            <String HEIGHT="44" WIDTH="135" VPOS="1630" HPOS="597" CONTENT="Chastel" ID="tl_1_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="24" WIDTH="308" VPOS="1637" HPOS="799">
+          <TextLine ID="tl_2" BASELINE="1667" HEIGHT="40" WIDTH="317" VPOS="1627" HPOS="794">
+            <String HEIGHT="40" WIDTH="222" VPOS="1627" HPOS="778" CONTENT="’Namorados" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="40" WIDTH="16" VPOS="1627" HPOS="1000"/>
+            <String HEIGHT="40" WIDTH="95" VPOS="1627" HPOS="952" CONTENT="no" ID="tl_2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="40" WIDTH="16" VPOS="1627" HPOS="1048"/>
+            <String HEIGHT="40" WIDTH="127" VPOS="1627" HPOS="984" CONTENT="café)»" ID="tl_2_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="112" WIDTH="3" VPOS="688" HPOS="494"/>
+        <GraphicalElement ID="r_5" HEIGHT="74" WIDTH="6" VPOS="1143" HPOS="974"/>
+        <GraphicalElement ID="r_6" HEIGHT="44" WIDTH="4" VPOS="861" HPOS="493"/>
+        <Illustration ID="r_1" HEIGHT="1131" WIDTH="1079" VPOS="415" HPOS="240"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,46 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0214.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:43.309+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1267" WIDTH="992" VPOS="410" HPOS="325">
+        <TextBlock ID="r_2_1" HEIGHT="30" WIDTH="374" VPOS="1645" HPOS="645">
+          <TextLine ID="tl_1" BASELINE="1683" HEIGHT="67" WIDTH="384" VPOS="1616" HPOS="639">
+            <String HEIGHT="67" WIDTH="138" VPOS="1616" HPOS="624" CONTENT="Bruno" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="15" VPOS="1616" HPOS="762"/>
+            <String HEIGHT="67" WIDTH="154" VPOS="1616" HPOS="716" CONTENT="Giorgi" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="15" VPOS="1616" HPOS="869"/>
+            <String HEIGHT="67" WIDTH="77" VPOS="1616" HPOS="823" CONTENT="—" ID="tl_1_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="67" WIDTH="15" VPOS="1616" HPOS="900"/>
+            <String HEIGHT="67" WIDTH="184" VPOS="1616" HPOS="839" CONTENT="C(Figura)&gt;" ID="tl_1_4" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="r_1" HEIGHT="727" WIDTH="992" VPOS="410" HPOS="325"/>
+        <Illustration ID="r_3" HEIGHT="9" WIDTH="271" VPOS="1082" HPOS="1041"/>
+        <Illustration ID="r_4" HEIGHT="10" WIDTH="41" VPOS="825" HPOS="794"/>
+        <Illustration ID="r_5" HEIGHT="141" WIDTH="325" VPOS="962" HPOS="634"/>
+        <Illustration ID="r_6" HEIGHT="11" WIDTH="49" VPOS="997" HPOS="978"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

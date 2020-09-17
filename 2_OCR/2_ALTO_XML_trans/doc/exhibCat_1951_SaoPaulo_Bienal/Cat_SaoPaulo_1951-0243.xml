@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-09-15T11:53:48.011+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+         <TopMargin HEIGHT="427" WIDTH="1641" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1232" WIDTH="280" VPOS="427" HPOS="0"/>
+         <RightMargin HEIGHT="1232" WIDTH="186" VPOS="427" HPOS="1455"/>
+         <BottomMargin HEIGHT="428" WIDTH="1641" VPOS="1659" HPOS="0"/>
+         <PrintSpace HEIGHT="1232" WIDTH="1175" VPOS="427" HPOS="280">
+            <TextBlock ID="r_2_1" HEIGHT="20" WIDTH="48" VPOS="1633" HPOS="962">
+               <Shape>
+                  <Polygon POINTS="962,1633 1010,1633 1010,1653 962,1653"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="1658"
+                         HEIGHT="35"
+                         WIDTH="56"
+                         VPOS="1623"
+                         HPOS="958">
+                  <String HEIGHT="35"
+                          WIDTH="84"
+                          VPOS="1623"
+                          HPOS="930"
+                          CONTENT="seis"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_3_1" HEIGHT="27" WIDTH="209" VPOS="1630" HPOS="622">
+               <Shape>
+                  <Polygon POINTS="622,1630 831,1630 831,1657 622,1657"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="1666"
+                         HEIGHT="43"
+                         WIDTH="218"
+                         VPOS="1623"
+                         HPOS="618">
+                  <String HEIGHT="43"
+                          WIDTH="168"
+                          VPOS="1623"
+                          HPOS="601"
+                          CONTENT="Edgard"/>
+                  <SP HEIGHT="43" WIDTH="17" VPOS="1623" HPOS="769"/>
+                  <String HEIGHT="43"
+                          WIDTH="134"
+                          VPOS="1623"
+                          HPOS="702"
+                          CONTENT="Tytgat"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_4_1" HEIGHT="22" WIDTH="32" VPOS="1632" HPOS="909">
+               <Shape>
+                  <Polygon POINTS="909,1632 941,1632 941,1654 909,1654"/>
+               </Shape>
+               <TextLine ID="tl_3"
+                         BASELINE="1659"
+                         HEIGHT="30"
+                         WIDTH="41"
+                         VPOS="1629"
+                         HPOS="905">
+                  <String HEIGHT="30"
+                          WIDTH="55"
+                          VPOS="1629"
+                          HPOS="891"
+                          CONTENT="&lt;bAs&lt;/"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_5_1" HEIGHT="18" WIDTH="125" VPOS="1639" HPOS="1031">
+               <Shape>
+                  <Polygon POINTS="1031,1639 1156,1639 1156,1657 1031,1657"/>
+               </Shape>
+               <TextLine ID="tl_4"
+                         BASELINE="1666"
+                         HEIGHT="37"
+                         WIDTH="134"
+                         VPOS="1629"
+                         HPOS="1026">
+                  <String HEIGHT="37"
+                          WIDTH="164"
+                          VPOS="1629"
+                          HPOS="996"
+                          CONTENT="princesas"/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_6" HEIGHT="2" WIDTH="33" VPOS="1645" HPOS="854"/>
+            <Illustration ID="r_1" HEIGHT="938" WIDTH="1175" VPOS="427" HPOS="280"/>
+            <Illustration ID="r_7" HEIGHT="14" WIDTH="49" VPOS="1137" HPOS="682"/>
+            <Illustration ID="r_8" HEIGHT="12" WIDTH="52" VPOS="1017" HPOS="1088"/>
+            <Illustration ID="r_9" HEIGHT="39" WIDTH="17" VPOS="703" HPOS="809"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

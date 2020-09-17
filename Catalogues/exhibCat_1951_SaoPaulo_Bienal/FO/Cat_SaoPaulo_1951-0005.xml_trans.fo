@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>MUSEU</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>ARTE</fo:inline>
+            
+            <fo:inline>MODERNA</fo:inline>
+            
+            <fo:inline/>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>DIRETORIA</fo:inline>
+            
+            <fo:inline>EXECUTIVA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Presidente</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>FRANCISCO</fo:inline>
+            
+            <fo:inline>MATARAZZO</fo:inline>
+            
+            <fo:inline>SOBRINHO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Vice-Presidente</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>CARLOS</fo:inline>
+            
+            <fo:inline>PINTO</fo:inline>
+            
+            <fo:inline>ALVES</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Primeiro</fo:inline>
+            
+            <fo:inline>Secretârio</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>SERCIO</fo:inline>
+            
+            <fo:inline>MILLIET</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Segundo</fo:inline>
+            
+            <fo:inline>Secretâro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>FRANCISCO</fo:inline>
+            
+            <fo:inline>LUIS</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>ALMEIDA</fo:inline>
+            
+            <fo:inline>SALLES</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Primeiro</fo:inline>
+            
+            <fo:inline>Tesoureiro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>ALDO</fo:inline>
+            
+            <fo:inline>MAGNELLI</fo:inline>
+            
+            <fo:inline>»</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Segundo</fo:inline>
+            
+            <fo:inline>Tesoureiro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>MARIO</fo:inline>
+            
+            <fo:inline>BANDEIRA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Diretor</fo:inline>
+            
+            <fo:inline>Artistico</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>LOURIVAL</fo:inline>
+            
+            <fo:inline>GOMES</fo:inline>
+            
+            <fo:inline>MACHADO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>CONSELHO</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>ADMINISTRAÇAO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ALDO</fo:inline>
+            
+            <fo:inline>MAGNELLI</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ANDRÉ</fo:inline>
+            
+            <fo:inline>DREYFUS</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ANTONIO</fo:inline>
+            
+            <fo:inline>CANDIDO</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>MELLO</fo:inline>
+            
+            <fo:inline>E</fo:inline>
+            
+            <fo:inline>SOUZA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>CLOVIS</fo:inline>
+            
+            <fo:inline>GRACIANO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>EDUARDO</fo:inline>
+            
+            <fo:inline>KNEESE</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>MELLO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>FRANCISCO</fo:inline>
+            
+            <fo:inline>LUIS</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>ALMEIDA</fo:inline>
+            
+            <fo:inline>SALLES</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>J.</fo:inline>
+            
+            <fo:inline>VILLANOVA</fo:inline>
+            
+            <fo:inline>ARTIGAS</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>JACOB</fo:inline>
+            
+            <fo:inline>RUCHTI</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>LUIZ</fo:inline>
+            
+            <fo:inline>SAIA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>MARIO</fo:inline>
+            
+            <fo:inline>PENTEADO</fo:inline>
+            
+            <fo:inline>CAMARGO</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>MARIO</fo:inline>
+            
+            <fo:inline>GRACIOTTI</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>MIGUEL</fo:inline>
+            
+            <fo:inline>FORTE</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>OSWALD</fo:inline>
+            
+            <fo:inline>DE</fo:inline>
+            
+            <fo:inline>ANDRADE</fo:inline>
+            
+            <fo:inline>FILHO</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ROBERTO</fo:inline>
+            
+            <fo:inline>PAIVA</fo:inline>
+            
+            <fo:inline>MEIRA</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SERGIO</fo:inline>
+            
+            <fo:inline>MILLIET</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Administrador</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>BIAGIO</fo:inline>
+            
+            <fo:inline>MOTTA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>5</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

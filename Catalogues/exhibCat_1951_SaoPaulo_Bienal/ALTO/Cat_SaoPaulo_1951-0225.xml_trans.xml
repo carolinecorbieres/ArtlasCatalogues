@@ -1,0 +1,52 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0225.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:45.239+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1259" WIDTH="861" VPOS="413" HPOS="454">
+        <TextBlock ID="r_2_1" HEIGHT="23" WIDTH="129" VPOS="1642" HPOS="580">
+          <TextLine ID="tl_1" BASELINE="1674" HEIGHT="47" WIDTH="138" VPOS="1627" HPOS="575">
+            <String HEIGHT="47" WIDTH="88" VPOS="1627" HPOS="562" CONTENT="Max" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="47" WIDTH="13" VPOS="1627" HPOS="650"/>
+            <String HEIGHT="47" WIDTH="113" VPOS="1627" HPOS="600" CONTENT="Bil" ID="tl_1_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="27" WIDTH="292" VPOS="1643" HPOS="778">
+          <TextLine ID="tl_2" BASELINE="1674" HEIGHT="43" WIDTH="300" VPOS="1631" HPOS="774">
+            <String HEIGHT="43" WIDTH="178" VPOS="1631" HPOS="763" CONTENT="C'Unidade" ID="tl_2_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="43" WIDTH="11" VPOS="1631" HPOS="941"/>
+            <String HEIGHT="43" WIDTH="178" VPOS="1631" HPOS="896" CONTENT="tripartida)»" ID="tl_2_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="4" WIDTH="62" VPOS="1173" HPOS="496"/>
+        <GraphicalElement ID="r_5" HEIGHT="2" WIDTH="39" VPOS="1267" HPOS="1141"/>
+        <GraphicalElement ID="r_6" HEIGHT="67" WIDTH="4" VPOS="540" HPOS="460"/>
+        <Illustration ID="r_1" HEIGHT="1041" WIDTH="861" VPOS="413" HPOS="454"/>
+        <Illustration ID="r_7" HEIGHT="24" WIDTH="90" VPOS="1065" HPOS="1066"/>
+        <Illustration ID="r_8" HEIGHT="19" WIDTH="93" VPOS="1354" HPOS="714"/>
+        <Illustration ID="r_9" HEIGHT="107" WIDTH="14" VPOS="708" HPOS="957"/>
+        <Illustration ID="r_10" HEIGHT="46" WIDTH="17" VPOS="1274" HPOS="811"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

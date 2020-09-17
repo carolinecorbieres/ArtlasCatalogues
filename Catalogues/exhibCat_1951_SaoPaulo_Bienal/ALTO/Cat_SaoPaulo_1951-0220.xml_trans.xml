@@ -1,0 +1,51 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0220.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:44.2+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1253" WIDTH="991" VPOS="407" HPOS="326">
+        <TextBlock ID="r_2_1" HEIGHT="22" WIDTH="232" VPOS="1634" HPOS="478">
+          <TextLine ID="tl_1" BASELINE="1659" HEIGHT="62" WIDTH="240" VPOS="1597" HPOS="474">
+            <String HEIGHT="62" WIDTH="152" VPOS="1597" HPOS="461" CONTENT="Victor" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="62" WIDTH="13" VPOS="1597" HPOS="613"/>
+            <String HEIGHT="62" WIDTH="152" VPOS="1597" HPOS="562" CONTENT="Brecherer" ID="tl_1_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="30" WIDTH="365" VPOS="1628" HPOS="786">
+          <TextLine ID="tl_2" BASELINE="1659" HEIGHT="60" WIDTH="374" VPOS="1599" HPOS="781">
+            <String HEIGHT="60" WIDTH="77" VPOS="1599" HPOS="768" CONTENT="*0" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="60" WIDTH="13" VPOS="1599" HPOS="845"/>
+            <String HEIGHT="60" WIDTH="142" VPOS="1599" HPOS="807" CONTENT="Indio" ID="tl_2_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="60" WIDTH="13" VPOS="1599" HPOS="949"/>
+            <String HEIGHT="60" WIDTH="64" VPOS="1599" HPOS="910" CONTENT="e" ID="tl_2_3" STYLEREFS="FONT1"/>
+            <SP HEIGHT="60" WIDTH="13" VPOS="1599" HPOS="974"/>
+            <String HEIGHT="60" WIDTH="64" VPOS="1599" HPOS="936" CONTENT="a" ID="tl_2_4" STYLEREFS="FONT1"/>
+            <SP HEIGHT="60" WIDTH="13" VPOS="1599" HPOS="1000"/>
+            <String HEIGHT="60" WIDTH="206" VPOS="1599" HPOS="949" CONTENT="suaçuapara" ID="tl_2_5" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="r_1" HEIGHT="716" WIDTH="991" VPOS="407" HPOS="326"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Escultura</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Max</fo:inline>
+            
+            <fo:inline>BILL.</fo:inline>
+            
+            <fo:inline>Flavio</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Rezende</fo:inline>
+            
+            <fo:inline>CARVALHO,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Iris</fo:inline>
+            
+            <fo:inline>Thompson</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>CARVALHO,</fo:inline>
+            
+            <fo:inline>Alfio</fo:inline>
+            
+            <fo:inline>CASTELLI,</fo:inline>
+            
+            <fo:inline>Humberto</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>COzZO,</fo:inline>
+            
+            <fo:inline>Mario</fo:inline>
+            
+            <fo:inline>CRAVO</fo:inline>
+            
+            <fo:inline>Jr.,</fo:inline>
+            
+            <fo:inline>Vicente</fo:inline>
+            
+            <fo:inline>DI</fo:inline>
+            
+            <fo:inline>GRADO,</fo:inline>
+            
+            <fo:inline>Sonia</fo:inline>
+            
+            <fo:inline>EBLING,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Teresa</fo:inline>
+            
+            <fo:inline font-weight="bold">D’Amico</fo:inline>
+            
+            <fo:inline font-weight="bold">FOURPONE,</fo:inline>
+            
+            <fo:inline font-weight="bold">Caetano</fo:inline>
+            
+            <fo:inline font-weight="bold">FRACCAROLI,</fo:inline>
+            
+            <fo:inline font-weight="bold">Rosa</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>FRISONI,</fo:inline>
+            
+            <fo:inline>Max</fo:inline>
+            
+            <fo:inline>CROSSMANN,</fo:inline>
+            
+            <fo:inline>Julio</fo:inline>
+            
+            <fo:inline>GUERRA,</fo:inline>
+            
+            <fo:inline>Adriana</fo:inline>
+            
+            <fo:inline>JANA</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>COPULUS,</fo:inline>
+            
+            <fo:inline>Giandomenico</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>MARCHIS,</fo:inline>
+            
+            <fo:inline>Germano</fo:inline>
+            
+            <fo:inline>MARIUTTI,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Elisabeth</fo:inline>
+            
+            <fo:inline>NOBILING,</fo:inline>
+            
+            <fo:inline>Pola</fo:inline>
+            
+            <fo:inline>REZENDE,</fo:inline>
+            
+            <fo:inline>Gus</fo:inline>
+            
+            <fo:inline>ROMEIN,</fo:inline>
+            
+            <fo:inline>Margaret</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SPENCE.</fo:inline>
+            
+            <fo:inline>Robert</fo:inline>
+            
+            <fo:inline>TATIN,</fo:inline>
+            
+            <fo:inline>Caciporé</fo:inline>
+            
+            <fo:inline>TORRES,</fo:inline>
+            
+            <fo:inline>Bassano</fo:inline>
+            
+            <fo:inline>VACCARINI</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Rosa</fo:inline>
+            
+            <fo:inline>Eugenia</fo:inline>
+            
+            <fo:inline>VICUNA,</fo:inline>
+            
+            <fo:inline>Frans</fo:inline>
+            
+            <fo:inline>Josef</fo:inline>
+            
+            <fo:inline>WESSMANN,</fo:inline>
+            
+            <fo:inline>Eduardo</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>YEPES,</fo:inline>
+            
+            <fo:inline>August</fo:inline>
+            
+            <fo:inline>ZAMOISKI.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Desenho</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Gravura</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Washington</fo:inline>
+            
+            <fo:inline>Floriano</fo:inline>
+            
+            <fo:inline>Ricardo</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ALBUQUERQUE</fo:inline>
+            
+            <fo:inline>Jr.,</fo:inline>
+            
+            <fo:inline>Lisete</fo:inline>
+            
+            <fo:inline>ALMEIA,</fo:inline>
+            
+            <fo:inline>Geraldo</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>BARROS,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Heitor</fo:inline>
+            
+            <fo:inline>BERNABG</fo:inline>
+            
+            <fo:inline>(Carybé),</fo:inline>
+            
+            <fo:inline>ROCCo</fo:inline>
+            
+            <fo:inline>BORELLA,</fo:inline>
+            
+            <fo:inline>Minna</fo:inline>
+            
+            <fo:inline>CITRON,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Heloisa</fo:inline>
+            
+            <fo:inline>Fenelon</fo:inline>
+            
+            <fo:inline>COSTA,</fo:inline>
+            
+            <fo:inline>Marco</fo:inline>
+            
+            <fo:inline>CONSTANTINII,</fo:inline>
+            
+            <fo:inline>Daniel</fo:inline>
+            
+            <fo:inline>den</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>DIKKENBOER,</fo:inline>
+            
+            <fo:inline>Valdemar</fo:inline>
+            
+            <fo:inline>Hansen</fo:inline>
+            
+            <fo:inline>ELENBAAS,</fo:inline>
+            
+            <fo:inline>Graziela</fo:inline>
+            
+            <fo:inline>FUEN</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>ZALIDA,</fo:inline>
+            
+            <fo:inline>Karola</fo:inline>
+            
+            <fo:inline>Szillard</fo:inline>
+            
+            <fo:inline>GABOR,</fo:inline>
+            
+            <fo:inline>Zoi</fo:inline>
+            
+            <fo:inline>GLAVANIS,</fo:inline>
+            
+            <fo:inline>Marcelo</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>GRASSMANN,</fo:inline>
+            
+            <fo:inline>Karl</fo:inline>
+            
+            <fo:inline>Heins</fo:inline>
+            
+            <fo:inline>HANSEN.</fo:inline>
+            
+            <fo:inline>William</fo:inline>
+            
+            <fo:inline>Stanley</fo:inline>
+            
+            <fo:inline>HEYTER,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Yllen</fo:inline>
+            
+            <fo:inline>XERR,</fo:inline>
+            
+            <fo:inline>José</fo:inline>
+            
+            <fo:inline>LANZARO,</fo:inline>
+            
+            <fo:inline>Poty</fo:inline>
+            
+            <fo:inline>LANZZAROTTO,</fo:inline>
+            
+            <fo:inline>Ahmés</fo:inline>
+            
+            <fo:inline>Paula</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>MACHADO,</fo:inline>
+            
+            <fo:inline>Aldemir</fo:inline>
+            
+            <fo:inline>MARTINS,</fo:inline>
+            
+            <fo:inline>Manoel</fo:inline>
+            
+            <fo:inline>MARTINS,</fo:inline>
+            
+            <fo:inline>Anisio</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Araujo</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>MEDEIROS,</fo:inline>
+            
+            <fo:inline>Nina</fo:inline>
+            
+            <fo:inline>NECRI,</fo:inline>
+            
+            <fo:inline>Manoel</fo:inline>
+            
+            <fo:inline>Domingos</fo:inline>
+            
+            <fo:inline>NIETO,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Fortunato</fo:inline>
+            
+            <fo:inline>Camara</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>OLIVEIRA,</fo:inline>
+            
+            <fo:inline>Fayga</fo:inline>
+            
+            <fo:inline>OSTROWER,</fo:inline>
+            
+            <fo:inline>Euthimio</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>PAPADIMITRIOU,</fo:inline>
+            
+            <fo:inline>Adolfo</fo:inline>
+            
+            <fo:inline>PASTOR</fo:inline>
+            
+            <fo:inline>Gus</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>RUITER,</fo:inline>
+            
+            <fo:inline>Alice</fo:inline>
+            
+            <fo:inline>Ar</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>dohain</fo:inline>
+            
+            <fo:inline>SOARES,</fo:inline>
+            
+            <fo:inline>Luiz</fo:inline>
+            
+            <fo:inline>Alberto</fo:inline>
+            
+            <fo:inline>SOLARI,</fo:inline>
+            
+            <fo:inline>Maria</fo:inline>
+            
+            <fo:inline>Carmen</fo:inline>
+            
+            <fo:inline>Por</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tela</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>SOsA,</fo:inline>
+            
+            <fo:inline>Caciporé</fo:inline>
+            
+            <fo:inline>TORRES,</fo:inline>
+            
+            <fo:inline>Hilde</fo:inline>
+            
+            <fo:inline>WEBER,</fo:inline>
+            
+            <fo:inline>Italo</fo:inline>
+            
+            <fo:inline>ZETH.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Arquitetura</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Serà</fo:inline>
+            
+            <fo:inline>editado</fo:inline>
+            
+            <fo:inline>catâlogo</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>parte.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>48</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

@@ -1,0 +1,47 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1951-0230.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-15T11:53:45.97+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2087" WIDTH="1641">
+      <PrintSpace HEIGHT="1426" WIDTH="876" VPOS="246" HPOS="383">
+        <TextBlock ID="r_2_1" HEIGHT="27" WIDTH="221" VPOS="1644" HPOS="538">
+          <TextLine ID="tl_1" BASELINE="1675" HEIGHT="41" WIDTH="229" VPOS="1634" HPOS="534">
+            <String HEIGHT="41" WIDTH="186" VPOS="1634" HPOS="520" CONTENT="Edouard" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="41" WIDTH="14" VPOS="1634" HPOS="706"/>
+            <String HEIGHT="41" WIDTH="115" VPOS="1634" HPOS="649" CONTENT="Pignon" ID="tl_1_2" STYLEREFS="FONT1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="23" WIDTH="285" VPOS="1645" HPOS="823">
+          <TextLine ID="tl_2" BASELINE="1674" HEIGHT="44" WIDTH="294" VPOS="1630" HPOS="819">
+            <String HEIGHT="44" WIDTH="235" VPOS="1630" HPOS="804" CONTENT="’Consertando" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="44" WIDTH="15" VPOS="1630" HPOS="1040"/>
+            <String HEIGHT="44" WIDTH="132" VPOS="1630" HPOS="981" CONTENT="rêdes)»" ID="tl_2_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_4" HEIGHT="5" WIDTH="169" VPOS="1127" HPOS="712"/>
+        <GraphicalElement ID="r_5" HEIGHT="37" WIDTH="3" VPOS="597" HPOS="413"/>
+        <Illustration ID="r_1" HEIGHT="893" WIDTH="876" VPOS="246" HPOS="383"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Sue</fo:inline>
+            
+            <fo:inline font-weight="bold">FULLER</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.</fo:inline>
+            
+            <fo:inline font-weight="bold">UU.</fo:inline>
+            
+            <fo:inline font-weight="bold">1914</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>101.</fo:inline>
+            
+            <fo:inline>Ondas</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>cidade</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1945.</fo:inline>
+            
+            <fo:inline>âgua-forte</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>102.</fo:inline>
+            
+            <fo:inline>Morcego</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1946</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>âgua-fortel</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>103.</fo:inline>
+            
+            <fo:inline>Jogando</fo:inline>
+            
+            <fo:inline>bola</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948.</fo:inline>
+            
+            <fo:inline>âgua-forte</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Robert</fo:inline>
+            
+            <fo:inline font-weight="bold">GWATHMEY</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.</fo:inline>
+            
+            <fo:inline font-weight="bold">UU.</fo:inline>
+            
+            <fo:inline font-weight="bold">1903</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>104.</fo:inline>
+            
+            <fo:inline>Plantaçôes</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>fumo</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1947.</fo:inline>
+            
+            <fo:inline>serigrafia.</fo:inline>
+            
+            <fo:inline>National</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Serigraph</fo:inline>
+            
+            <fo:inline>Society</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>105.</fo:inline>
+            
+            <fo:inline>Colhendo</fo:inline>
+            
+            <fo:inline>fumo</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1947.</fo:inline>
+            
+            <fo:inline>serigrafia.</fo:inline>
+            
+            <fo:inline>National</fo:inline>
+            
+            <fo:inline>Se</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>rigraph</fo:inline>
+            
+            <fo:inline>Society</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>106.</fo:inline>
+            
+            <fo:inline>Anel</fo:inline>
+            
+            <fo:inline>à</fo:inline>
+            
+            <fo:inline>volta</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>rosa</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949.</fo:inline>
+            
+            <fo:inline>National</fo:inline>
+            
+            <fo:inline>Serigraph</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Society</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Max</fo:inline>
+            
+            <fo:inline font-weight="bold">Kahn</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.</fo:inline>
+            
+            <fo:inline font-weight="bold">UU.</fo:inline>
+            
+            <fo:inline font-weight="bold">1904</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>107.</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>janela</fo:inline>
+            
+            <fo:inline>aberta</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1944.</fo:inline>
+            
+            <fo:inline>litografia</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Kraushaar</fo:inline>
+            
+            <fo:inline>Galleries</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>108.</fo:inline>
+            
+            <fo:inline>Cidade</fo:inline>
+            
+            <fo:inline>nas</fo:inline>
+            
+            <fo:inline>montanhas</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950.</fo:inline>
+            
+            <fo:inline>litografia</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Weyhe</fo:inline>
+            
+            <fo:inline>Gallery</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>109.</fo:inline>
+            
+            <fo:inline>Corujas</fo:inline>
+            
+            <fo:inline>na</fo:inline>
+            
+            <fo:inline>arvore.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>xilografia</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>côres.</fo:inline>
+            
+            <fo:inline>Weyhe</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Gallery</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Misch</fo:inline>
+            
+            <fo:inline font-weight="bold">KOHN</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.</fo:inline>
+            
+            <fo:inline font-weight="bold">UU.</fo:inline>
+            
+            <fo:inline font-weight="bold">1916</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>110.</fo:inline>
+            
+            <fo:inline>Tourada</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949</fo:inline>
+            
+            <fo:inline>xilogravura.</fo:inline>
+            
+            <fo:inline>Weyhe</fo:inline>
+            
+            <fo:inline>Gallery</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>111.</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>morte</fo:inline>
+            
+            <fo:inline>cavalga</fo:inline>
+            
+            <fo:inline>um</fo:inline>
+            
+            <fo:inline>corcel</fo:inline>
+            
+            <fo:inline>negro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949.</fo:inline>
+            
+            <fo:inline>xilo</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>gravura.</fo:inline>
+            
+            <fo:inline>Weyhe</fo:inline>
+            
+            <fo:inline>Gallery</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>112.</fo:inline>
+            
+            <fo:inline>Assoprador</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>vidro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950.</fo:inline>
+            
+            <fo:inline>xilogravura.</fo:inline>
+            
+            <fo:inline>Weyhe</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Gallery</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Armin</fo:inline>
+            
+            <fo:inline font-weight="bold">LANDECK</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.UU.</fo:inline>
+            
+            <fo:inline font-weight="bold">1905</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>113.</fo:inline>
+            
+            <fo:inline>Estação</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>subwaye</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1951.</fo:inline>
+            
+            <fo:inline>Kennedy</fo:inline>
+            
+            <fo:inline>&amp;</fo:inline>
+            
+            <fo:inline>Co.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>114.</fo:inline>
+            
+            <fo:inline>Luar</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949.</fo:inline>
+            
+            <fo:inline>Kennedy</fo:inline>
+            
+            <fo:inline>&amp;</fo:inline>
+            
+            <fo:inline>Co.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>115.</fo:inline>
+            
+            <fo:inline>Vestibulo</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>escada</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950.</fo:inline>
+            
+            <fo:inline>Kennedy</fo:inline>
+            
+            <fo:inline>&amp;</fo:inline>
+            
+            <fo:inline>Co.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>85</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

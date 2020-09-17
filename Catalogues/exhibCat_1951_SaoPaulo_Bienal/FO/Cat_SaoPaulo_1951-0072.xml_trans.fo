@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">José</fo:inline>
+            
+            <fo:inline font-weight="bold">PEROTTI</fo:inline>
+            
+            <fo:inline font-weight="bold">(1898)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>55.</fo:inline>
+            
+            <fo:inline>Retrato</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>familia-terracota.</fo:inline>
+            
+            <fo:inline>85.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>56.</fo:inline>
+            
+            <fo:inline>O</fo:inline>
+            
+            <fo:inline>arrieiro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>terracota.</fo:inline>
+            
+            <fo:inline>70.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>57.</fo:inline>
+            
+            <fo:inline>Panchita</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>bronze.</fo:inline>
+            
+            <fo:inline>55.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Samuel</fo:inline>
+            
+            <fo:inline font-weight="bold">ROMAN</fo:inline>
+            
+            <fo:inline font-weight="bold">(1907)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>58.</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>noiva</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>vento</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>terracota.</fo:inline>
+            
+            <fo:inline>120.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>59.</fo:inline>
+            
+            <fo:inline>Sonho</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>oleiro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>terracota.</fo:inline>
+            
+            <fo:inline>55.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>60.</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>feiticeira</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>terracota.</fo:inline>
+            
+            <fo:inline>30.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Julio</fo:inline>
+            
+            <fo:inline font-weight="bold">VASQUEZ</fo:inline>
+            
+            <fo:inline font-weight="bold">(1900)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>61.</fo:inline>
+            
+            <fo:inline>Nos5o</fo:inline>
+            
+            <fo:inline>presente</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Gêsso.</fo:inline>
+            
+            <fo:inline>80.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>62.</fo:inline>
+            
+            <fo:inline>Matermdade</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Gesso.</fo:inline>
+            
+            <fo:inline>50.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>63.</fo:inline>
+            
+            <fo:inline>Composiço</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Gésso.</fo:inline>
+            
+            <fo:inline>50.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">Gravura</fo:inline>
+            
+            <fo:inline font-style="italic">e</fo:inline>
+            
+            <fo:inline font-style="italic">Desenho</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Gracia</fo:inline>
+            
+            <fo:inline font-weight="bold">BARRIOS</fo:inline>
+            
+            <fo:inline font-weight="bold">(1927)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>64.</fo:inline>
+            
+            <fo:inline>Figura</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950.</fo:inline>
+            
+            <fo:inline>d.</fo:inline>
+            
+            <fo:inline>20x30.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Pablo</fo:inline>
+            
+            <fo:inline font-weight="bold">BURCHARD</fo:inline>
+            
+            <fo:inline font-weight="bold">A.</fo:inline>
+            
+            <fo:inline font-weight="bold">(1919)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>65.</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Cuernavaca</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>litografia.</fo:inline>
+            
+            <fo:inline>40x60.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>66.</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>pastelaria</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950.</fo:inline>
+            
+            <fo:inline>g.</fo:inline>
+            
+            <fo:inline>30x40.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>67.</fo:inline>
+            
+            <fo:inline>«</fo:inline>
+            
+            <fo:inline>Uptown’</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1950.</fo:inline>
+            
+            <fo:inline>g.</fo:inline>
+            
+            <fo:inline>30x40.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Ana</fo:inline>
+            
+            <fo:inline font-weight="bold">CORTES</fo:inline>
+            
+            <fo:inline font-weight="bold">J.</fo:inline>
+            
+            <fo:inline font-weight="bold">(1903)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>68.</fo:inline>
+            
+            <fo:inline>Dança</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>libertaçâo.</fo:inline>
+            
+            <fo:inline>d.</fo:inline>
+            
+            <fo:inline>40x60.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>69.</fo:inline>
+            
+            <fo:inline>Monocopia.</fo:inline>
+            
+            <fo:inline>d.</fo:inline>
+            
+            <fo:inline>40x60.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Medardo</fo:inline>
+            
+            <fo:inline font-weight="bold">ESPINOZA</fo:inline>
+            
+            <fo:inline font-weight="bold">G.</fo:inline>
+            
+            <fo:inline font-weight="bold">(1918)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>70.</fo:inline>
+            
+            <fo:inline>Cabaré.</fo:inline>
+            
+            <fo:inline>g.</fo:inline>
+            
+            <fo:inline>50x40.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>72</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

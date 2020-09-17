@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">GRAVURA</fo:inline>
+            
+            <fo:inline font-style="italic">E</fo:inline>
+            
+            <fo:inline font-style="italic">DESENHO</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Antonio</fo:inline>
+            
+            <fo:inline font-weight="bold">PENA</fo:inline>
+            
+            <fo:inline font-weight="bold">(1894</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>28.</fo:inline>
+            
+            <fo:inline>Flautista.</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>pena.</fo:inline>
+            
+            <fo:inline>22x36.</fo:inline>
+            
+            <fo:inline>Felicia</fo:inline>
+            
+            <fo:inline>Costa</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>29.</fo:inline>
+            
+            <fo:inline>Mulheres.</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>lapis.</fo:inline>
+            
+            <fo:inline>33x24.</fo:inline>
+            
+            <fo:inline>Fciicia</fo:inline>
+            
+            <fo:inline>Costa</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>39.</fo:inline>
+            
+            <fo:inline>Cena</fo:inline>
+            
+            <fo:inline>mito</fo:inline>
+            
+            <fo:inline>ôgica.</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>lâpis.</fo:inline>
+            
+            <fo:inline>47x63.</fo:inline>
+            
+            <fo:inline>Felicia</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>31.</fo:inline>
+            
+            <fo:inline>Figura,</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>pena.</fo:inline>
+            
+            <fo:inline>28x40.</fo:inline>
+            
+            <fo:inline>Fclicia</fo:inline>
+            
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>32.</fo:inline>
+            
+            <fo:inline>Cena</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>ballet.</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>pena.</fo:inline>
+            
+            <fo:inline>26x34.</fo:inline>
+            
+            <fo:inline>Felicia</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>33.</fo:inline>
+            
+            <fo:inline>Nu</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>mulher.</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>lâpis.</fo:inline>
+            
+            <fo:inline>17,5x25,5.</fo:inline>
+            
+            <fo:inline>Felicia</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>34.</fo:inline>
+            
+            <fo:inline>Figuras.</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>pena.</fo:inline>
+            
+            <fo:inline>24x34.</fo:inline>
+            
+            <fo:inline>Felicia</fo:inline>
+            
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>35.</fo:inline>
+            
+            <fo:inline>Ninfa</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>centauro.</fo:inline>
+            
+            <fo:inline>desenlio</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>tinta</fo:inline>
+            
+            <fo:inline>chinesa.</fo:inline>
+            
+            <fo:inline>20x27.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Felicia</fo:inline>
+            
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>36.</fo:inline>
+            
+            <fo:inline>Caliope.</fo:inline>
+            
+            <fo:inline>âgua-forte.</fo:inline>
+            
+            <fo:inline>20x13,5.</fo:inline>
+            
+            <fo:inline>Felicia</fo:inline>
+            
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>37.</fo:inline>
+            
+            <fo:inline>Descida.</fo:inline>
+            
+            <fo:inline>égua-forte.</fo:inline>
+            
+            <fo:inline>20x20.</fo:inline>
+            
+            <fo:inline>Felicia</fo:inline>
+            
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>38.</fo:inline>
+            
+            <fo:inline>Cena</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>ballet.</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>pena.</fo:inline>
+            
+            <fo:inline>22x30.</fo:inline>
+            
+            <fo:inline>Felicia</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Costa</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>Pena</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>130</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

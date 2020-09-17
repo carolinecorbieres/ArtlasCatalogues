@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Jack</fo:inline>
+            
+            <fo:inline font-weight="bold">LEVINE</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.</fo:inline>
+            
+            <fo:inline font-weight="bold">UU.</fo:inline>
+            
+            <fo:inline font-weight="bold">1915</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>38.</fo:inline>
+            
+            <fo:inline>O</fo:inline>
+            
+            <fo:inline>banquete</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1941.</fo:inline>
+            
+            <fo:inline>64x76.</fo:inline>
+            
+            <fo:inline>Sr.</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Sra.</fo:inline>
+            
+            <fo:inline>Roy</fo:inline>
+            
+            <fo:inline>R.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Neuberger,</fo:inline>
+            
+            <fo:inline font-style="italic">Neu</fo:inline>
+            
+            <fo:inline font-style="italic">Yore</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>39.</fo:inline>
+            
+            <fo:inline>Apteka</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1947.</fo:inline>
+            
+            <fo:inline>102x152.</fo:inline>
+            
+            <fo:inline>The</fo:inline>
+            
+            <fo:inline>Downtown</fo:inline>
+            
+            <fo:inline>Gallery,</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">New</fo:inline>
+            
+            <fo:inline font-style="italic">York</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>40.</fo:inline>
+            
+            <fo:inline>O</fo:inline>
+            
+            <fo:inline>fim</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>linha</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1948.</fo:inline>
+            
+            <fo:inline>91x61.</fo:inline>
+            
+            <fo:inline>The</fo:inline>
+            
+            <fo:inline>Phillips</fo:inline>
+            
+            <fo:inline>Gal</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>lery,</fo:inline>
+            
+            <fo:inline font-style="italic">Washington</fo:inline>
+            
+            <fo:inline>D.</fo:inline>
+            
+            <fo:inline>C.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Loren</fo:inline>
+            
+            <fo:inline font-weight="bold">MACIVER</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.</fo:inline>
+            
+            <fo:inline font-weight="bold">UU.</fo:inline>
+            
+            <fo:inline font-weight="bold">188.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>41.</fo:inline>
+            
+            <fo:inline>Planta</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1945.</fo:inline>
+            
+            <fo:inline>102x66.</fo:inline>
+            
+            <fo:inline>Sr.</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Sra.</fo:inline>
+            
+            <fo:inline>James</fo:inline>
+            
+            <fo:inline>Thrall</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Soby,</fo:inline>
+            
+            <fo:inline font-style="italic">Farmington,</fo:inline>
+            
+            <fo:inline font-style="italic">Conn</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>42.</fo:inline>
+            
+            <fo:inline>Emmet</fo:inline>
+            
+            <fo:inline>Kelly</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1947.</fo:inline>
+            
+            <fo:inline>102x81.</fo:inline>
+            
+            <fo:inline>Sr.</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Sra.</fo:inline>
+            
+            <fo:inline>Roy</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>R.</fo:inline>
+            
+            <fo:inline>Neuberger,</fo:inline>
+            
+            <fo:inline font-style="italic">New</fo:inline>
+            
+            <fo:inline font-style="italic">York</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>43.</fo:inline>
+            
+            <fo:inline>Carvao</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>madeira</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1949.</fo:inline>
+            
+            <fo:inline>102x157.</fo:inline>
+            
+            <fo:inline>Pierre</fo:inline>
+            
+            <fo:inline>Ma</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tisse</fo:inline>
+            
+            <fo:inline>Gallery,</fo:inline>
+            
+            <fo:inline font-style="italic">New</fo:inline>
+            
+            <fo:inline font-style="italic">Vore</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">John</fo:inline>
+            
+            <fo:inline font-weight="bold">MARIN</fo:inline>
+            
+            <fo:inline font-weight="bold">(EE.</fo:inline>
+            
+            <fo:inline font-weight="bold">UU.</fo:inline>
+            
+            <fo:inline font-weight="bold">1870</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>44.</fo:inline>
+            
+            <fo:inline>Movimento,</fo:inline>
+            
+            <fo:inline>bote,</fo:inline>
+            
+            <fo:inline>mar,</fo:inline>
+            
+            <fo:inline>rochedos</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>ceu,</fo:inline>
+            
+            <fo:inline>Maine</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>1941.</fo:inline>
+            
+            <fo:inline>aquarela</fo:inline>
+            
+            <fo:inline>sJpapel.</fo:inline>
+            
+            <fo:inline>39x55,5.</fo:inline>
+            
+            <fo:inline>The</fo:inline>
+            
+            <fo:inline>Whitney</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Museum</fo:inline>
+            
+            <fo:inline>of</fo:inline>
+            
+            <fo:inline>American</fo:inline>
+            
+            <fo:inline>Art,</fo:inline>
+            
+            <fo:inline font-style="italic">New</fo:inline>
+            
+            <fo:inline font-style="italic">York</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>45.</fo:inline>
+            
+            <fo:inline>Adirondacks</fo:inline>
+            
+            <fo:inline>no</fo:inline>
+            
+            <fo:inline>baixo</fo:inline>
+            
+            <fo:inline>lago</fo:inline>
+            
+            <fo:inline>Ausable</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1947,</fo:inline>
+            
+            <fo:inline>aqua</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>rela.</fo:inline>
+            
+            <fo:inline>37x51.</fo:inline>
+            
+            <fo:inline>The</fo:inline>
+            
+            <fo:inline>Phillips</fo:inline>
+            
+            <fo:inline>Gallery,</fo:inline>
+            
+            <fo:inline font-style="italic">Washington</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>D.C.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>46.</fo:inline>
+            
+            <fo:inline>Movimento</fo:inline>
+            
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>cinza,</fo:inline>
+            
+            <fo:inline>verde,</fo:inline>
+            
+            <fo:inline>vermelho</fo:inline>
+            
+            <fo:inline>n.°</fo:inline>
+            
+            <fo:inline>2</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>1949.</fo:inline>
+            
+            <fo:inline>56x71.</fo:inline>
+            
+            <fo:inline>The</fo:inline>
+            
+            <fo:inline>Downtown</fo:inline>
+            
+            <fo:inline>Gallery,</fo:inline>
+            
+            <fo:inline font-style="italic">Neu</fo:inline>
+            
+            <fo:inline font-style="italic">Yor</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Reginald</fo:inline>
+            
+            <fo:inline font-weight="bold">MARSH</fo:inline>
+            
+            <fo:inline font-weight="bold">(França,</fo:inline>
+            
+            <fo:inline font-weight="bold">1898</fo:inline>
+            
+            <fo:inline font-weight="bold">—)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>47.</fo:inline>
+            
+            <fo:inline>Nadando</fo:inline>
+            
+            <fo:inline>para</fo:inline>
+            
+            <fo:inline>além</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>mercado</fo:inline>
+            
+            <fo:inline>ocidental</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Washington</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1940.</fo:inline>
+            
+            <fo:inline>aquarela.</fo:inline>
+            
+            <fo:inline>68x102.</fo:inline>
+            
+            <fo:inline>Albright</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Art</fo:inline>
+            
+            <fo:inline>Gallery,</fo:inline>
+            
+            <fo:inline font-style="italic">Buffalo</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>48.</fo:inline>
+            
+            <fo:inline>Experimentada</fo:inline>
+            
+            <fo:inline>pelos</fo:inline>
+            
+            <fo:inline>olhos</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>1944.</fo:inline>
+            
+            <fo:inline>aguada</fo:inline>
+            
+            <fo:inline>sfpapel.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>77x56.</fo:inline>
+            
+            <fo:inline>Frank</fo:inline>
+            
+            <fo:inline>K.</fo:inline>
+            
+            <fo:inline>M.</fo:inline>
+            
+            <fo:inline>Rehn</fo:inline>
+            
+            <fo:inline>Galleries,</fo:inline>
+            
+            <fo:inline font-style="italic">New</fo:inline>
+            
+            <fo:inline font-style="italic">York</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>49.</fo:inline>
+            
+            <fo:inline>Esportes</fo:inline>
+            
+            <fo:inline>aquâticos</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>148.</fo:inline>
+            
+            <fo:inline>aguada</fo:inline>
+            
+            <fo:inline>sfpapel.</fo:inline>
+            
+            <fo:inline>42x76.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Frank</fo:inline>
+            
+            <fo:inline>K.</fo:inline>
+            
+            <fo:inline>M.</fo:inline>
+            
+            <fo:inline>Rehn</fo:inline>
+            
+            <fo:inline>Galleries,</fo:inline>
+            
+            <fo:inline font-style="italic">New</fo:inline>
+            
+            <fo:inline font-style="italic">York</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>79</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>
