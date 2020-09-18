@@ -5,13 +5,14 @@
     xmlns="http://www.tei-c.org/ns/1.0">
     <xsl:output method="text"/>
 
-    <xsl:variable name="delimiter" select="','"/>
+    <xsl:variable name="delimiter" select="';'"/>
 
+    <!-- column's names -->
     <xsl:variable name="fieldArray">
         <field>name</field>
+        <field>trait</field>
         <field>surname</field>
         <field>forename</field>
-        <field>trait</field>
         <field>biographical description</field>
         <field>birth</field>
         <field>birth adress</field>
@@ -41,6 +42,7 @@
         <field>reproduction in the catalogue ?</field>
         <field>notes</field>
     </xsl:variable>
+
     <xsl:param name="fields" select="document('')/*/xsl:variable[@name = 'fieldArray']/*"/>
 
     <xsl:template match="/">
@@ -56,60 +58,28 @@
         <!-- output newline -->
         <xsl:text>&#xa;</xsl:text>
 
-        <xsl:apply-templates select="//entry"/>
-    </xsl:template>
-
-    <xsl:template match="entry">
-        <xsl:apply-templates select="desc"/>
-        <xsl:apply-templates select="item"/>
-        
-        <!-- output newline -->
-        <xsl:text>&#xa;</xsl:text>
+        <xsl:apply-templates select="//item"/>
     </xsl:template>
 
     <xsl:template match="item">
+        <xsl:value-of select="preceding-sibling::desc/name/text()"/>
+        <xsl:text>; </xsl:text>
+        <xsl:value-of select="preceding-sibling::desc/trait/p/text()"/>
+        
         <xsl:variable name="currNode" select="."/>
 
         <!--   output the data row -->
         <!-- loop over the field names and find the value of each one in the xml -->
         <xsl:for-each select="$fields">
+            <xsl:value-of select="$currNode/*[name() = current()]"/>
             <xsl:if test="position() != 1">
                 <xsl:value-of select="$delimiter"/>
             </xsl:if>
-            <xsl:text>'</xsl:text>
-            <xsl:variable name="child" select="$currNode/*[name() = current()]/*[1]"/>
-            <xsl:choose>
-                <xsl:when test="count($child) > 0">
-                    <xsl:value-of select="$child"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:value-of select="$currNode/*[name() = current()]"/>
-                </xsl:otherwise>
-            </xsl:choose>
-            <xsl:text>'</xsl:text>
+            <xsl:text> </xsl:text>
         </xsl:for-each>
+
+        <!-- output newline -->
+        <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
-    <xsl:template match="desc">
-        <xsl:variable name="currNode" select="."/>
-
-        <!-- output the data row -->
-        <!-- loop over the field names and find the value of each one in the xml -->
-        <xsl:for-each select="$fields">
-            <xsl:if test="position() != 1">
-                <xsl:value-of select="$delimiter"/>
-            </xsl:if>
-            <xsl:text>'</xsl:text>
-            <xsl:variable name="child" select="$currNode/*[name() = current()]/*[1]"/>
-            <xsl:choose>
-                <xsl:when test="count($child) > 0">
-                    <xsl:value-of select="$child"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:value-of select="$currNode/*[name() = current()]"/>
-                </xsl:otherwise>
-            </xsl:choose>
-            <xsl:text>'</xsl:text>
-        </xsl:for-each>
-    </xsl:template>
 </xsl:stylesheet>
