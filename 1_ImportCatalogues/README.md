@@ -24,7 +24,7 @@ cd YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/1_ImportCatalogues
 
 - Run the script with the ark identifier argument. If you need some help, you can run the script with `-h` argument. 
 ```
-python3 import_iiif.py ark:/ARK_INDENTIFIER
+python import_iiif.py ark:/ARK_INDENTIFIER
 ```
 
 - The script will download pages in JPEG in a `download/IDENTIFIER_NAME` folder. 
