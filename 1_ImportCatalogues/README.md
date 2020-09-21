@@ -39,7 +39,7 @@ cd YOUR_PATH_TO_THE_FOLDER/ArtlasCatalogues/1_ImportCatalogues
 
 - Run the script by substitute Gallica arguments for the corresponding arguments of the URI. If you need some help, you can run the script with `-h` argument. 
 ```
-python3 import_iiif.py -s SCHEME -d DOMAIN -p PREFIX IDENTIFIER -m MANIFEST
+python import_iiif.py -s SCHEME -d DOMAIN -p PREFIX IDENTIFIER -m MANIFEST
 ```
 
 You can call any argument with the following prefix : 
@@ -52,7 +52,7 @@ You can call any argument with the following prefix :
 
 For example, for the following URI (https://bibliotheque-numerique.inha.fr/iiif/21124/manifest), you should run : 
 ```
-python3 import_iiif.py -d bibliotheque-numerique.inha.fr 21124 -m manifest
+python import_iiif.py -d bibliotheque-numerique.inha.fr 21124 -m manifest
 ```
 
 - The script will download pages in JPEG in a `download/IDENTIFIER_NAME` folder.
