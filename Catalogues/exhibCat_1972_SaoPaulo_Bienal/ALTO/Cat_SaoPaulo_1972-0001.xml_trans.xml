@@ -1,0 +1,41 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1972-0001.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-21T11:17:52.23+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4609" WIDTH="3548">
+      <PrintSpace HEIGHT="4272" WIDTH="3220" VPOS="164" HPOS="164">
+        <GraphicalElement ID="r_2" HEIGHT="24" WIDTH="572" VPOS="1292" HPOS="1080"/>
+        <GraphicalElement ID="r_3" HEIGHT="20" WIDTH="354" VPOS="1292" HPOS="1724"/>
+        <GraphicalElement ID="r_4" HEIGHT="26" WIDTH="926" VPOS="1386" HPOS="1194"/>
+        <GraphicalElement ID="r_5" HEIGHT="20" WIDTH="530" VPOS="1598" HPOS="1080"/>
+        <GraphicalElement ID="r_6" HEIGHT="1356" WIDTH="12" VPOS="180" HPOS="178"/>
+        <GraphicalElement ID="r_7" HEIGHT="1716" WIDTH="28" VPOS="456" HPOS="942"/>
+        <GraphicalElement ID="r_8" HEIGHT="194" WIDTH="12" VPOS="684" HPOS="1100"/>
+        <GraphicalElement ID="r_9" HEIGHT="222" WIDTH="14" VPOS="1082" HPOS="2348"/>
+        <GraphicalElement ID="r_10" HEIGHT="234" WIDTH="14" VPOS="1020" HPOS="2390"/>
+        <GraphicalElement ID="r_11" HEIGHT="620" WIDTH="12" VPOS="660" HPOS="3358"/>
+        <Illustration ID="r_1" HEIGHT="4272" WIDTH="3220" VPOS="164" HPOS="164"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

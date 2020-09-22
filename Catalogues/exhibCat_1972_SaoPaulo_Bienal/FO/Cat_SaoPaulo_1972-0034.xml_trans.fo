@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Espaço</fo:inline>
+            
+            <fo:inline>IV,</fo:inline>
+            
+            <fo:inline>1971,</fo:inline>
+            
+            <fo:inline>guache</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Espaço</fo:inline>
+            
+            <fo:inline>V,</fo:inline>
+            
+            <fo:inline>1971,</fo:inline>
+            
+            <fo:inline>guache</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">MAGALHXES.</fo:inline>
+            
+            <fo:inline font-weight="bold">Serys</fo:inline>
+            
+            <fo:inline font-weight="bold">de</fo:inline>
+            
+            <fo:inline font-weight="bold">(1941</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Nova</fo:inline>
+            
+            <fo:inline font-weight="bold">Lima</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">M.G.)</fo:inline>
+            
+            <fo:inline font-weight="bold">–</fo:inline>
+            
+            <fo:inline font-weight="bold">masi</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>13,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>luz-copex-chapas,</fo:inline>
+            
+            <fo:inline>alcance</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>luz</fo:inline>
+            
+            <fo:inline/>
+            
+            <fo:inline>1.300,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>14,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>lux-copex-aileroon,</fo:inline>
+            
+            <fo:inline>alcance</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>luz</fo:inline>
+            
+            <fo:inline/>
+            
+            <fo:inline>1.500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>15,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>lux-copex-chapa-concreto,</fo:inline>
+            
+            <fo:inline>alcance</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>luz</fo:inline>
+            
+            <fo:inline/>
+            
+            <fo:inline>1.500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>16,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>luz-copex-fiber</fo:inline>
+            
+            <fo:inline>jalcance</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>luz</fo:inline>
+            
+            <fo:inline/>
+            
+            <fo:inline>1.700,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>17,</fo:inline>
+            
+            <fo:inline>19772,</fo:inline>
+            
+            <fo:inline>lux-copex-fiber,</fo:inline>
+            
+            <fo:inline>alcance</fo:inline>
+            
+            <fo:inline>da</fo:inline>
+            
+            <fo:inline>luz</fo:inline>
+            
+            <fo:inline/>
+            
+            <fo:inline>1.900,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">MARIA</fo:inline>
+            
+            <fo:inline font-weight="bold">DE</fo:inline>
+            
+            <fo:inline font-weight="bold">LOURDES</fo:inline>
+            
+            <fo:inline font-weight="bold">(1923</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Curitiba)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">masi.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Objeto</fo:inline>
+            
+            <fo:inline>Mutâvel,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>mista,</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>40</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>40</fo:inline>
+            
+            <fo:inline>850,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Objeto</fo:inline>
+            
+            <fo:inline>Mutâvel</fo:inline>
+            
+            <fo:inline>X,</fo:inline>
+            
+            <fo:inline>19772,</fo:inline>
+            
+            <fo:inline>mista</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>40</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>40</fo:inline>
+            
+            <fo:inline>850,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Objeto</fo:inline>
+            
+            <fo:inline>Mutâvel</fo:inline>
+            
+            <fo:inline>XI,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>mista,</fo:inline>
+            
+            <fo:inline>20</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>20</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>20</fo:inline>
+            
+            <fo:inline>400,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Objeto</fo:inline>
+            
+            <fo:inline>Mutâvel</fo:inline>
+            
+            <fo:inline>XII,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>mista,</fo:inline>
+            
+            <fo:inline>30</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>24</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>24</fo:inline>
+            
+            <fo:inline>900,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Objeto</fo:inline>
+            
+            <fo:inline>Mutâvel</fo:inline>
+            
+            <fo:inline>XIII,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>mista,</fo:inline>
+            
+            <fo:inline>52</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>26</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">MARINHO,</fo:inline>
+            
+            <fo:inline font-weight="bold">Lucia</fo:inline>
+            
+            <fo:inline font-weight="bold">(1945</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Guanabara)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">masi.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Forma</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Disciplina</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>xilogravura,</fo:inline>
+            
+            <fo:inline>60</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>27</fo:inline>
+            
+            <fo:inline>300,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Forma</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Disciplina</fo:inline>
+            
+            <fo:inline>II,</fo:inline>
+            
+            <fo:inline>1972,xilogravura</fo:inline>
+            
+            <fo:inline>60</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>27</fo:inline>
+            
+            <fo:inline>300,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Forma</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Disciplina</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>xilogravura,</fo:inline>
+            
+            <fo:inline>60</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>27</fo:inline>
+            
+            <fo:inline>300,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Forma</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Disciplina</fo:inline>
+            
+            <fo:inline>IV,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>xilogravura,</fo:inline>
+            
+            <fo:inline>60</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>33</fo:inline>
+            
+            <fo:inline>300,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">MARTINIANO,</fo:inline>
+            
+            <fo:inline font-weight="bold">Carlos</fo:inline>
+            
+            <fo:inline font-weight="bold">(1946</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Fortaleza)</fo:inline>
+            
+            <fo:inline font-weight="bold">masi.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Colagem</fo:inline>
+            
+            <fo:inline>V,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>colagem,</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>65</fo:inline>
+            
+            <fo:inline>500,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Colagem</fo:inline>
+            
+            <fo:inline>VI,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>colagem,</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>65</fo:inline>
+            
+            <fo:inline>500,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Colagem</fo:inline>
+            
+            <fo:inline>VII,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>colagem,</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>65</fo:inline>
+            
+            <fo:inline>500,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Colagem</fo:inline>
+            
+            <fo:inline>VIII,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>colagem,</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>65</fo:inline>
+            
+            <fo:inline>500,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Colagem</fo:inline>
+            
+            <fo:inline>IV,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>colagem,</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>65</fo:inline>
+            
+            <fo:inline>500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">MATTOS,</fo:inline>
+            
+            <fo:inline font-weight="bold">M.</fo:inline>
+            
+            <fo:inline font-weight="bold">L.</fo:inline>
+            
+            <fo:inline font-weight="bold">(França</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Guanabara)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">masi</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Visào</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>oleo,</fo:inline>
+            
+            <fo:inline>167</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>93</fo:inline>
+            
+            <fo:inline>8.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">MATTOS,</fo:inline>
+            
+            <fo:inline font-weight="bold">Waldir</fo:inline>
+            
+            <fo:inline font-weight="bold">(1916</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Guanabara)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">masi.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>O</fo:inline>
+            
+            <fo:inline>Feminino</fo:inline>
+            
+            <fo:inline>71-1,</fo:inline>
+            
+            <fo:inline>1971,</fo:inline>
+            
+            <fo:inline>tinta</fo:inline>
+            
+            <fo:inline>acrilica,</fo:inline>
+            
+            <fo:inline>132</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>90</fo:inline>
+            
+            <fo:inline>5.000,00</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>O</fo:inline>
+            
+            <fo:inline>Feminino</fo:inline>
+            
+            <fo:inline>71-II,</fo:inline>
+            
+            <fo:inline>1971,</fo:inline>
+            
+            <fo:inline>tinta</fo:inline>
+            
+            <fo:inline>acrilica,</fo:inline>
+            
+            <fo:inline>132</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>90</fo:inline>
+            
+            <fo:inline>5.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>32</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

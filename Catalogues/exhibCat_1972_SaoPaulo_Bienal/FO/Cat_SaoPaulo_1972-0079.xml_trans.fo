@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Juris</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Mostra</fo:inline>
+            
+            <fo:inline font-weight="bold">de</fo:inline>
+            
+            <fo:inline font-weight="bold">Arte</fo:inline>
+            
+            <fo:inline font-weight="bold">Sesquiscentenârio</fo:inline>
+            
+            <fo:inline font-weight="bold">da</fo:inline>
+            
+            <fo:inline font-weight="bold">Independencia</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Porto</fo:inline>
+            
+            <fo:inline>Alegre</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Mostra</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Artes</fo:inline>
+            
+            <fo:inline>Olimpiada</fo:inline>
+            
+            <fo:inline>Exército</fo:inline>
+            
+            <fo:inline>72</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>0</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Juri</fo:inline>
+            
+            <fo:inline>foi</fo:inline>
+            
+            <fo:inline>constituido</fo:inline>
+            
+            <fo:inline>pelo</fo:inline>
+            
+            <fo:inline>critico</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>arte</fo:inline>
+            
+            <fo:inline>Walmir</fo:inline>
+            
+            <fo:inline>Ayala,</fo:inline>
+            
+            <fo:inline>Gravadora</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Ana</fo:inline>
+            
+            <fo:inline>Letycia</fo:inline>
+            
+            <fo:inline>Quadros</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>pintor</fo:inline>
+            
+            <fo:inline>Euclides</fo:inline>
+            
+            <fo:inline>Luiz</fo:inline>
+            
+            <fo:inline>Santos.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Rio</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Janeiro</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Mostra</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Artes</fo:inline>
+            
+            <fo:inline>Copa</fo:inline>
+            
+            <fo:inline>Indepencia:</fo:inline>
+            
+            <fo:inline>0</fo:inline>
+            
+            <fo:inline>juri</fo:inline>
+            
+            <fo:inline>foi</fo:inline>
+            
+            <fo:inline>cons</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>tituido</fo:inline>
+            
+            <fo:inline>pelos</fo:inline>
+            
+            <fo:inline>criticos</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>arte</fo:inline>
+            
+            <fo:inline>José</fo:inline>
+            
+            <fo:inline>Geraldo</fo:inline>
+            
+            <fo:inline>Vieira,</fo:inline>
+            
+            <fo:inline>Lisetta</fo:inline>
+            
+            <fo:inline>Levi</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Wolfgang</fo:inline>
+            
+            <fo:inline>Pfeiffer.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Recife</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Mostra</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Artes</fo:inline>
+            
+            <fo:inline>Festival</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Desportos:</fo:inline>
+            
+            <fo:inline>0</fo:inline>
+            
+            <fo:inline>juri</fo:inline>
+            
+            <fo:inline>foi</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>constituido</fo:inline>
+            
+            <fo:inline>pelos</fo:inline>
+            
+            <fo:inline>criticos</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>arte</fo:inline>
+            
+            <fo:inline>José</fo:inline>
+            
+            <fo:inline>Roberto</fo:inline>
+            
+            <fo:inline>Teixeira</fo:inline>
+            
+            <fo:inline>Leite,</fo:inline>
+            
+            <fo:inline>Eu</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>clides</fo:inline>
+            
+            <fo:inline>Luiz</fo:inline>
+            
+            <fo:inline>Santos</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Sra.</fo:inline>
+            
+            <fo:inline>Lerida</fo:inline>
+            
+            <fo:inline>Ceada.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Fortaleza</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Mostra</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Artes</fo:inline>
+            
+            <fo:inline>Jogos</fo:inline>
+            
+            <fo:inline>Universitarios:</fo:inline>
+            
+            <fo:inline>0</fo:inline>
+            
+            <fo:inline>juri</fo:inline>
+            
+            <fo:inline>foi</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>constituido</fo:inline>
+            
+            <fo:inline>pelo</fo:inline>
+            
+            <fo:inline>critico</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>arte</fo:inline>
+            
+            <fo:inline>Jayme</fo:inline>
+            
+            <fo:inline>Mauricio</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>os</fo:inline>
+            
+            <fo:inline>senhores</fo:inline>
+            
+            <fo:inline>Oli</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>vio</fo:inline>
+            
+            <fo:inline>Tavares</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Araujo</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Oswaldo</fo:inline>
+            
+            <fo:inline>Golderich.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Brasil,</fo:inline>
+            
+            <fo:inline>Plâstica</fo:inline>
+            
+            <fo:inline>72</fo:inline>
+            
+            <fo:inline>(Bienal</fo:inline>
+            
+            <fo:inline>Nacional)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>São</fo:inline>
+            
+            <fo:inline>Paulo:</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>seleçao</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>obras</fo:inline>
+            
+            <fo:inline>apresentadas</fo:inline>
+            
+            <fo:inline>em</fo:inline>
+            
+            <fo:inline>São</fo:inline>
+            
+            <fo:inline>Paulo</fo:inline>
+            
+            <fo:inline>foi</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>efetuada</fo:inline>
+            
+            <fo:inline>pelo</fo:inline>
+            
+            <fo:inline>juri</fo:inline>
+            
+            <fo:inline>integrado</fo:inline>
+            
+            <fo:inline>pelos</fo:inline>
+            
+            <fo:inline>criticos</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>arte</fo:inline>
+            
+            <fo:inline>José</fo:inline>
+            
+            <fo:inline>Geraldc</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Vieira,</fo:inline>
+            
+            <fo:inline>Walmir</fo:inline>
+            
+            <fo:inline>Ayala</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>IVo</fo:inline>
+            
+            <fo:inline>Zanini.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Curitiba:</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>seleção</fo:inline>
+            
+            <fo:inline>foi</fo:inline>
+            
+            <fo:inline>efetuada</fo:inline>
+            
+            <fo:inline>pelos</fo:inline>
+            
+            <fo:inline>criticos</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>arte</fo:inline>
+            
+            <fo:inline>Eduard</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Rocha</fo:inline>
+            
+            <fo:inline>Virmond</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Lisetta</fo:inline>
+            
+            <fo:inline>Levi</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>gravadora</fo:inline>
+            
+            <fo:inline>Betty</fo:inline>
+            
+            <fo:inline>Giudice.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>77</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

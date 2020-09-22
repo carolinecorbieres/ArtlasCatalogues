@@ -50,6 +50,14 @@
 
     <xsl:template match="entry">
         <xsl:element name="entry">
+            <xsl:attribute name="n">
+                <xsl:number count="entry" level="any"/>
+            </xsl:attribute>
+            <xsl:attribute name="xml:id">
+                <xsl:value-of select="/TEI/@xml:id"/>
+                <xsl:text>_e</xsl:text>
+                <xsl:number count="entry" level="any"/>
+            </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>

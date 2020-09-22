@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Ritimos</fo:inline>
+            
+            <fo:inline>6,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>70</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>50.</fo:inline>
+            
+            <fo:inline>680,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Ritimos</fo:inline>
+            
+            <fo:inline>7,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>70</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>50.</fo:inline>
+            
+            <fo:inline>680,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">SILVA,</fo:inline>
+            
+            <fo:inline font-weight="bold">Regis</fo:inline>
+            
+            <fo:inline font-weight="bold">Machado</fo:inline>
+            
+            <fo:inline font-weight="bold">(1944</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Paraibuna)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">bp</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Construçào</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>72</fo:inline>
+            
+            <fo:inline>objeto,</fo:inline>
+            
+            <fo:inline>montagem</fo:inline>
+            
+            <fo:inline>2.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Construçâo</fo:inline>
+            
+            <fo:inline>II,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>objeto,</fo:inline>
+            
+            <fo:inline>montagem</fo:inline>
+            
+            <fo:inline>2,</fo:inline>
+            
+            <fo:inline>000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Construçào</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>objeto,</fo:inline>
+            
+            <fo:inline>montagem</fo:inline>
+            
+            <fo:inline>2.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Construção</fo:inline>
+            
+            <fo:inline>IV,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>objeto,</fo:inline>
+            
+            <fo:inline>montagem</fo:inline>
+            
+            <fo:inline>2.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Construçào</fo:inline>
+            
+            <fo:inline>V,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>objeto,</fo:inline>
+            
+            <fo:inline>montagem</fo:inline>
+            
+            <fo:inline>2.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">SMITH.</fo:inline>
+            
+            <fo:inline font-weight="bold">Ricardo</fo:inline>
+            
+            <fo:inline font-weight="bold">Luiz</fo:inline>
+            
+            <fo:inline font-weight="bold">(1945</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">S.</fo:inline>
+            
+            <fo:inline font-weight="bold">Paulo)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">bp</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Série</fo:inline>
+            
+            <fo:inline>eeCênese</fo:inline>
+            
+            <fo:inline>Formal’</fo:inline>
+            
+            <fo:inline>Diferenciaçào</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>72</fo:inline>
+            
+            <fo:inline>60</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>1,40</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Série</fo:inline>
+            
+            <fo:inline>"Gènese</fo:inline>
+            
+            <fo:inline>Formal"</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Diferenciaçào</fo:inline>
+            
+            <fo:inline>II,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>80</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>120</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Série</fo:inline>
+            
+            <fo:inline>"Gènese</fo:inline>
+            
+            <fo:inline>Formal"</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Diferenciaçào</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>60</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>1,</fo:inline>
+            
+            <fo:inline>20</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Série</fo:inline>
+            
+            <fo:inline>"Gênese</fo:inline>
+            
+            <fo:inline>Formal"</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Diferenciaçào</fo:inline>
+            
+            <fo:inline>IV,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,60</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>40</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Série</fo:inline>
+            
+            <fo:inline>"Gênese</fo:inline>
+            
+            <fo:inline>Formal"</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Diferenciaçào</fo:inline>
+            
+            <fo:inline>V,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>80</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>60.</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Série</fo:inline>
+            
+            <fo:inline>"Gènese</fo:inline>
+            
+            <fo:inline>Formal"</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Diferenciaçào</fo:inline>
+            
+            <fo:inline>VI,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>70</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>1,40</fo:inline>
+            
+            <fo:inline>1.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">SPARAPAN</fo:inline>
+            
+            <fo:inline font-weight="bold">(1950</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Jaû)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">bp</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Subürbio</fo:inline>
+            
+            <fo:inline>nas</fo:inline>
+            
+            <fo:inline>Linhas</fo:inline>
+            
+            <fo:inline>Paralelas</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Proposta</fo:inline>
+            
+            <fo:inline>1.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Arquivo</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Sentimentos</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Proposta</fo:inline>
+            
+            <fo:inline>2.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Coloquemo-nos</fo:inline>
+            
+            <fo:inline>no</fo:inline>
+            
+            <fo:inline>Mesmo</fo:inline>
+            
+            <fo:inline>Pé</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Igualdade</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Proposta</fo:inline>
+            
+            <fo:inline>3.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Olhe</fo:inline>
+            
+            <fo:inline>para</fo:inline>
+            
+            <fo:inline>Ele</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Proposta</fo:inline>
+            
+            <fo:inline>4.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Na</fo:inline>
+            
+            <fo:inline>Presença</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>Corpo</fo:inline>
+            
+            <fo:inline>nem</fo:inline>
+            
+            <fo:inline>Tudo</fo:inline>
+            
+            <fo:inline>se</fo:inline>
+            
+            <fo:inline>Mostra</fo:inline>
+            
+            <fo:inline>-</fo:inline>
+            
+            <fo:inline>Proposta</fo:inline>
+            
+            <fo:inline>5.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>OEspaço</fo:inline>
+            
+            <fo:inline>do</fo:inline>
+            
+            <fo:inline>Corpo</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>Vontade</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Proposta</fo:inline>
+            
+            <fo:inline>6.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Estas</fo:inline>
+            
+            <fo:inline>Cenas</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>Minhas</fo:inline>
+            
+            <fo:inline>Cadeiras</fo:inline>
+            
+            <fo:inline>nào</fo:inline>
+            
+            <fo:inline>Entendidas</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>PropoSta</fo:inline>
+            
+            <fo:inline>7.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">STEPANENKO,</fo:inline>
+            
+            <fo:inline font-weight="bold">Bobby</fo:inline>
+            
+            <fo:inline font-weight="bold">(1940</fo:inline>
+            
+            <fo:inline font-weight="bold">S.</fo:inline>
+            
+            <fo:inline font-weight="bold">Paulo)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">bp</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>1,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,80,</fo:inline>
+            
+            <fo:inline>chapas.</fo:inline>
+            
+            <fo:inline>4.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>II,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>35</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>35,</fo:inline>
+            
+            <fo:inline>chapas.</fo:inline>
+            
+            <fo:inline>3.500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>40,</fo:inline>
+            
+            <fo:inline>chapas.</fo:inline>
+            
+            <fo:inline>2.300,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>IV,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>40,</fo:inline>
+            
+            <fo:inline>chapas</fo:inline>
+            
+            <fo:inline>2.300,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>56</fo:inline>
+          </fo:block>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>

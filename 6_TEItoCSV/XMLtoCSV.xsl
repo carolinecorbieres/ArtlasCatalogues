@@ -9,38 +9,81 @@
 
     <!-- column's names -->
     <xsl:variable name="fieldArray">
-        <field>name</field>
-        <field>trait</field>
-        <field>surname</field>
-        <field>forename</field>
-        <field>biographical description</field>
-        <field>birth</field>
-        <field>birth adress</field>
-        <field>death</field>
-        <field>death adress</field>
-        <field>sex</field>
-        <field>group</field>
-        <field>master</field>
-        <field>nationality</field>
-        <field>biography</field>
-        <field>adress</field>
-        <field>notes</field>
-        <field>num</field>
-        <field>title</field>
-        <field>subtitle</field>
-        <field>desc</field>
-        <field>medium</field>
-        <field>category</field>
-        <field>dimensions</field>
-        <field>room</field>
-        <field>catalogue chapter</field>
-        <field>price</field>
-        <field>owner</field>
-        <field>owner adress</field>
-        <field>date</field>
-        <field>design adress</field>
-        <field>reproduction in the catalogue ?</field>
-        <field>notes</field>
+        <field>Last name of the artist</field>
+        <field>First name of the artist</field>
+        <field>Sex of the artist (F/M/FM/empty)</field>
+        <field>Membership in movement, if applicable</field>
+        <field>Biographical elements</field>
+        <field>Detailed address of the artist, as it appears in the catalogue</field>
+        <field>Country of the artist</field>
+        <field>State of the artist</field>
+        <field>City of the artist</field>
+        <field>Street number of the artist's address</field>
+        <field>Street name of the artist's address</field>
+        <field>Floor level of the artist's address</field>
+        <field>Local address of the artist</field>
+        <field>Additional information on the artist's address</field>
+        <field>Address as it appears in the catalogue</field>
+        <field>Country of the artist 2</field>
+        <field>State of the artist 2</field>
+        <field>City of the artist 2</field>
+        <field>Street number of the artist's address 2</field>
+        <field>Street name of the artist's address 2</field>
+        <field>Floor level of the artist's address 2</field>
+        <field>Local address of the artist 2</field>
+        <field>Additional information on the artist's address 2</field>
+        <field>Artist's nationality</field>
+        <field>Student of</field>
+        <field>Birth year</field>
+        <field>Month of birth</field>
+        <field>Day of birth</field>
+        <field>Detailed birth address of the artist, as it appears in the catalogue</field>
+        <field>Country of birth</field>
+        <field>State of birth</field>
+        <field>City of birth</field>
+        <field>Street number of the birth address</field>
+        <field>Street name of the birth address</field>
+        <field>Floor level of the birth address</field>
+        <field>Local address of birth</field>
+        <field>Additional information on the birth address</field>
+        <field>Year of death</field>
+        <field>Month of death</field>
+        <field>Day of death</field>
+        <field>Detailed death address of the artist, as it appears in the catalogue</field>
+        <field>Country of death</field>
+        <field>State of death</field>
+        <field>City of death</field>
+        <field>Street number of the death address</field>
+        <field>Street name of the death address</field>
+        <field>Floor level of the death address</field>
+        <field>Local address of death</field>
+        <field>Additional information on the death address</field>
+        <field>Notes</field>
+        <!-- Artwork -->
+        <field>Number</field>
+        <field>Title of artwork</field>
+        <field>Subtitle</field>
+        <field>Translated title</field>
+        <field>Start year of creation</field>
+        <field>Start month of creation</field>
+        <field>Start day of creation</field>
+        <field>End year of creation</field>
+        <field>End month of creation</field>
+        <field>End day of creation</field>
+        <field>Country of creation</field>
+        <field>State of creation</field>
+        <field>City of creation</field>
+        <field>Dimensions</field>
+        <field>Categories</field>
+        <field>Medium</field>
+        <field>Room</field>
+        <field>Chapter of the catalogue ?</field>
+        <field>Price</field>
+        <field>Location/Owner</field>
+        <field>Owner's country</field>
+        <field>Owner's state</field>
+        <field>Owner's city</field>
+        <field>Notes</field>
     </xsl:variable>
 
     <xsl:param name="fields" select="document('')/*/xsl:variable[@name = 'fieldArray']/*"/>
@@ -63,21 +106,15 @@
 
     <xsl:template match="item">
         <xsl:value-of select="preceding-sibling::desc/name/text()"/>
-        <xsl:text>; </xsl:text>
+        <xsl:text>; ; ; ; </xsl:text>
         <xsl:value-of select="preceding-sibling::desc/trait/p/text()"/>
-        
-        <xsl:variable name="currNode" select="."/>
-
-        <!--   output the data row -->
-        <!-- loop over the field names and find the value of each one in the xml -->
-        <xsl:for-each select="$fields">
-            <xsl:value-of select="$currNode/*[name() = current()]"/>
-            <xsl:if test="position() != 1">
-                <xsl:value-of select="$delimiter"/>
-            </xsl:if>
-            <xsl:text> </xsl:text>
-        </xsl:for-each>
-
+        <xsl:text>; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;</xsl:text>
+        <xsl:value-of select="num/text()"/>
+        <xsl:value-of select="$delimiter"/>
+        <xsl:value-of select="title/text()"/>
+        <xsl:value-of select="$delimiter"/>
+        <xsl:value-of select="desc/text()"/>
+        <xsl:text>; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;</xsl:text>
         <!-- output newline -->
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>

@@ -1,0 +1,70 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1972-0106.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-21T11:18:24.678+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4609" WIDTH="3548">
+      <PrintSpace HEIGHT="398" WIDTH="1214" VPOS="2090" HPOS="1186">
+        <TextBlock ID="r_1_1" HEIGHT="273" WIDTH="1199" VPOS="2098" HPOS="1193">
+          <TextLine ID="tl_1" BASELINE="2147" HEIGHT="57" WIDTH="773" VPOS="2090" HPOS="1409">
+            <String HEIGHT="57" WIDTH="453" VPOS="2090" HPOS="1382" CONTENT="Composiçâo" ID="tl_1_1" STYLEREFS="FONT1"/>
+            <SP HEIGHT="57" WIDTH="27" VPOS="2090" HPOS="1835"/>
+            <String HEIGHT="57" WIDTH="133" VPOS="2090" HPOS="1756" CONTENT="e" ID="tl_1_2" STYLEREFS="FONT1"/>
+            <SP HEIGHT="57" WIDTH="27" VPOS="2090" HPOS="1889"/>
+            <String HEIGHT="57" WIDTH="400" VPOS="2090" HPOS="1782" CONTENT="lmpressao" ID="tl_1_3" STYLEREFS="FONT1"/>
+          </TextLine>
+          <TextLine ID="tl_2" BASELINE="2259" HEIGHT="56" WIDTH="698" VPOS="2203" HPOS="1444">
+            <String HEIGHT="56" WIDTH="493" VPOS="2203" HPOS="1403" CONTENT="&gt;GRAFICA" ID="tl_2_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="56" WIDTH="41" VPOS="2203" HPOS="1896"/>
+            <String HEIGHT="56" WIDTH="287" VPOS="2203" HPOS="1772" CONTENT="SAO" ID="tl_2_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="56" WIDTH="41" VPOS="2203" HPOS="2060"/>
+            <String HEIGHT="56" WIDTH="246" VPOS="2203" HPOS="1896" CONTENT="JOSZ" ID="tl_2_3" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="tl_3" BASELINE="2371" HEIGHT="58" WIDTH="1211" VPOS="2313" HPOS="1187">
+            <String HEIGHT="58" WIDTH="191" VPOS="2313" HPOS="1155" CONTENT="R." ID="tl_3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="32" VPOS="2313" HPOS="1346"/>
+            <String HEIGHT="58" WIDTH="319" VPOS="2313" HPOS="1251" CONTENT="Galvio" ID="tl_3_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="32" VPOS="2313" HPOS="1569"/>
+            <String HEIGHT="58" WIDTH="319" VPOS="2313" HPOS="1474" CONTENT="Bueno," ID="tl_3_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="32" VPOS="2313" HPOS="1793"/>
+            <String HEIGHT="58" WIDTH="223" VPOS="2313" HPOS="1697" CONTENT="230" ID="tl_3_4" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="32" VPOS="2313" HPOS="1920"/>
+            <String HEIGHT="58" WIDTH="159" VPOS="2313" HPOS="1824" CONTENT="—" ID="tl_3_5" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="32" VPOS="2313" HPOS="1984"/>
+            <String HEIGHT="58" WIDTH="287" VPOS="2313" HPOS="1888" CONTENT="Fone:" ID="tl_3_6" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="32" VPOS="2313" HPOS="2175"/>
+            <String HEIGHT="58" WIDTH="351" VPOS="2313" HPOS="2047" CONTENT="278" ID="tl_3_7" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_1" HEIGHT="46" WIDTH="551" VPOS="2435" HPOS="1517">
+          <TextLine ID="tl_4" BASELINE="2485" HEIGHT="58" WIDTH="565" VPOS="2427" HPOS="1510">
+            <String HEIGHT="58" WIDTH="388" VPOS="2427" HPOS="1475" CONTENT="CAPITAL" ID="tl_4_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="35" VPOS="2427" HPOS="1863"/>
+            <String HEIGHT="58" WIDTH="177" VPOS="2427" HPOS="1757" CONTENT="—" ID="tl_4_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="58" WIDTH="35" VPOS="2427" HPOS="1934"/>
+            <String HEIGHT="58" WIDTH="283" VPOS="2427" HPOS="1793" CONTENT="S.P&lt;/." ID="tl_4_3" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,83 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1972-0003.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-21T11:17:52.99+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4609" WIDTH="3548">
+      <PrintSpace HEIGHT="3148" WIDTH="1428" VPOS="720" HPOS="1092">
+        <TextBlock ID="r_1_1" HEIGHT="590" WIDTH="1210" VPOS="744" HPOS="1170">
+          <TextLine ID="tl_1" BASELINE="868" HEIGHT="129" WIDTH="1051" VPOS="739" HPOS="1327">
+            <String HEIGHT="129" WIDTH="751" VPOS="739" HPOS="1252" CONTENT="Mostra" ID="tl_1_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="129" WIDTH="75" VPOS="739" HPOS="2003"/>
+            <String HEIGHT="129" WIDTH="450" VPOS="739" HPOS="1777" CONTENT="de" ID="tl_1_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="129" WIDTH="75" VPOS="739" HPOS="2228"/>
+            <String HEIGHT="129" WIDTH="450" VPOS="739" HPOS="1928" CONTENT="Arte" ID="tl_1_3" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="tl_2" BASELINE="1116" HEIGHT="161" WIDTH="1131" VPOS="955" HPOS="1255">
+            <String HEIGHT="161" WIDTH="1229" VPOS="955" HPOS="1157" CONTENT="Sesquicentendrio" ID="tl_2_1" STYLEREFS="FONT1"/>
+          </TextLine>
+          <TextLine ID="tl_3" BASELINE="1339" HEIGHT="161" WIDTH="1217" VPOS="1178" HPOS="1163">
+            <String HEIGHT="161" WIDTH="456" VPOS="1178" HPOS="1087" CONTENT="da" ID="tl_3_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="161" WIDTH="76" VPOS="1178" HPOS="1543"/>
+            <String HEIGHT="161" WIDTH="1141" VPOS="1178" HPOS="1239" CONTENT="Independenciq" ID="tl_3_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_1_2" HEIGHT="122" WIDTH="1162" VPOS="1780" HPOS="1220">
+          <TextLine ID="tl_4" BASELINE="1901" HEIGHT="130" WIDTH="1175" VPOS="1771" HPOS="1213">
+            <String HEIGHT="130" WIDTH="653" VPOS="1771" HPOS="1148" CONTENT="Brasil" ID="tl_4_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="130" WIDTH="65" VPOS="1771" HPOS="1801"/>
+            <String HEIGHT="130" WIDTH="849" VPOS="1771" HPOS="1539" CONTENT="Plastica" ID="tl_4_2" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_1_3" HEIGHT="238" WIDTH="906" VPOS="2406" HPOS="1476">
+          <TextLine ID="tl_5" BASELINE="2501" HEIGHT="106" WIDTH="441" VPOS="2395" HPOS="1945">
+            <String HEIGHT="106" WIDTH="551" VPOS="2395" HPOS="1835" CONTENT="Fundaçâo" ID="tl_5_1" STYLEREFS="FONT0"/>
+          </TextLine>
+          <TextLine ID="tl_6" BASELINE="2651" HEIGHT="98" WIDTH="921" VPOS="2553" HPOS="1468">
+            <String HEIGHT="98" WIDTH="485" VPOS="2553" HPOS="1420" CONTENT="Bienal" ID="tl_6_1" STYLEREFS="FONT0"/>
+            <SP HEIGHT="98" WIDTH="48" VPOS="2553" HPOS="1904"/>
+            <String HEIGHT="98" WIDTH="291" VPOS="2553" HPOS="1759" CONTENT="de" ID="tl_6_2" STYLEREFS="FONT0"/>
+            <SP HEIGHT="98" WIDTH="48" VPOS="2553" HPOS="2050"/>
+            <String HEIGHT="98" WIDTH="339" VPOS="2553" HPOS="1904" CONTENT="São" ID="tl_6_3" STYLEREFS="FONT0"/>
+            <SP HEIGHT="98" WIDTH="48" VPOS="2553" HPOS="2244"/>
+            <String HEIGHT="98" WIDTH="339" VPOS="2553" HPOS="2050" CONTENT="Paulo" ID="tl_6_4" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_2_1" HEIGHT="84" WIDTH="570" VPOS="3100" HPOS="1808">
+          <TextLine ID="tl_7" BASELINE="3191" HEIGHT="100" WIDTH="582" VPOS="3091" HPOS="1802">
+            <String HEIGHT="100" WIDTH="728" VPOS="3091" HPOS="1657" CONTENT="CATALOGO" ID="tl_7_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r_3_1" HEIGHT="86" WIDTH="138" VPOS="3398" HPOS="1138">
+          <TextLine ID="tl_8" BASELINE="3491" HEIGHT="103" WIDTH="152" VPOS="3388" HPOS="1132">
+            <String HEIGHT="103" WIDTH="304" VPOS="3388" HPOS="980" CONTENT="FE" ID="tl_8_1" STYLEREFS="FONT0"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="r_7" HEIGHT="20" WIDTH="368" VPOS="3344" HPOS="2152"/>
+        <GraphicalElement ID="r_8" HEIGHT="12" WIDTH="332" VPOS="3348" HPOS="1092"/>
+        <GraphicalElement ID="r_9" HEIGHT="12" WIDTH="412" VPOS="3848" HPOS="1452"/>
+        <GraphicalElement ID="r_10" HEIGHT="508" WIDTH="12" VPOS="3348" HPOS="1092"/>
+        <Illustration ID="r_6" HEIGHT="216" WIDTH="636" VPOS="3652" HPOS="1880"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

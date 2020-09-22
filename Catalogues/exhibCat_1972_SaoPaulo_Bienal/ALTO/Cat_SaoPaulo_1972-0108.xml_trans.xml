@@ -1,0 +1,32 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+         <fileName>Cat_SaoPaulo_1972-0108.xml</fileName>
+      </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2020-09-21T11:18:25.122+02:00</processingDateTime>
+        <processingSoftware>
+               <softwareCreator>CONTRIBUTORS</softwareCreator>
+               <softwareName>pdfalto</softwareName>
+               <softwareVersion>0.1</softwareVersion>
+            </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+     <TextStyle ID="FONT0" FONTSTYLE=""/>
+     <TextStyle ID="FONT1" FONTSTYLE="bold"/>
+     <TextStyle ID="FONT2" FONTSTYLE="italics"/>
+</Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4609" WIDTH="3548">
+      <PrintSpace HEIGHT="4258" WIDTH="3144" VPOS="176" HPOS="202">
+        <Illustration ID="r_1" HEIGHT="4258" WIDTH="3144" VPOS="176" HPOS="202"/>
+        <Illustration ID="r_2" HEIGHT="4258" WIDTH="3144" VPOS="176" HPOS="202"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

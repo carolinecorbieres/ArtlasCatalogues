@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">SUZUKI,</fo:inline>
+            
+            <fo:inline font-weight="bold">Yukio</fo:inline>
+            
+            <fo:inline font-weight="bold">(1926</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Sendai.</fo:inline>
+            
+            <fo:inline font-weight="bold">Japao)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">bp</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Caso</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Fernand</fo:inline>
+            
+            <fo:inline>Karasawa</fo:inline>
+            
+            <fo:inline>n.0</fo:inline>
+            
+            <fo:inline>1,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,30</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>1,</fo:inline>
+            
+            <fo:inline>15.</fo:inline>
+            
+            <fo:inline>4.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Caso</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Fernand</fo:inline>
+            
+            <fo:inline>Karasawa</fo:inline>
+            
+            <fo:inline>n.0</fo:inline>
+            
+            <fo:inline>2,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,30</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>1,15.</fo:inline>
+            
+            <fo:inline>4.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Caso</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Fernand</fo:inline>
+            
+            <fo:inline>Karasawa</fo:inline>
+            
+            <fo:inline>n.°</fo:inline>
+            
+            <fo:inline>3,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,30</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>1,15.</fo:inline>
+            
+            <fo:inline>4.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Caso</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Fernand</fo:inline>
+            
+            <fo:inline>Karasawa</fo:inline>
+            
+            <fo:inline>n.0</fo:inline>
+            
+            <fo:inline>4,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1</fo:inline>
+            
+            <fo:inline>50</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>50.</fo:inline>
+            
+            <fo:inline>4.000,00</fo:inline>
+            
+            <fo:inline>(2</fo:inline>
+            
+            <fo:inline>peças)</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">TOLEDO,</fo:inline>
+            
+            <fo:inline font-weight="bold">Nely</fo:inline>
+            
+            <fo:inline font-weight="bold">(1930</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Botucatu)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">masifbp</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Brasiliana</fo:inline>
+            
+            <fo:inline>II,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>52</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>70,</fo:inline>
+            
+            <fo:inline>colagem</fo:inline>
+            
+            <fo:inline>5.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Brasiliana</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>52</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>70,</fo:inline>
+            
+            <fo:inline>colagem</fo:inline>
+            
+            <fo:inline>5.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Spacial</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>70</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>63,</fo:inline>
+            
+            <fo:inline>colagem</fo:inline>
+            
+            <fo:inline>3.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Spacial</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>70</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>63,</fo:inline>
+            
+            <fo:inline>colagem</fo:inline>
+            
+            <fo:inline>3.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Spacial</fo:inline>
+            
+            <fo:inline>X,</fo:inline>
+            
+            <fo:inline>1972,</fo:inline>
+            
+            <fo:inline>70</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>63,</fo:inline>
+            
+            <fo:inline>colagem</fo:inline>
+            
+            <fo:inline>3.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">VALLAURI</fo:inline>
+            
+            <fo:inline font-weight="bold">Alex</fo:inline>
+            
+            <fo:inline font-weight="bold">(1949-Asmaro</fo:inline>
+            
+            <fo:inline font-weight="bold">(Ethipia)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">masifbp</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Peça</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>mista.</fo:inline>
+            
+            <fo:inline>700,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Peça</fo:inline>
+            
+            <fo:inline>II,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>mista.</fo:inline>
+            
+            <fo:inline>70000</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Peça</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>mista.</fo:inline>
+            
+            <fo:inline>700,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Peça</fo:inline>
+            
+            <fo:inline>IV,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>mista.</fo:inline>
+            
+            <fo:inline>700,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Peça</fo:inline>
+            
+            <fo:inline>V,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>mista.</fo:inline>
+            
+            <fo:inline>700,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">VAZ,</fo:inline>
+            
+            <fo:inline font-weight="bold">Carmo</fo:inline>
+            
+            <fo:inline font-weight="bold">1953</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">S.</fo:inline>
+            
+            <fo:inline font-weight="bold">Paulo)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">masi</fo:inline>
+            
+            <fo:inline font-weight="bold">72</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Harmonia</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>1,00</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>68,</fo:inline>
+            
+            <fo:inline>gravura.</fo:inline>
+            
+            <fo:inline>3.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Harmonia</fo:inline>
+            
+            <fo:inline>III,</fo:inline>
+            
+            <fo:inline>1,00</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>68,</fo:inline>
+            
+            <fo:inline>gravura.</fo:inline>
+            
+            <fo:inline>3.000,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Instante</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,00</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>65,</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>2.500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Instante</fo:inline>
+            
+            <fo:inline>II,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,00</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>65,</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>2.500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Instante</fo:inline>
+            
+            <fo:inline>V,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,00</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>65,</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>2.500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">VERDE,</fo:inline>
+            
+            <fo:inline font-weight="bold">Celina</fo:inline>
+            
+            <fo:inline font-weight="bold">Lima</fo:inline>
+            
+            <fo:inline font-weight="bold">(1940</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">Fortaleza)</fo:inline>
+            
+            <fo:inline font-weight="bold">—</fo:inline>
+            
+            <fo:inline font-weight="bold">bp172</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Desenho</fo:inline>
+            
+            <fo:inline>I,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,00</fo:inline>
+            
+            <fo:inline>X</fo:inline>
+            
+            <fo:inline>75,</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>1.500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Desenho</fo:inline>
+            
+            <fo:inline>2,</fo:inline>
+            
+            <fo:inline>72,</fo:inline>
+            
+            <fo:inline>1,00</fo:inline>
+            
+            <fo:inline>x</fo:inline>
+            
+            <fo:inline>75,</fo:inline>
+            
+            <fo:inline>desenho</fo:inline>
+            
+            <fo:inline>1.500,00</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>57</fo:inline>
+          </fo:block>
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>
