@@ -10,6 +10,96 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>Catalogues/exhibCat_1923_Paris_SocieteArtistesIndependants/TEI/exhibCat_1923_Paris_SocieteArtistesIndependants.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>XMLtoCSV</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Sans_titre1_body.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Sans_titre1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>transformGROBIDoutput1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1895_Venezia_EsposizioneInternazionale/FO/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>XEP_PDF</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Catalogues/exhibCat_1895_Venezia_EsposizioneInternazionale/ALTO/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ALTO_to_FO</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>6_TEItoCSV/XMLtoCSV.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ALTO_to_FO</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>Catalogues/exhibCat_1890_Paris_SocieteArtistesIndependants/TEI/exhibCat_1890_Paris_SocieteArtistesIndependants.xml</String>
                                 </field>
                                 <field name="scenarioIds">

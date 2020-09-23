@@ -18,7 +18,7 @@
     <xsl:template match="TEI">
         <xsl:copy>
             <!-- Fill the name of the catalogue into <xsl:attribute name="xml:id"> tags -->
-            <xsl:attribute name="xml:id">exhibCat_NAME_OF_THE_CATALOGUE</xsl:attribute>
+            <xsl:attribute name="xml:id">exhibCat_1923_Paris_SocieteArtistesIndependants</xsl:attribute>
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
@@ -28,9 +28,9 @@
         <xsl:element name="teiHeader">
             <!-- complete the path of the header file : ../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml -->
             <xsl:copy-of
-                select="document('../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml')/TEI/teiHeader/fileDesc"/>
+                select="document('../../Catalogues/exhibCat_1923_Paris_SocieteArtistesIndependants/TEI/exhibCat_1923_Paris_SocieteArtistesIndependants_header.xml')/TEI/teiHeader/fileDesc"/>
             <xsl:copy-of
-                select="document('../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml')/TEI/teiHeader/profileDesc"/>
+                select="document('../../Catalogues/exhibCat_1923_Paris_SocieteArtistesIndependants/TEI/exhibCat_1923_Paris_SocieteArtistesIndependants_header.xml')/TEI/teiHeader/profileDesc"/>
             <encodingDesc>
                 <samplingDecl>
                     <p>This electronic version of the catalog only reproduces the entries that
@@ -51,7 +51,7 @@
             </encodingDesc>
             <!-- complete the path of the header file : ../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml -->
             <xsl:copy-of
-                select="document('../../Catalogues/NAME_OF_THE_FOLDER/TEI/NAME_OF_THE_CATALOGUE_header.xml')/TEI/teiHeader/revisionDesc"/>
+                select="document('../../Catalogues/exhibCat_1923_Paris_SocieteArtistesIndependants/TEI/exhibCat_1923_Paris_SocieteArtistesIndependants_header.xml')/TEI/teiHeader/revisionDesc"/>
         </xsl:element>
     </xsl:template>
 

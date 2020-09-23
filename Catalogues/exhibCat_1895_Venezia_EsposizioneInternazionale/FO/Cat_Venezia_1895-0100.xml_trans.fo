@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xd="http://www.pnp-software.com/XSLTdoc"><fo:layout-master-set><fo:simple-page-master master-name="single-doc" page-height="29.7cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm"><fo:region-body/><fo:region-after extent="12pt" padding-top="2cm"/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="single-doc" initial-page-number="1"><fo:static-content flow-name="rest-region-before-recto"/><fo:static-content flow-name="xsl-region-after"><fo:block text-align="left" font-family="Times" font-size="8pt" font-style="normal" margin-top="15pt">Mise en forme du PDF grâce à <fo:basic-link external-destination="http://www.renderx.com" color="blue">RenderX XEP Engine</fo:basic-link></fo:block></fo:static-content><fo:flow flow-name="xsl-region-body" font-family="Times" font-weight="normal" font-size="10pt" space-before="5pt" space-after="5pt" end-indent="120pt">
+  
+  
+     
+     
+     
+
+  
+  
+    
+      
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>SALA</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Puvis</fo:inline>
+            
+            <fo:inline>de</fo:inline>
+            
+            <fo:inline>Chavannes,</fo:inline>
+            
+            <fo:inline>Pasteur,</fo:inline>
+            
+            <fo:inline>Carnot</fo:inline>
+            
+            <fo:inline>ed</fo:inline>
+            
+            <fo:inline>altri</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>molti,</fo:inline>
+            
+            <fo:inline>posarono</fo:inline>
+            
+            <fo:inline>dinnanzi</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>lui</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">38</fo:inline>
+            
+            <fo:inline font-style="italic">Ritratto</fo:inline>
+            
+            <fo:inline font-style="italic">di</fo:inline>
+            
+            <fo:inline font-style="italic">A.</fo:inline>
+            
+            <fo:inline font-style="italic">Mézières</fo:inline>
+            
+            <fo:inline font-style="italic">dell</fo:inline>
+            
+            <fo:inline font-style="italic">Accademia</fo:inline>
+            
+            <fo:inline>H</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-style="italic">francese</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Borsa</fo:inline>
+            
+            <fo:inline>Emilio.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Paesista,</fo:inline>
+            
+            <fo:inline>pittore</fo:inline>
+            
+            <fo:inline>di</fo:inline>
+            
+            <fo:inline>genere,</fo:inline>
+            
+            <fo:inline>ri</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>trattista;</fo:inline>
+            
+            <fo:inline>n.</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>Milano,</fo:inline>
+            
+            <fo:inline>vive</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>Monza.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">39</fo:inline>
+            
+            <fo:inline font-style="italic">Novembre</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Bortoluzzi</fo:inline>
+            
+            <fo:inline>Millo.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>Paesista,</fo:inline>
+            
+            <fo:inline>n.</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>Treviso</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>nel</fo:inline>
+            
+            <fo:inline>1868,</fo:inline>
+            
+            <fo:inline>frequentô</fo:inline>
+            
+            <fo:inline>per</fo:inline>
+            
+            <fo:inline>soli</fo:inline>
+            
+            <fo:inline>due</fo:inline>
+            
+            <fo:inline>anni</fo:inline>
+            
+            <fo:inline>l’Accade</fo:inline>
+            
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>mia</fo:inline>
+            
+            <fo:inline>di</fo:inline>
+            
+            <fo:inline>Venezia,</fo:inline>
+            
+            <fo:inline>poi</fo:inline>
+            
+            <fo:inline>prese</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>studiare</fo:inline>
+            
+            <fo:inline>dal</fo:inline>
+            
+            <fo:inline>vero.</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Esordi</fo:inline>
+            
+            <fo:inline>nelle</fo:inline>
+            
+            <fo:inline>Esposizioni</fo:inline>
+            
+            <fo:inline>nazionali</fo:inline>
+            
+            <fo:inline>di</fo:inline>
+            
+            <fo:inline>Venezia</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>(1887)</fo:inline>
+            
+            <fo:inline>e</fo:inline>
+            
+            <fo:inline>di</fo:inline>
+            
+            <fo:inline>Bologna</fo:inline>
+            
+            <fo:inline>(1888).</fo:inline>
+            
+            <fo:inline>A</fo:inline>
+            
+            <fo:inline>Milano</fo:inline>
+            
+            <fo:inline>nel</fo:inline>
+            
+            <fo:inline>1891</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>riportô</fo:inline>
+            
+            <fo:inline>il</fo:inline>
+            
+            <fo:inline>premio</fo:inline>
+            
+            <fo:inline>Fumagalli.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">40</fo:inline>
+            
+            <fo:inline font-style="italic">Calma</fo:inline>
+            
+            <fo:inline>C</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Brancaccio</fo:inline>
+            
+            <fo:inline>Carlo.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>N.</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>Napoli,</fo:inline>
+            
+            <fo:inline>vive</fo:inline>
+            
+            <fo:inline>nella</fo:inline>
+            
+            <fo:inline>città</fo:inline>
+          </fo:block>
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>stessa.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">41</fo:inline>
+            
+            <fo:inline font-style="italic">Impressione</fo:inline>
+            
+            <fo:inline>G</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Brass</fo:inline>
+            
+            <fo:inline>Italico.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>N.</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>Gorizia,</fo:inline>
+            
+            <fo:inline>vive</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>Parigi.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">42</fo:inline>
+            
+            <fo:inline font-style="italic">Chioggiotti</fo:inline>
+            
+            <fo:inline font-style="italic">alla</fo:inline>
+            
+            <fo:inline font-style="italic">briscola</fo:inline>
+            
+            <fo:inline>C</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">Bricherasio</fo:inline>
+            
+            <fo:inline>(di)</fo:inline>
+            
+            <fo:inline>Sofia.</fo:inline>
+            
+            <fo:inline>—</fo:inline>
+            
+            <fo:inline>N.</fo:inline>
+            
+            <fo:inline>a</fo:inline>
+            
+            <fo:inline>Torino.</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline font-weight="bold">43</fo:inline>
+            
+            <fo:inline font-style="italic">Preludio</fo:inline>
+            
+            <fo:inline font-style="italic">autunnale</fo:inline>
+            
+            <fo:inline>C</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>Original</fo:inline>
+            
+            <fo:inline>from</fo:inline>
+          </fo:block>
+        
+        
+          <fo:block font-family="Times" font-weight="normal" line-height="12pt" line-stacking-strategy="font-height" font-size="10pt" space-before="5pt" space-after="5pt" text-align="justify" end-indent="120pt">
+            <fo:inline>UNIVERSITY</fo:inline>
+            
+            <fo:inline>OF</fo:inline>
+            
+            <fo:inline>MICHIGAN</fo:inline>
+          </fo:block>
+        
+        
+      
+    
+  
+</fo:flow></fo:page-sequence></fo:root>
