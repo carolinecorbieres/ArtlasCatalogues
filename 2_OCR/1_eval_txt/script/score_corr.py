@@ -6,7 +6,7 @@ import os
 ######### Processing the files from the command line #############
 
 # !! COMPLETE THE NAME OF THE CATALOGUE !!
-fichier = '../doc/exhibCat_1951_SaoPaulo_Bienal.txt'
+fichier = '../doc/exhibCat_1943_Paris_SocieteArtistesIndependants.txt'
 
 ######### Regexes ##############
 

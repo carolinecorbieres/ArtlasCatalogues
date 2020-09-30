@@ -18,7 +18,7 @@
     <xsl:template match="TEI">
         <xsl:copy>
             <!-- Fill the name of the catalogue into <xsl:attribute name="xml:id"> tags -->
-            <xsl:attribute name="xml:id">exhibCat_NAME_OF_THE_CATALOGUE</xsl:attribute>
+            <xsl:attribute name="xml:id">exhibCat_1943_Paris_SocieteArtistesIndependants</xsl:attribute>
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
