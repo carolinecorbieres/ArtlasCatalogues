@@ -30,7 +30,7 @@ If the entries of your exhibition catalogue are the same as the _Catalogue de la
 
 <p align="center"><img src="https://github.com/carolinecorbieres/ArtlasCatalogues/blob/master/images/GROBID-2.png" width="50%"></p>
 
-The train set contains extracted data from several catalogues of the _Biennale de Paris_ (1961, 1965). 
+The train set contains extracted data from several catalogues of the _Biennale de Paris_ (1961, 1965) and of the _Bienal di Museu de Arte Moderna de Sao Paulo_ (1951, 1972). 
 
 ## Encode a catalogue
 
